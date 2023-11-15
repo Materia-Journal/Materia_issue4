@@ -90,6 +90,7 @@
     "toml": "^3.0.0"
   },
   "dependencies": {
+    "@thegetty/quire-cli": "^1.0.0-rc.11",
     "bulma": "^0.9.3",
     "core-js": "2.5.0",
     "lit": "^2.4.0",
