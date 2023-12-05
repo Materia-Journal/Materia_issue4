@@ -1,5 +1,96 @@
 figure_list:
 
+  - id: "XXX-1"
+    label: "Fig. 1"
+    src: figures/trujillo-et-al/Fig-1-Trujillo_et_al.jpg
+    caption: "Examples of *tarocchi* cards from the Visconti-Sforza decks. Top row, left to right: Yale *Judgment*; Brera *Knight of Coins*; Morgan *Death* and *Temperance*; Carrara *Emperor*. Bottom row, left to right: Yale *Ace of Batons*; Brera *Ace of Staves*; Morgan *Ace of Staves*; and Carrara *Three of Staves*."
+    credit: 
+    alt: ""
+
+  - id: "XXX-2"
+    label: "Fig. 2"
+    src: figures/trujillo-et-al/Fig-2-Trujillo_et_al.jpg
+    caption: "Map showing the location of current project partners. At the onset of this research, Lydia Aikenhead was the Pine Tree Book Conservation Fellow at the Morgan Library & Museum; Federica Pozzi was an Associate Research Scientist at the Metropolitan Museum of Art, leading the NICS program; and Roxanne Radpour was the Andrew W. Mellon Fellow at the Metropolitan Museum of Art, Department of Scientific Research, subsequently holding a position as Charles E. Culpeper Fellow at the National Gallery of Art."
+    credit: 
+    alt: ""
+
+  - id: "XXX-3"
+    label: "Fig. 3"
+    src: figures/trujillo-et-al/Fig-3-Trujillo_et_al.jpg
+    caption: "A timeline graphically illustrating the international and collaborative nature of the *tarocchi* project. The collections that are caretakers of the three *tarocchi* decks and the institutions that are providing scientific analysis of the cards are shown along with seminal events that highlight the complex nature of the research program."
+    credit: 
+    alt: ""
+
+  - id: "XXX-4"
+    label: "Fig. 4"
+    src: figures/trujillo-et-al/Fig-4-Trujillo_et_al.jpg
+    caption: "Photos showing Team *Tarocchi* in action. Top left: Federica Pozzi, Frank Trujillo, Lydia Aikenhead, and Marie-France Lemay discussing the analytical campaign during a visit to the CCR “La Venaria Reale” in April 2022. Bottom left: Frank positions a Morgan *tarocchi* card for analysis using the M6 scanning XRF instrument at IPCH in April 2021. Right: Federica, Lydia, Marie-France, Elena Basso, Michele Gironda, and Alessandro Tocchio set up the Bruker IRIS system in the CCR laboratories for scanning a group of cards from the Accademia Carrara."
+    credit: 
+    alt: ""
+
+  - id: "XXX-5"
+    label: "Fig. 5"
+    src: figures/trujillo-et-al/Fig-5-Trujillo_et_al.jpg
+    caption: "[A] Yale *Male Page of Cups*: bare paper on verso of card. [B] Carrara *Page of Swords*: verso of card painted with sappanwood pigment. [C] Yale *Ace of Batons*: micrograph of the edge of the card showing the layered structure. [D] Morgan *Ace of Staves*: micrograph of the edge of the card showing the layered structure."
+    credit: 
+    alt: ""
+
+  - id: "XXX-6"
+    label: "Fig. 6"
+    src: figures/trujillo-et-al/Fig-6-Trujillo_et_al.jpg
+    caption: "Recto and verso views of the Yale *Charity* card showing the location of the watermark. [A] Digital tracing of the *Charity* card watermark. [B] Watermark 2642, Reggio Emilia, 1439, from Charles-Moïse Briquet, *Les Filigranes: Dictionnaire historique des marques du papier* . . . (Leipzig: K.W. Hiersemann, 1907), 191, 2636-2647.  [C], [D], [E], [F] Watermark 520, Ferrara, 1441; watermark 521, Udine, 1437; watermark 590, Ferrara, 1441; watermark 591, Ferrara/Venezia, 1440/1441; from Piccard’s *Wasserzeichen Fabeltiere: Greif, Drache, Einhorn*. [G], [H] Twin watermarks: watermark G (AT4000-636_235, https://www.wzma.at/1663); watermark H (AT4000-636_239, https://www.wzma.at/1664), 1441–1442; folios 235 and 239 of Codex 636 (University and State Library, Innsbruck)."
+    credit: 
+    alt: ""
+
+  - id: "XXX-7"
+    label: "Fig. 7"
+    src: figures/trujillo-et-al/Fig-7-Trujillo_et_al.jpg
+    caption: "Top row: Morgan *King of Coins*. Bottom row: Morgan *The Last Judgment*. From left to right: visible light photography, gamma enhanced scanning XRF elemental maps showing the distribution of lead (Pb Lα) and iron (Fe Kα), and raking light photographs obtained from reflectance transformation imaging (RTI). These images illustrate, from left to right, the evolution of the composition starting with a loose underdrawing executed with a lead-containing metal point (faint white lines in the lead maps), followed by incised lines setting the contours of figures in the support prior to the application of bole (red lines on the iron maps), and the final, elaborate decorative tooling after gilding (blue lines on the raking light images)."
+    credit: 
+    alt: ""
+
+  - id: "XXX-8"
+    label: "Fig. 8"
+    src: figures/trujillo-et-al/Fig-8-Trujillo_et_al.jpg
+    caption: "Morgan *Love*, with a close-up of the Cupid figure where the losses in the paint layer reveal the paper support, the iron gall ink underdrawing, and the red bole applied up to and at times beyond the edges of the figure."
+    credit: 
+    alt: ""
+
+  - id: "XXX-9"
+    label: "Fig. 9"
+    src: figures/trujillo-et-al/Fig-9-Trujillo_et_al.jpg
+    caption: "Comparison of the gold (Au Lα) and silver (Ag Lα) XRF elemental distribution maps of six corresponding trump and court cards from the Morgan (top two rows) and from Yale (bottom two rows). From left to right: *Empress*, *Love*, *Death*, *The Last Judgment/Judgement*, *Page of Cups*, and *King of Coins*."
+    credit: 
+    alt: ""
+
+  - id: "XXX-10"
+    label: "Fig. 10"
+    src: figures/trujillo-et-al/Fig-10-Trujillo_et_al.jpg
+    caption: "Comparison of the gold leaf on the Yale *Male Page of Cups* with the *oro di metà* on the Morgan *Page of Cups*, showing for the latter a darker tone due to tarnishing of the silver over time."
+    credit: 
+    alt: ""
+
+  - id: "XXX-11"
+    label: "Fig. 11"
+    src: figures/trujillo-et-al/Fig-11-Trujillo_et_al.jpg
+    caption: "Comparison of XRF elemental distribution maps for eight elements commonly encountered on pip cards of all three *tarocchi* decks. Top row: Brera *Ace of Coins*. Middle row: Carrara *Ace of Coins*. Bottom row: Yale *Ace of Coins*. The first two cards were imaged using the Bruker IRIS system, while maps for the Yale pip cards were obtained using a Bruker M6 scanning XRF unit."
+    credit: 
+    alt: ""
+
+  - id: "XXX-12"
+    label: "Fig. 12"
+    src: figures/trujillo-et-al/Fig-12-Trujillo_et_al.jpg
+    caption: "Comparison of tooling and glazes on the three *tarocchi* decks in the study. Top row: Yale deck. Second row: Morgan deck. Third row: Carrara deck. Bottom row: Brera deck."
+    credit: 
+    alt: ""
+
+  - id: "XXX-13"
+    label: "Fig. 13"
+    src: figures/trujillo-et-al/Fig-13-Trujillo_et_al.jpg
+    caption: "Classification maps of the painting materials used in two representative cards, as obtained from the analysis of RIS cubes. The maps show, with false colors, pigment distribution throughout the image scene recorded by the imaging system. Left: pigment classification map of the Morgan *King of Staves*, showing the distribution of materials such as, but not limited to, azurite (blue), red lake (maroon), lead tin yellow (yellow), smalt (light blue), vermilion (red), folium (purple), ochers, and copper-based greens. This data was collected using a VNIR (400-1000 nm) sCMOS hyperspectral camera at the Met. Right: pigment classification map of the Carrara *Three of Staves*, which also contains azurite (blue), red lake (maroon), and vermilion (red), but additionally features multiple green tones, along with an organic yellow (light yellow) that forms the inner border. This data was collected using a Bruker IRIS hyperspectral system, whose range goes up to 2500 nm, providing access to key vibrational features that include pigment, binding media, and substrate features."
+    credit: 
+    alt: ""
+
   - id: "1-1"
     label: "Fig. 1"
     src: figures/bosselmann/fig-1-bosselmann-ruickbie.jpg
