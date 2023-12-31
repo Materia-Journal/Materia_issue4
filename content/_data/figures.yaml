@@ -675,43 +675,139 @@ figure_list:
 
   - id: "5-1"
     label: "Fig. 1"
-    src: figures/interviews/fig-1-interviews.jpg
-    caption: "Sam Hodge, *Carboniferous 10*, coal pigment in gum arabic on Arches paper, with collage of coal pigment and acrylic medium on Japanese tissue, 2021, 39 x 29 cm."
-    alt: 
+    src: figures/Grison/fig-1-grison_et_al.jpg
+    caption: "Fig. 1 Portrait of Alfred-Napoléon Delaunois in *L'Art belge*, 31 January 1921."
+    alt: "Black and white photograph of the painter Alfred-Napoléon Delaunois posing in his studio, with painting materials nearby."
 
-  - id: "5-2"
+  - id: "5-2a"
     label: "Fig. 2"
-    src: figures/interviews/fig-2-interviews.jpg
-    caption: "Sam Hodge, *Exchange*, coal dust and acrylic medium on Japanese tissue, 2021, 81 x 117cm."
+    src: figures/Grison/fig-2-grison_et_al.jpg
+    caption: "Alfred-Napoléon Delaunois, *Vision de Moine*, 1897, pastel, black and red crayon or chalk, watercolour, gouache, oil paint, and metal leaf, on toned paper, laid down on grey cardboard, 670 x 480 mm; M Leuven, inv. no. G/968/D (even illumination photography; recto and verso)."
+    alt: "An artwork in pastel, watercolour and gouache, with a monk in profile holding a white lily, a golden halo around his head"
+
+  - id: "5-2b"
+    label: "Fig. 2"
+    src: figures/Grison/fig-2.2-grison_et_al.jpg
+    caption: "Alfred-Napoléon Delaunois, *Vision de Moine*, 1897, pastel, black and red crayon or chalk, watercolour, gouache, oil paint, and metal leaf, on toned paper, laid down on grey cardboard, 670 x 480 mm; M Leuven, inv. no. G/968/D (even illumination photography; recto and verso)."
+    alt: "An artwork in pastel, watercolour and gouache, with a monk in profile holding a white lily, a golden halo around his head"
 
   - id: "5-3"
-    label: 
-    src: figures/interviews/bio-1.jpg
-    caption: "Anisha Gupta"
+    label: "Fig. 3"
+    src: figures/Grison/fig-3-grison_et_al.jpg
+    caption: "Detail of the handwritten label pasted on the verso of *Vision de Moine*."
+    alt: "A paper label pasted on the verso of the artwork, where Delaunois wrote the title and his address in pen and ink"
 
   - id: "5-4"
-    label: 
-    src: figures/interviews/bio-2.jpg
-    caption: "Catherine Nunn"
+    label: "Fig. 4"
+    src: figures/Grison/fig-4-grison_et_al.jpg
+    caption: "Detail of the signature and partially erased inscription, in the lower left corner of the label."
+    alt: "A detail of the signature of the artwork, in red ink, blue coloured pencil, and a monogram in red paint."
 
   - id: "5-5"
-    label: 
-    src: figures/interviews/bio-3.jpg
-    caption: "Dr. Nicholas Eastaugh"
+    label: "Fig. 5"
+    src: figures/Grison/fig-5-grison_et_al.jpg
+    caption: "Image of *Vision de Moine* with luminescence effects when radiated with 450 nm with red longpass filter (cutoff 590 nm), bringing out features in the white paint layer and impastos."
+    alt: "A photograph of the artwork taken under ultraviolet light, showing luminescence effects in some passages in white paint"
 
-  - id: "5-6"
-    label: 
-    src: figures/interviews/bio-4.jpg
-    caption: "Gerry Alabone"
+  - id: "5-6a"
+    label: "Fig. 6"
+    src: figures/Grison/fig-6-grison_et_al.jpg
+    caption: "Top, detail of the lower right corner, revealing the impastos and the carving; bottom, detail of the sleeve with flowing lines carved into wet paint. Both photographed in raking light from a 270॰ angle."
+    alt: "Two photographs of details of the artwork taken in raking light, showing of relief and texture in the paint"
+  
+  - id: "5-6b"
+    label: "Fig. 6"
+    src: figures/Grison/fig-6.2-grison_et_al.jpg
+    caption: "Top, detail of the lower right corner, revealing the impastos and the carving; bottom, detail of the sleeve with flowing lines carved into wet paint. Both photographed in raking light from a 270॰ angle."
+    alt: "Two photographs of details of the artwork taken in raking light, showing of relief and texture in the paint"
 
   - id: "5-7"
-    label: 
-    src: figures/interviews/bio-5.jpg
-    caption: "Kendall Francis"
+    label: "Fig. 7"
+    src: figures/Grison/fig-7-grison_et_al.jpg
+    caption: "Ca map showing the presence of a calcium-containing layer in the veil (MA-XRF)."
+    alt: "Chemical imaging with MA-XRF mapping the presence of calcium in a detail of the monk's veil"
 
-  - id: "5-8"
-    label: 
-    src: figures/interviews/bio-6.jpg
-    caption: "Prof. Ann-Sophie Lehmann"
+  - id: "5-8a"
+    label: "Fig. 8"
+    src: figures/Grison/fig-8-grison_et_al.jpg
+    caption: "Microphotographs (Hirox, with the x100 objective) of two lacunas situated in the central lily."
+    alt: "Two photographs taken with a microscope showing traces of pigments visible in areas where the paint has flaked off"
 
+  - id: "5-8b"
+    label: "Fig. 8"
+    src: figures/Grison/fig-8.2-grison_et_al.jpg
+    caption: "Microphotographs (Hirox, with the x100 objective) of two lacunas situated in the central lily."
+    alt: "Two photographs taken with a microscope showing traces of pigments visible in areas where the paint has flaked off"
+
+  - id: "5-9"
+    label: "Fig. 9"
+    src: figures/Grison/fig-9-grison_et_al.jpg
+    caption: "Microphotograph (Hirox, with the x100 objective) of a lacuna situated in the hairline area."
+    alt: "A photograph taken with a microscope traces of a pastel layer visible in areas where the paint has flaked off"
+
+  - id: "5-10a"
+    label: "Fig. 10"
+    src: figures/Grison/fig-10-grison_et_al.jpg
+    caption: "White-light Microdome captures revealing the incised lines; left, with colour information retained; right, normal map (i.e., topography) of the surface of the same area."
+    alt: "A computed image taken with a photometric stereo imaging device showing faint details of the work's relief, such as incisions."
+
+  - id: "5-10b"
+    label: "Fig. 10"
+    src: figures/Grison/fig-10.2-grison_et_al.jpg
+    caption: "White-light Microdome captures revealing the incised lines; left, with colour information retained; right, normal map (i.e., topography) of the surface of the same area."
+    alt: "A computed image taken with a photometric stereo imaging device showing faint details of the work's relief, such as incisions."
+
+  - id: "5-11"
+    label: "Fig. 11"
+    src: figures/Grison/fig-11-grison_et_al.jpg
+    caption: "Detail of the golden halo."
+    alt: "A detail of the golden halo around the monk's head"
+
+  - id: "5-12"
+    label: "Fig. 12"
+    src: figures/Grison/fig-12-grison_et_al.jpg
+    caption: "Alfred-Napoléon Delaunois, *Études pour Méditatifs*, detail of the gold paint background; M Leuven, inv. no. G/425/D."
+    alt: "Another artwork by Delaunois showing a three-quarter view of a monk's head, from the back, against a gold paint background"
+  
+  - id: "5-13a"
+    label: "Fig. 13"
+    src: figures/Grison/fig-13-grison_et_al.jpg
+    caption: "Three details of the head and hand showing scratched-out lines in *Vision de Moine*."
+    alt: "Three details of the monk's head and hand showing lines the artist scratched out in the pastel layer to create contrasts and relief"
+
+  - id: "5-13b"
+    label: "Fig. 13"
+    src: figures/Grison/fig-13.2-grison_et_al.jpg
+    caption: "Three details of the head and hand showing scratched-out lines in *Vision de Moine*."
+    alt: "Three details of the monk's head and hand showing lines the artist scratched out in the pastel layer to create contrasts and relief"
+
+  - id: "5-13c"
+    label: "Fig. 13"
+    src: figures/Grison/fig-13.3-grison_et_al.jpg
+    caption: "Three details of the head and hand showing scratched-out lines in *Vision de Moine*."
+    alt: "Three details of the monk's head and hand showing lines the artist scratched out in the pastel layer to create contrasts and relief"
+
+  - id: "5-14"
+    label: "Fig. 14"
+    src: figures/Grison/fig-14-grison_et_al.jpg
+    caption: "PCA of normalised multispectral images of the lower left corner, showing erasing and overpainting of the inscription."
+    alt: "A computed image showing principal component analysis of multispectral pictures of the artwork, revealing erased text"
+  
+  - id: "5-15"
+    label: "Fig. 15"
+    src: figures/Grison/fig-15-grison_et_al.jpg
+    caption: "Photograph of Delaunois' house-atelier at 132 rue de Tirlemont in Heverlee, from a photo album dated 1955, M Leuven. Highlighted in blue: *Vision de Moine* framed together with a pendant."
+    alt: "Two black and white photographs taken in Delaunois's living room, with the artwork framed, among art and decorative objects"
+  
+  - id: "5-16"
+    label: "Fig. 16"
+    src: figures/Grison/fig-16-grison_et_al.jpg
+    caption: "Photograph of Delaunois' house-atelier at 132 rue de Tirlemont in Heverlee, from a photo album dated 1955, M Leuven. Highlighted in blue: *Vision de Moine* framed together with a pendant."
+    alt: "Black and white photograph taken in Delaunois's living room, with the artwork framed, among art and decorative objects"
+  
+  - id: "5-17"
+    label: "Fig. 17"
+    src: figures/Grison/fig-17-grison_et_al.jpg
+    caption: "Photograph of Delaunois' house-atelier at 132 rue de Tirlemont in Heverlee, from a photo album dated 1955, M Leuven. Highlighted in blue: *Vision de Moine* framed together with a pendant."
+    alt: "Black and white photograph taken in Delaunois's living room, with the artwork framed, among art and decorative objects"
 
