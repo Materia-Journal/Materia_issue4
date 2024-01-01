@@ -811,3 +811,21 @@ figure_list:
     caption: "Photograph of Delaunois' house-atelier at 132 rue de Tirlemont in Heverlee, from a photo album dated 1955, M Leuven. Highlighted in blue: *Vision de Moine* framed together with a pendant."
     alt: "Black and white photograph taken in Delaunois's living room, with the artwork framed, among art and decorative objects"
 
+  - id: "7-1"
+    label: "Fig. 1"
+    src: figures/voices/fig-1-voices.jpg
+    caption: 
+    alt: 
+
+  - id: "7-2"
+    label: "Fig. 2"
+    src: figures/voices/fig-2-voices.jpg
+    caption: 
+    alt: 
+
+  - id: "7-3"
+    label: "Fig. 3"
+    src: figures/voices/fig-3-voices.jpg
+    caption: 
+    alt: 
+
