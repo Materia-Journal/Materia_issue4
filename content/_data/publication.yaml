@@ -46,105 +46,156 @@ contributor_as_it_appears:
 
 contributor:
 
-  - id: lkargère
+  - id: trujillo
     type: primary
-    first_name: Lucretia
-    last_name: Kargère
+    first_name: 
+    last_name: 
     title: Conservator
-    affiliation: Metropolitan Museum of Art, New York
-    bio: "Lucretia Kargère is a Conservator at the Metropolitan Museum of Art, New York"
+    affiliation: 
+    bio: 
     url:
     image:
 
-  - id: rsolé
-    type: primary
-    first_name: Ramon
-    last_name: Solé
-    title: Conservator-Restorer
-    affiliation: Centre de Restauració de Béns Mobles de Catalunya, Barcelona
-    bio: "Ramon Solé is a Conservator-Restorer, adjunct to the Centre de Restauració de Béns Mobles de Catalunya, Barcelona"
+  - id: 
+    type: 
+    first_name: 
+    last_name: 
+    title: 
+    affiliation: 
+    bio: 
     url:
     image:
 
-  - id: fcaró
+  - id: hmeredith
     type: primary
-    first_name: Federico
-    last_name: Caró
-    title: Research Scientist
-    affiliation: Metropolitan Museum of Art, New York
-    bio: "Federico Caró is a Research Scientist at the Metropolitan Museum of Art"
+    first_name: Hallie G.
+    last_name: Meredith
+    title: 
+    affiliation: 
+    bio: 
     url:
     image:
 
-  - id: jlprada
+  - id: rhamilton
     type: primary
-    first_name: José Luis
-    last_name: Prada
-    title: Professor of Geological Science
-    affiliation: Escola Superior de Conservació i Restauració de Béns, Culturals de Catalunya
-    bio: "José Luis Prada is Professor of Geological Science at the Escola Superior de Conservació i Restauració de Béns, Culturals de Catalunya"
+    first_name: Robert
+    last_name: Hamilton
+    title: 
+    affiliation: 
+    bio: 
     url:
     image:
 
-  - id: nguasch-ferré
+  - id: ahershberger
     type: primary
-    first_name: Núria
-    last_name: Guasch-Ferré
-    title: Professor of Geological Science
-    affiliation: Escola Superior de Conservació i Restauració de Béns, Culturals de Catalunya
-    bio: "Núria Guasch-Ferré is at the Departament d’Arts i Conservació Restauració, Facultat de Belles Arts, Universitat de Barcelona."
+    first_name: Andrew
+    last_name: Hershberger
+    title: 
+    affiliation: 
+    bio: 
     url:
     image:
 
-  - id: abosselmann-ruickbie
+  - id: euffelman
     type: primary
-    first_name: Antje
-    last_name: Bosselmann-Ruickbie
-    title: Assistant Professor of Art History
-    affiliation: Justus Liebig University Gießen, Institute of Art History, Germany
-    bio:
+    first_name: Erich
+    last_name: Uffelman
+    title: Bentley Professor of Chemistry and Department Head of Chemistry and Biochemistry
+    affiliation: Washington and Lee University, Lexington City, Virginia
+    bio: 
     url:
     image:
 
-  - id: rframe
+  - id: ehermans
     type: primary
-    first_name: Rowan
-    last_name: Frame
-    title:  Conservator
-    affiliation: Julia Nagle Conservation Ltd., London
-    bio:
+    first_name: Erma
+    last_name: Hermans
+    title: Director, Hamilton Kerr Insitute, University of Cambridge, and Deputy Director, Conservation and Science Division, Fitzwilliam Museum, Cambridge
+    affiliation: University of Cambridge
+    bio: 
     url:
     image:
 
-  - id: lsabouni
+  - id: snorlandereliasson
     type: primary
-    first_name: Leila
-    last_name: Sabouni
-    title:
-    affiliation:
-    bio:
+    first_name: Sabrina
+    last_name: Norlander Eliasson
+    title: Professor of Art History, Department of Culture and Aesthetics
+    affiliation: Stockholm University and the Swedish Insitute for Classical Studies in Rome
+    bio: 
     url:
     image:
 
-  - id: aharrison
+  - id: mgrison
     type: primary
-    first_name: Ainslie
-    last_name: Harrison
-    title:
-    affiliation:
-    bio:
+    first_name: Marie-Noëlle 
+    last_name: Grison
+    title: 
+    affiliation: 
+    bio: 
     url:
     image:
 
-  - id: kmoffitt
+  - id: rerdmann
     type: primary
-    first_name: Kirsten
-    last_name: Moffitt
-    title:
-    affiliation:
-    bio:
+    first_name: Robert G. 
+    last_name: Erdmann
+    title: 
+    affiliation: 
+    bio: 
     url:
     image:
+
+  - id: hhameeuw
+    type: primary
+    first_name: Hendrik
+    last_name: Hameeuw
+    title: 
+    affiliation: 
+    bio: 
+    url:
+    image:
+
+  - id: dlainé
+    type: primary
+    first_name: David
+    last_name: Lainé
+    title: 
+    affiliation: 
+    bio: 
+    url:
+    image:
+
+  - id: lwatteeuw
+    type: primary
+    first_name: Lieve
+    last_name: Watteeuw
+    title: 
+    affiliation: 
+    bio: 
+    url:
+    image:
+
+  - id: mbrunskog
+    type: primary
+    first_name: Maria
+    last_name: Brunskog
+    title: 
+    affiliation: 
+    bio: 
+    url:
+    image:
+
+ - id: tmiyakoshi
+    type: primary
+    first_name: Tetsuo
+    last_name: Miyakoshi
+    title: 
+    affiliation: 
+    bio: 
+    url:
+    image:
+
 
 # ------------------------------------------------------------------------------
 # Copright & License
