@@ -1,4 +1,27 @@
-# [Making]{.mark} Technical Art History Accessible: Stories from the Summer Teachers Institute in Technical Art History (STITAH)[^1]
+---
+label: I
+title: " *Making Technical Art History Accessible: Stories from the Summer Teachers Institute in Technical Art History (STITAH)"
+layout: essay
+order: 
+peer_review: true
+class: page-one
+contributor:
+  # - id: hmeredith
+  # - id: rhamilton
+  # - id: ahershberger
+ 
+  - first_name: Hallie G. 
+    last_name: Meredith
+    sort_as: "1"
+  - first_name: Robert
+    last_name: Hamilton
+    sort_as: "2"
+  - first_name: Andrew
+    last_name: Hershberger
+    sort_as: "3"
+
+
+---
 
 # **PROLOGUE** 
 
