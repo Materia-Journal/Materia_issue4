@@ -4,5 +4,5 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: issue-3-cover-image.jpg
+image: issue-4-cover-image.jpg
 ---
