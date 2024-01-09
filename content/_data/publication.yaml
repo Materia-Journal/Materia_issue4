@@ -15,7 +15,7 @@ url: 'http://localhost:8080'
 # Title & Description
 title: Materia
 subtitle: "Journal of Technical Art History"
-reading_line: "Issue 3"
+reading_line: "Issue 4"
 short_title: Materia
 description:
    one_line: "Materia: Journal of Technical Art History is an online, open-access platform devoted to the technical study of art objects."
@@ -46,20 +46,70 @@ contributor_as_it_appears:
 
 contributor:
 
-  - id: trujillo
+  - id: ftrujillo
     type: primary
-    first_name: 
-    last_name: 
-    title: Conservator
+    first_name: Francisco H.
+    last_name: Trujillo
+    title: 
     affiliation: 
     bio: 
     url:
     image:
 
-  - id: 
-    type: 
-    first_name: 
-    last_name: 
+  - id: fpozzi
+    type: primary
+    first_name: Federica
+    last_name: Pozzi
+    title: 
+    affiliation: 
+    bio: 
+    url:
+    image:
+
+  - id: bculturali
+    type: primary
+    first_name: Beni
+    last_name: Culturali
+    title: 
+    affiliation: 
+    bio: 
+    url:
+    image:
+
+  - id: mlemay
+    type: primary
+    first_name: Marie-France
+    last_name: Lemay
+    title: 
+    affiliation: 
+    bio: 
+    url:
+    image:
+
+  - id: rhark
+    type: primary
+    first_name: Richard R.
+    last_name: Hark
+    title: 
+    affiliation: 
+    bio: 
+    url:
+    image:
+
+  - id: mbrunskog
+    type: primary
+    first_name: Maria
+    last_name: Brunskog
+    title: 
+    affiliation: 
+    bio: 
+    url:
+    image:
+
+  - id: tmiyakoshi
+    type: primary
+    first_name: Tetsuo
+    last_name: Miyakoshi
     title: 
     affiliation: 
     bio: 
@@ -176,26 +226,45 @@ contributor:
     url:
     image:
 
-  - id: mbrunskog
+  - id: vjohnson
     type: primary
-    first_name: Maria
-    last_name: Brunskog
+    first_name: Vanessa M.
+    last_name: Johnson
     title: 
     affiliation: 
     bio: 
     url:
     image:
 
- - id: tmiyakoshi
+  - id: ijácome-valladares
     type: primary
-    first_name: Tetsuo
-    last_name: Miyakoshi
+    first_name: Ivanny
+    last_name: Jácome-Valladares
     title: 
     affiliation: 
     bio: 
     url:
     image:
 
+  - id: ckenny
+    type: primary
+    first_name: Claire
+    last_name: Kenny
+    title: 
+    affiliation: 
+    bio: 
+    url:
+    image:
+
+  - id: tclare
+    type: primary
+    first_name: Tami
+    last_name: Lasseter Clare
+    title: 
+    affiliation: 
+    bio: 
+    url:
+    image:
 
 # ------------------------------------------------------------------------------
 # Copright & License

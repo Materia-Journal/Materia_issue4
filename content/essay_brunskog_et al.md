@@ -1,10 +1,12 @@
 ---
 label: II
-title: The Legacy of Carl Peter Thunberg Examined:
+title: The Legacy of Carl Peter Thunberg Examined
 subtitle: Analyses of Unique Sources of Information on the Japanese Edo-Period Urushi Craft
 layout: essay
-order: 
+order: 32
+peer-review: true
 class: page-one
+contributor:
   # - id: mbrunskog
   # - id: tmiyakoshi
  
@@ -15,13 +17,12 @@ class: page-one
     last_name: Mityakoshi
     sort_as: "2"
 
+abstract: |
+  The research presented in this article aims to highlight the scholarly and cultural-historical significance of the lacquerware collected by the Swedish naturalist Carl Peter Thunberg (1743–1828), while also reflecting on its broader relationship with the Japanese lacquer craft known as urushi. Objects made with urushi carry substantial meaning while being everyday commodities rather than rarities. In this way, Thunberg’s collection conveys a unique view of daily urban life and the urushi craft in Japan during a narrow time frame (1775–1776) and within a limited geographical area":" Nagasaki, its vicinity, and along the feudal road between Kyoto and Tokyo. From the twenty-four examined objects in the Museum of Ethnography, Stockholm, hitherto significantly overlooked, four are analysed with microscopic, chemical, and physical methods. Thunberg’s view on Japanese material culture is excerpted from his travel diaries. A contemporary document about such artefacts and their immediate context is reviewed, partly assisted by the Miwo AI *kuzushiji*-script application developed by the Center for Open Data in the Humanities, Japan, which translates archaic cursive writing. Thunberg’s early life is briefly outlined while also referencing a handful of contemporary scholars of renown.
 
-**Abstract**
+  The results add physical and chemical data about everyday urushi wares from the mid-Edo period (1603–1868), made from sap blackened with soot and partly embellished with metal powders applied traditionally. The results also indicate the impression these artefacts are likely to have had on those people in Europe who came across them and provide information about how much Europeans might have known about lacquerware from East Asia at the end of the eighteenth century. Reading contemporary written documents parallel to studying the tangible artefacts themselves leads to a deeper understanding of tangible and intangible aspects.
 
-The research presented in this article aims to highlight the scholarly and cultural-historical significance of the lacquerware collected by the Swedish naturalist Carl Peter Thunberg (1743–1828), while also reflecting on its broader relationship with the Japanese lacquer craft known as urushi. Objects made with urushi carry substantial meaning while being everyday commodities rather than rarities. In this way, Thunberg’s collection conveys a unique view of daily urban life and the urushi craft in Japan during a narrow time frame (1775–1776) and within a limited geographical area":" Nagasaki, its vicinity, and along the feudal road between Kyoto and Tokyo. From the twenty-four examined objects in the Museum of Ethnography, Stockholm, hitherto significantly overlooked, four are analysed with microscopic, chemical, and physical methods. Thunberg’s view on Japanese material culture is excerpted from his travel diaries. A contemporary document about such artefacts and their immediate context is reviewed, partly assisted by the Miwo AI *kuzushiji*-script application developed by the Center for Open Data in the Humanities, Japan, which translates archaic cursive writing. Thunberg’s early life is briefly outlined while also referencing a handful of contemporary scholars of renown.
-
-The results add physical and chemical data about everyday urushi wares from the mid-Edo period (1603–1868), made from sap blackened with soot and partly embellished with metal powders applied traditionally. The results also indicate the impression these artefacts are likely to have had on those people in Europe who came across them and provide information about how much Europeans might have known about lacquerware from East Asia at the end of the eighteenth century. Reading contemporary written documents parallel to studying the tangible artefacts themselves leads to a deeper understanding of tangible and intangible aspects.
-
+  *This article has been approved for publication by peer review. 
 ---
 
 **Introduction**
@@ -32,7 +33,7 @@ The lacquerware provides a narrow yet intriguing window into the nature of the *
 
 *Urushi* (漆) refers to anacard sap harvested in Japan from the *Toxicodendron vernicifluum* tree, Japan’s most abundant lacquer tree (urushi no ki 漆の木) and to its products, a highly prized material, refined for over seven thousand years.[^2] However, in the eighteenth century, the word was unknown in Swedish. With a broader definition, the word *lacquer* (Swedish: *lack*) sometimes replaces the word urushi in this article. Thunberg also used the terms *fernissa* (n.: varnish; v.: to apply a glossy coating) and *japonerad* (coated in the Japanese way).[^3]
 
-**The** **artefacts**
+**The artefacts**
 
 Most of the content of Thunberg’s original collection brought to Sweden remained at Uppsala University until his passing. It was only later that parts of the collections were relocated. At present, much is spread across multiple countries, as well as at several scientific and cultural institutions. A collection of tobacco and paper samples, textile fabrics, everyday tools, metal, wood, ceramic artefacts, Japanese costumes, cosmetics, and toothbrushes is scattered between the Museums of World Culture and the Far Eastern Antiquities.[^4] Among Thunberg’s lesser-known collectables is an assemblage of objects with entirely or partly exposed urushi coatings that are the main object of this study (Figs. 1–20).
 

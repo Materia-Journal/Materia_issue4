@@ -2,18 +2,18 @@
 label: I
 title: " *Tarocchi* Teamwork: An International, Multi-institutional Collaborative Research Project "
 layout: essay
-order: 
+order: 31
 peer_review: true
 class: page-one
 contributor:
-  # - id: trujillo
-  # - id: pozzi
-  # - id: culturali
-  # - id: lemay
-  # - id: hark
+  # - id: ftrujillo
+  # - id: fpozzi
+  # - id: bculturali
+  # - id: mlemay
+  # - id: rhark
 
   - first_name: Francisco H.
-    last_name: Trugillo
+    last_name: Trujillo
     sort_as: "1"
   - first_name: Federica
     last_name: Pozzi
@@ -52,7 +52,7 @@ The *tarocchi* deck grew out of and is an expanded variation of early decks of p
 
 Created between 1441 and 1447, the Yale and Brera decks were likely commissioned by Filippo Maria Visconti, duke of Milan from 1412 to 1447. The Yale pack may have been produced for the marriage of his daughter, Bianca Maria Visconti, to Francesco Sforza in 1441. The Morgan/Carrara/Colleoni deck, completed in 1456--1458, is thought to have been commissioned by Francesco Sforza, Filippo Maria Visconti's son-in-law and successor as duke of Milan. The three decks have been generally attributed to Bonifacio Bembo and his workshop. Bonifacio Bembo was an artist from Cremona, Italy, known for his multimedia work in fresco, panel painting, and manuscript illumination. The most recent art historical scholarship suggests the Yale deck might be the work of Bonifacio's older brother, Andrea. The Brera deck is attributed to the Bembo workshop.[^9] Unlike their later printed and hand-colored counterparts produced for the masses, the Visconti-Sforza *tarocchi*---painted by established artists of the time or their workshops, using some of the finest materials available such as lapis lazuli and red lake pigments, and gold and silver leaf applied to backgrounds subsequently filled with elaborate ornamental punchwork (no doubt a time-consuming process, given the number of cards)---were commissioned by and created for the elite. Their large size[^10] and relatively good condition, considering their age, make it hard to imagine that they were ever used as playing cards.
 
-{% figure 'XXX-1' %}
+{% figure '1-1' %}
 
 The *tarocchi* research project began on the sidelines of the installation of the 2016 exhibition *The World in Play: Luxury Cards 1430--1450*,[^11] to which cards from the Yale and Morgan decks were lent. A conversation between Marie-France Lemay and Frank Trujillo, conservators from Yale and the Morgan, respectively, prompted them to inquire as to the exact composition and method of creation of the decks. While there exists, in Italy in particular, a large body of published historical and art historical research that focuses on attribution and dating of the three decks, they have not been the subject of any in-depth material and technical analysis. The body of technical research on panel paintings is abundant, and that of manuscript illumination has seen a significant growth in recent years thanks to the development of noninvasive or minimally invasive analytical techniques, but there is a distinct dearth of published research on illuminated *tarocchi* cards.[^12] The relatively small number of extant cards in private and public collections[^13] and the challenges many institutions face to access the equipment and expertise necessary to undertake such technical analysis is no doubt partially responsible for this. A fortuitous second meeting in late 2016 at the "Manuscripts in the Making: Art and Science" conference[^14] was a fitting backdrop to a conversation where a comparative study of the materials and techniques of the Yale and Morgan decks was discussed, but it would be a few years before the conversation resumed.
 
@@ -81,7 +81,7 @@ Each close viewing of the decks among team members engendered new questions abou
 
 As data were acquired and interpreted, the group shared and discussed the material and technical insights with each other during virtual meetings and hypothesized about the successive steps involved in the creation of the cards. In-person meetings at each collecting institution, in the presence of the cards, were crucial to discussing and supporting scientific findings with visual analysis and developing a production model for the cards. For instance, close inspection of the Accademia Carrara *tarocchi* cards during a recent trip to Italy by some of the team members was crucial to establishing similarities and differences from the remaining portion of the deck held at the Morgan. While examining the cards together, conservators and scientists noticed extensive use of green glazes, not present in the Morgan cards, for some of the figures' headdress feathers and gloves; based on this joint observation, a decision was made to conduct systematic, in-depth analyses of the organic materials. The team also detected some peculiar features on one of the cards, the three of staves, under magnification: this prompted a series of in-depth scientific investigations, carried out in the following weeks, to ascertain whether the card could have been made by a different hand at a later date. A visit to the Pinacoteca di Brera in Milan, during the same trip, provided the team with an invaluable chance to examine the Brera deck in person; on this occasion, conservators identified a subset of cards, based on their observed features, for in-situ scientific analysis. As is often the case, interpretation and discussion of findings would result in fresh new questions, prompting the team to reevaluate results and hypotheses or to seek tools or techniques that could answer these new questions. The current breadth of the collaboration is made visible in Fig. 2.
 
-{% figure 'XXX-2' %}
+{% figure '1-2' %}
 
 ## Collaboration and isolation: Scientific testing, logistics, and timeline during a global pandemic
 
@@ -93,7 +93,7 @@ Conversations with IPCH led to the shipment of seven Morgan cards for XRF and Ra
 
 A timeline illustrating the international and collaborative nature of the project, along with the different phases of work, is shown in Fig. 3.
 
-{% figure 'XXX-3' %}
+{% figure '1-3' %}
 
 Scientific testing of the cards at the Met initially involved a thorough investigation by means of noninvasive techniques, such as optical microscopy, point and scanning XRF, X-ray diffractometry (XRD), micro-Raman, and hyperspectral imaging. While extremely rewarding, especially after a prolonged period of isolation, collaborative work required careful planning due to the extant guidelines for safe working operations to prevent the spread of the COVID-19 virus. Precautions included staff rotation to limit the number of personnel working in the laboratory at one time, wearing masks, and social distancing. Met scientists carried out most of the noninvasive analysis between May and June 2021, carefully assisted by conservation colleagues from the Morgan. This effort was informed by the previous work carried out at IPCH on both Yale and Morgan cards. To tackle specific materials-related questions that could not be addressed by noninvasive analysis---such as the unambiguous identification of organic colorants, paint binders, and glazes---the team agreed to pursue selective sampling. Suitable sites for sample removal were carefully selected by conservators and scientists by jointly examining the cards under magnification. Wherever possible, samples were taken from preexisting areas of loss, following the principle of minimal invasiveness.
 
@@ -101,7 +101,7 @@ Samples were analyzed by means of benchtop techniques such as Fourier-transform 
 
 Work in Italy also developed as a complex partnership among several institutions, requiring significant communication efforts with varying levels of formality and a manageable load of bureaucracy. While serendipity often plays a role, especially within large-scale, collaborative projects such as the one described here, it is only through meticulous organizing at each step that one can pave the way for a successful outcome. In the summer of 2021, initial contacts were made via email and phone with the Accademia Carrara in Bergamo and the Pinacoteca di Brera in Milan, with which the CCR had longstanding collaborations in place regulated by formal agreements. Between July and December, letters of invitation were sent to the directors of both museums to formalize their participation in the research project, which would entail making the Visconti-Sforza *tarocchi* decks in their respective holdings available for technical analysis. In February 2022, after signing a loan agreement, a selection of fifteen cards from the Accademia Carrara was shipped to the CCR laboratories for in-depth scientific investigation using portable and benchtop equipment; samples were also collected for a micro-invasive characterization of materials that would be otherwise difficult to identify, such as the organic red lakes, binding media, and translucent glazes.
 
-{% figure 'XXX-4' %}
+{% figure '1-4' %}
 
 In April 2022, after international travel restrictions had been lifted, a group of conservators and scientists from the Morgan, Yale, and the Met spent two weeks in Venaria Reale to join CCR colleagues in the examination of the Carrara deck from Bergamo (Fig. 4). During that time, the team also traveled to Milan to inspect the Brera deck. Although the Carrara and Morgan cards are from the same deck, they had not been seen previously by curators or conservators from the Morgan.
 
@@ -138,39 +138,39 @@ While data collected from this technical study will be presented and discussed m
 
 The results discussed here focus on the supports, or composition of the pasteboard, the image layers including underdrawings and use of metal leaf, and the color palette used on the various decks. These three areas address some of the initial questions relating to similarities and differences between decks and what those may mean for attribution and dating of the decks. While the cards from different decks may initially look similar, analysis reveals small but significant differences including the type of metal leaf employed, the use of lapis lazuli or smalt and the layering of blue pigments, and the complexity of the colors used for different decks.
 
-{% figure 'XXX-5' %}
+{% figure '1-5' %}
 
 ### Supports
 
 The decks in the Yale and Morgan collections were made on pasteboards. These were produced by layering and gluing together four or five sheets of laid paper, with a larger sheet of laid paper wrapped around the front. The back of Yale cards is left bare, while the back of Morgan cards is painted with sappanwood (Fig. 5). Pasteboard glues are derived from cattle for the Yale deck, and from mixtures of cattle and sheep and/or goat for the Morgan deck.[^20] Laid and chain lines are visible in both decks. Six similar watermarks, one complete and five partial, were detected on the back of multiple Yale cards. These closely match watermarks found in documents preserved in several Northern Italian repositories within a 250-mile radius of Milan and are dated between 1437 and 1442; none were found on Morgan cards (Fig. 6).
 
-{% figure 'XXX-6' %}
+{% figure '1-6' %}
 
 ### Image layers
 
 Using a combination of XRF, Raman, and imaging techniques, we can see that the image composition appears to have been planned through sequential steps, i.e., a loose sketch drafted with a lead-containing material, such as lead point; carbon-based or iron gall ink underdrawings visible under the bole or through the thin paint layers, serving to refine the initial sketch; and a general outline of the main compositional elements incised in the paper substrate prior to the application of bole. By forgoing the application of a layer of gesso and making the choice to render the preparatory drawings and scratch figure outlines directly in the paper, the artist combined portions of Cennini's recommendations on illuminating[^21] and panel painting.[^22] The artist appears to have followed to the letter Cennini's instructions in a chapter describing how the contours of figures positioned on gilt backgrounds and the figures' clothes should be scored in the support using a needle.[^23] More elaborate decorative incisions and tooling are added after the metal leaf is applied. In some cases, such as in the Morgan *The Last Judgment*, compositional changes are detected (Fig. 7). For example, the iron map shows that the incised lines outlining the original position of the trumpet held by the angel on the left is lower than in the final version.
 
-{% figure 'XXX-7' %}
+{% figure '1-7' %}
 
 After the underdrawing was complete, a red bole layer was painted onto the surface of the cards to adhere the metal leaf to the pasteboard support, imparting to it a warm tone. In both the Yale and Morgan decks, scanning XRF revealed that the bole is composed of an iron-rich clay, mixed with or applied over gypsum. Differing amounts of vermilion, which is present in relatively high quantities in Yale cards, may help yield a different tone to the metal leaf.
 
-{% figure 'XXX-8' %}
+{% figure '1-8' %}
 
 Losses, such as those on the Morgan *Love*, reveal the presence of an ink underdrawing and show that the bole was not applied overall, but rather painted up to and over the perimeters of the figures (Fig. 8).
 
-{% figure 'XXX-9' %}
+{% figure '1-9' %}
 
 The gold and silver elemental distribution maps obtained using scanning XRF spectroscopy (Fig. 9) show numerous, often wide areas of overlap of the gold leaf on the Yale court and trump cards suggesting the use of a greater number of smaller pieces of metal leaf or that a greater number of tears and creases occurred during application. By contrast, the Morgan figure cards use larger, often full sheets of *oro di metà---*produced by hammering gold and silver together into a single leaf---laid across the surface in a neat uniform manner, without any creases or breaks, indicating that the thicker *oro di metà* was easier to handle than the thinner gold leaf. Comparison of corresponding gold and silver maps for certain Morgan cards allows for the identification of areas where only silver leaf has been used to provide decorative highlights (e.g., the clothing of the figure of God in *The Last Judgment* and the tunic of the *King of Coins* as shown in Fig. 9). Tarnishing of the silver over time has imparted a darker tone to the leaf, which is especially evident within the edges of certain cards (Fig. 10).
 
-{% figure 'XXX-10' %}
+{% figure '1-10' %}
 
 Metal leaf was also used quite differently in the pip cards of the decks that were examined. The backgrounds of the number cards are made with silver leaf for Yale and Brera cards and with lead white for the Morgan/Carrara deck. In both cases, gold leaf was used to create details of the four different suits (Figs. 1, 11). Fig. 11 shows a comparison of the *Ace of Coins* pip cards from each of the three *tarocchi* decks. This illustrates how the materials used in the decoration vary, in addition to the patterns of the cards being related but slightly different. The Brera and Yale cards (top and bottom rows) have silver leaf covering the recto, while the Carrara card (middle row) has a lead-rich background, painted with lead white. Like the court and trump cards from the Yale deck, the bole contains an iron earth pigment and vermilion, while the Brera card has only an iron-containing bole under the silver. The maps show that copper-based pigments were only employed on the border of the Brera card, while they were utilized in the decorative designs on the other two pip cards.
 
-{% figure 'XXX-11' %}
+{% figure '1-11' %}
 
 Tooling is used extensively in both court and trump cards to animate the large areas of burnished gold and silver leaf: backgrounds are decorated with round or oval punch marks, as well as freehand incised lines (Fig. 12).
 
-{% figure 'XXX-12' %}
+{% figure '1-12' %}
 
 ### Color palette
 
@@ -182,7 +182,7 @@ Though binding media analysis is currently ongoing, results to date suggest the 
 
 Retouching and overpainting are observed on several cards from the Yale and Morgan decks. One of the most significant alterations to the Morgan/Carrara *tarocchi* deck is the addition of six cards---three held at the Morgan and three at the Accademia Carrara---that are thought to have been created to replace cards that had been damaged, lost, or destroyed. Technical analysis and current scholarship suggest that, while containing different materials, including mosaic gold, a synthetic pigment made of tin (IV) sulfide, such replacement cards might be contemporary to the rest of the deck.
 
-{% figure 'XXX-13' %}
+{% figure '1-13' %}
 
 Data acquired from the technical analysis of *tarocchi* decks held at the Accademia Carrara and the Pinacoteca di Brera are currently undergoing careful examination and interpretation. Carrara cards appear to be mostly consistent with the rest of the deck held at the Morgan, while Brera cards are more similar to Yale cards based on several observed features. Noticeably, one card in the Carrara deck, the *Three of Staves*, displays unusual materials and techniques, likely pointing to a different hand and time of production.
 
@@ -257,7 +257,7 @@ Richter, Ernst-Ludwig, and Heide Härlin. "The 'Stuttgarter Kartenspiel': Scient
 
 Turner, Nancy K. "Surface Effect and Substance: Precious Metals in Illuminated Manuscripts." In *Illuminating Metalwork: Metal, Object, and Image in Medieval Manuscripts*, edited by Joseph Salvatore Ackley and Shannon L. Wearing, 51--110. Berlin: De Gruyter, 2022. [https://doi.org/10.1515/9783110637526-002](https://doi.org/10.1515/9783110637526-002).
 
-## **NOTES**
+## NOTES
 
 [^1]: *Tarocchi* cards were originally referred to as *carte da trionfi*, possibly a reference to Petrarch's poem *I Trionfi* dating from the mid-fourteenth century. Thierry Depaulis, introduction to *Tarots enluminés: Chefs-d'oeuvre de la Renaissance italienne*, ed. Thierry Depaulis (Paris, Issy-les-Moulineaux: Musée Français de la Carte à Jouer and LienArt, 2021), 19--20. See also Gertrud Moakley, *The Tarot Cards Painted by Bonifacio Bembo for the Visconti-Sforza Family: An Iconographic and Historical Study* (New York: New York Public Library, 1966).
 

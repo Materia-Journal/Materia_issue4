@@ -1,10 +1,11 @@
 ---
 label: VII
-title: Voices from the Field:
+title: Voices from the Field
 subtitle: Collaboration in Technical Art History
 layout: essay
-order: 
+order: 37
 class: page-one
+contributor:
   # - id: euffelman
   # - id: ehermans
   # - id: seliasson

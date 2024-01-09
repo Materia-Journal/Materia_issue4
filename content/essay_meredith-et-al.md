@@ -1,8 +1,8 @@
 ---
-label: I
-title: " *Making Technical Art History Accessible: Stories from the Summer Teachers Institute in Technical Art History (STITAH)"
+label: III
+title: " Making Technical Art History Accessible: Stories from the Summer Teachers Institute in Technical Art History (STITAH)"
 layout: essay
-order: 
+order: 33
 peer_review: true
 class: page-one
 contributor:
@@ -23,7 +23,7 @@ contributor:
 
 ---
 
-# **PROLOGUE** 
+**PROLOGUE** 
 
 Part of our vision at *Materia* is to highlight ways that technical art history can engage a broader audience in the study of cultural heritage. Discussions, and/or hands-on experiences, exploring how an object was made, the materials it was made from, how it may have altered over time, or the physical signs of use are highly impactful ways to attract diverse audiences through a shared connection to materiality. Due to the relatively high costs of performing technical art history, however, this area of study has historically been relegated to well-resourced institutions. Consequently, the objects studied are generally those by already well-researched artists. Sharing and engaging scholars from a wider range of institutions and backgrounds is critical to bridging this resource and scholarship gap.
 
