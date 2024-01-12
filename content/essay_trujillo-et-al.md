@@ -2,7 +2,7 @@
 label: I
 title: " *Tarocchi* Teamwork: An International, Multi-institutional Collaborative Research Project "
 layout: essay
-order: 
+order: 20
 peer_review: true
 class: page-one
 contributor:

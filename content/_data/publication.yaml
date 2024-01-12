@@ -186,7 +186,7 @@ contributor:
     url:
     image:
 
- - id: tmiyakoshi
+  - id: tmiyakoshi
     type: primary
     first_name: Tetsuo
     last_name: Miyakoshi
