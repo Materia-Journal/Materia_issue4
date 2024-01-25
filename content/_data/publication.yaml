@@ -47,7 +47,7 @@ contributor_as_it_appears:
 contributor:
 
   - id: trujillo
-    type: primary
+    type: secondary
     first_name: 
     last_name: 
     title: Conservator
@@ -67,7 +67,7 @@ contributor:
     image:
 
   - id: hmeredith
-    type: primary
+    type: secondary
     first_name: Hallie G.
     last_name: Meredith
     title: 
@@ -77,7 +77,7 @@ contributor:
     image:
 
   - id: rhamilton
-    type: primary
+    type: secondary
     first_name: Robert
     last_name: Hamilton
     title: 
@@ -87,7 +87,7 @@ contributor:
     image:
 
   - id: ahershberger
-    type: primary
+    type: secondary
     first_name: Andrew
     last_name: Hershberger
     title: 
@@ -97,7 +97,7 @@ contributor:
     image:
 
   - id: euffelman
-    type: primary
+    type: secondary
     first_name: Erich
     last_name: Uffelman
     title: Bentley Professor of Chemistry and Department Head of Chemistry and Biochemistry
@@ -107,7 +107,7 @@ contributor:
     image:
 
   - id: ehermans
-    type: primary
+    type: secondary
     first_name: Erma
     last_name: Hermans
     title: Director, Hamilton Kerr Insitute, University of Cambridge, and Deputy Director, Conservation and Science Division, Fitzwilliam Museum, Cambridge
@@ -117,7 +117,7 @@ contributor:
     image:
 
   - id: snorlandereliasson
-    type: primary
+    type: secondary
     first_name: Sabrina
     last_name: Norlander Eliasson
     title: Professor of Art History, Department of Culture and Aesthetics
@@ -127,7 +127,7 @@ contributor:
     image:
 
   - id: mgrison
-    type: primary
+    type: secondary
     first_name: Marie-Noëlle 
     last_name: Grison
     title: 
@@ -137,7 +137,7 @@ contributor:
     image:
 
   - id: rerdmann
-    type: primary
+    type: secondary
     first_name: Robert G. 
     last_name: Erdmann
     title: 
@@ -147,7 +147,7 @@ contributor:
     image:
 
   - id: hhameeuw
-    type: primary
+    type: secondary
     first_name: Hendrik
     last_name: Hameeuw
     title: 
@@ -157,7 +157,7 @@ contributor:
     image:
 
   - id: dlainé
-    type: primary
+    type: secondary
     first_name: David
     last_name: Lainé
     title: 
@@ -167,7 +167,7 @@ contributor:
     image:
 
   - id: lwatteeuw
-    type: primary
+    type: secondary
     first_name: Lieve
     last_name: Watteeuw
     title: 
@@ -177,7 +177,7 @@ contributor:
     image:
 
   - id: mbrunskog
-    type: primary
+    type: secondary
     first_name: Maria
     last_name: Brunskog
     title: 

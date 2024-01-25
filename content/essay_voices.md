@@ -5,10 +5,7 @@ subtitle: "Collaboration in Technical Art History"
 layout: essay
 order: 26
 class: page-one
-  # - id: euffelman
-  # - id: ehermans
-  # - id: seliasson
-
+    
 ---
 
 In the last issue of *Materia*, we launched a new, interview-based series titled “Voices from the Field,”[^1] designed to encourage discussion and debate on the topic of technical art history as an academic discipline. How do we define the field? Can it be said to have a standardized methodology or theoretical framework? Is there room for improvement in how we approach the technical study of artworks, particularly when it comes to how we organize interdisciplinary collaborations?
