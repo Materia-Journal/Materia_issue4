@@ -5,6 +5,7 @@ subtitle: "Analyses of Unique Sources of Information on the Japanese Edo-Period 
 layout: essay
 order: 23
 class: page-one
+peer_review: true
 contributor:
 
  # - id: mbrunskog

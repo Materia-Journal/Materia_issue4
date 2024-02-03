@@ -15,7 +15,7 @@ url: 'http://localhost:8080'
 # Title & Description
 title: Materia
 subtitle: "Journal of Technical Art History"
-reading_line: "Issue 3"
+reading_line: "Issue 4"
 short_title: Materia
 description:
    one_line: "Materia: Journal of Technical Art History is an online, open-access platform devoted to the technical study of art objects."
@@ -34,7 +34,7 @@ identifier:
 
 publisher:
   - name: Materia
-    location: Los Angeles
+    location: San Diego
     url: https://https://materiajournal.com
     logo: materia-logo.jpg
 
