@@ -3,7 +3,7 @@ label: VII
 title: "Voices from the Field"
 subtitle: "Collaboration in Technical Art History"
 layout: essay
-order: 26
+order: 30
 class: page-one
     
 ---

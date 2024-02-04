@@ -3,7 +3,7 @@ label: V
 title: "Materiality of a Vision"
 subtitle: "Unveiling the Complex Material Makeup of an Early Symbolist Work with Friable Media by Alfred-Napoléon Delaunois (Belgian, 1875-1941)"
 layout: essay
-order: 24
+order: 26
 peer_review: true
 class: page-one
 contributor:
