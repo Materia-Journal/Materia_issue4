@@ -5,6 +5,7 @@ subtitle: "Collaboration in Technical Art History"
 layout: essay
 order: 30
 class: page-one
+
     
 ---
 

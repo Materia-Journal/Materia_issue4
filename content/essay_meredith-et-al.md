@@ -1,4 +1,5 @@
 ---
+
 label: IV
 title: "Making Technical Art History Accessible: Stories from the Summer Teachers Institute in Technical Art History (STITAH)"
 layout: essay
