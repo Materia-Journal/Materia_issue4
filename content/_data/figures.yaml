@@ -417,21 +417,61 @@ figure_list:
     alt: 
   
   - id: "3-3"
-    label: "Fig. 3"
+    label: "Fig. 3A"
     src: figures/jasperse/fig-3-jasperse_et_al.jpg
-    caption: "First Great Seal of Henry III (ca. 98 mm), obverse (A) and reverse (B), on a grant to Stanley Abbey, 11 Hen III, 28 October 1226–27 October 1227. The National Archives, Kew, E 42/315."
+    caption: "First Great Seal of Henry III (ca. 98 mm), obverse (A) on a grant to Stanley Abbey, 11 Hen III, 28 October 1226-27 October 1227. The National Archives, Kew, E 42/315."
     alt: 
 
-  - id: "3-2.2"
-    label:
-    src: figures/jasperse/fig-1-jasperse_et_al.jpg
-    caption:
+  - id: "3-3.2"
+    label: "Fig. 3B"
+    src: figures/jasperse/fig-3.2-jasperse_et_al.jpg
+    caption: "Reverse (B)."
     alt: 
 
   - id: "3-4"
-    label: "Fig. 4"
+    label: "Fig. 4A"
     src: figures/jasperse/fig-4-jasperse_et_al.jpg
-    caption: "Detail of the red-pinkish seal bag of the Lewisham charter, The National Archives, Richmond, E 42/524. (A) Front. (B) Back. (C) Microphotograph of the area of damage and loss of the white weft on the back. (D) Detail of staining in the lining. (E) Microphotograph of the red band and the green plait, showing silver leaf loss, and (F) remnants of gilding. (G) Detail of the red band framing the bag on the outside and (H) inside, showing the difference in colour due to fading."
+    caption: "Detail of the red-pinkish seal bag of the Lewisham charter, The National Archives, Richmond, E 42/524. (A) Front."
+    alt: 
+
+  - id: "3-4.2"
+    label: "Fig. 4B"
+    src: figures/jasperse/fig-4.2-jasperse_et_al.jpg
+    caption: "(B) Back."
+
+  - id: "3-4.3"
+    label: "Fig. 4C"
+    src: figures/jasperse/fig-4.3-jasperse_et_al.jpg
+    caption: "(C) Microphotograph of the area of damage and loss of the white weft on the back."
+    alt: 
+
+  - id: "3-4.4"
+    label: "Fig. 4D"
+    src: figures/jasperse/fig-4.4-jasperse_et_al.jpg
+    caption: "(D) Detail of staining in the lining."
+    alt: 
+
+  - id: "3-4.5"
+    label: "Fig. 4E"
+    src: figures/jasperse/fig-4.5-jasperse_et_al.jpg
+    caption: "(E) Microphotograph of the red band and the green plait, showing silver leaf loss."
+
+  - id: "3-4.6"
+    label: "Fig. 4F"
+    src: figures/jasperse/fig-4.6-jasperse_et_al.jpg
+    caption: "(F) remnants of gilding."
+    alt: 
+
+  - id: "3-4.7"
+    label: "Fig. 4G"
+    src: figures/jasperse/fig-4.7-jasperse_et_al.jpg
+    caption: "(G) Detail of the red band framing the bag on the outside."
+    alt: 
+
+  - id: "3-4.8"
+    label: "Fig. 4H"
+    src: figures/jasperse/fig-4.8-jasperse_et_al.jpg
+    caption: "(H) inside, showing the difference in colour due to fading."
     alt: 
 
   - id: "3-5"
@@ -441,33 +481,105 @@ figure_list:
     alt: 
 
   - id: "3-6"
-    label: "Fig. 6"
+    label: "Fig. 6A"
     src: figures/jasperse/fig-6-jasperse_et_al.jpg
-    caption: "(A) Detail of the yellow felt padding visible through a tear at the edge of the red-pinkish bag. (B) Microphotograph of the plain lining. (C) Microphotograph of the yellow padding. Lewisham charter, The National Archives, Kew, E 42/524."
+    caption: "(A) Detail of the yellow felt padding visible through a tear at the edge of the red-pinkish bag."
+    alt: 
+
+  - id: "3-6.2"
+    label: "Fig. 6B"
+    src: figures/jasperse/fig-6.2-jasperse_et_al.jpg
+    caption: "(B) Microphotograph of the plain lining."
+    alt: 
+
+  - id: "3-6.3"
+    label: "Fig. 6C"
+    src: figures/jasperse/fig-6.3-jasperse_et_al.jpg
+    caption: "(C) Microphotograph of the yellow padding. Lewisham charter, The National Archives, Kew, E 42/524."
     alt: 
 
   - id: "3-7"
-    label: "Fig. 7"
+    label: "Fig. 7A"
     src: figures/jasperse/fig-7-jasperse_et_al.jpg
-    caption: "Multicoloured seal bag on the Holy Trinity Charter, The National Archives, Kew, E 42/529. (A) Front. (B) Back. (C) Detail of the herringbone weave of the cloth of arista (the image has been rotated to show the direction of warp and weft)."
+    caption: "Multicoloured seal bag on the Holy Trinity Charter, The National Archives, Kew, E 42/529. (A) Front."
+    alt: 
+
+  - id: "3-7.2"
+    label: "Fig. 7B"
+    src: figures/jasperse/fig-7.2-jasperse_et_al.jpg
+    caption: "(B) Back."
+    alt: 
+
+  - id: "3-7.3"
+    label: "Fig. 7C"
+    src: figures/jasperse/fig-7.3-jasperse_et_al.jpg
+    caption: "(C) Detail of the herringbone weave of the cloth of arista (the image has been rotated to show the direction of warp and weft)."
     alt: 
 
   - id: "3-8"
-    label: "Fig. 8"
+    label: "Fig. 8A"
     src: figures/jasperse/fig-8-jasperse_et_al.jpg
-    caption: "Details of the seal bag of the Holy Trinity charter, The National Archives, Kew, E 42/529. (A–C) Untidy stitching. (D) Damaged area showing remnants of a coating inside the cloth of arista."
+    caption: "Details of the seal bag of the Holy Trinity charter, The National Archives, Kew, E 42/529. (A) Untidy stitching."
+    alt: 
+
+  - id: "3-8.2"
+    label: "Fig. 8B"
+    src: figures/jasperse/fig-8.2-jasperse_et_al.jpg
+    caption: "(B) Untidy stitching."
+    alt: 
+
+  - id: "3-8.3"
+    label: "Fig. 8C"
+    src: figures/jasperse/fig-8.3-jasperse_et_al.jpg
+    caption: "(C) Untidy stitching."
+    alt: 
+
+  - id: "3-8.4"
+    label: "Fig. 8D"
+    src: figures/jasperse/fig-8.4-jasperse_et_al.jpg
+    caption: "(D) Damaged area showing remnants of a coating inside the cloth of arista."
     alt: 
 
   - id: "3-9"
-    label: "Fig. 9"
+    label: "Fig. 9A"
     src: figures/jasperse/fig-9-jasperse_et_al.jpg
-    caption: "Red-pinkish seal bag of the Lewisham charter. Multispectral images: (A) Visible reflected (VISR). (B) Ultraviolet-induced visible luminescence (UVL). (C) Infrared reflected false colour (IRRFC). (D) Ultraviolet reflected false colour (UVRFC). (E) Fibre optics reflectance spectroscopy (FORS) spectra showing the absorption band of indigotin in the green thread (660 nm)."
+    caption: "Red-pinkish seal bag of the Lewisham charter. Multispectral images: (A) Visible reflected (VISR)."
+    alt: 
+
+  - id: "3-9"
+    label: "Fig. 9B"
+    src: figures/jasperse/fig-9.2-jasperse_et_al.jpg
+    caption: "(B) Ultraviolet-induced visible luminescence (UVL)."
     alt: 
 
   - id: "3-10"
-    label: "Fig. 10"
+    label: "Fig. 10A"
     src: figures/jasperse/fig-10-jasperse_et_al.jpg
-    caption: "Seal bag of the Holy Trinity charter, The National Archives, Kew, E 42/529. (A) Fibre optics reflectance spectroscopy (FORS) showing the absorption band of indigotin in the green and blue spectra (660 nm). (B) UVL image showing strong yellow fluorescence of the yellow stripes, slight yellow fluorescence in the green stripes and bluish fluorescence in the white stripes. (C) UV microphotograph showing a detail of the bluish fluorescence of the white silk. (D) Microphotograph showing the silver thread combined with the yellow weft. (E) Microphotograph of the beige warp."
+    caption: "Seal bag of the Holy Trinity charter, The National Archives, Kew, E 42/529. (A) Fibre optics reflectance spectroscopy (FORS) showing the absorption band of indigotin in the green and blue spectra (660 nm)."
+    alt: 
+
+  - id: "3-10.2"
+    label: "Fig. 10B"
+    src: figures/jasperse/fig-10.2-jasperse_et_al.jpg
+    caption: "(B) UVL image showing strong yellow fluorescence of the yellow stripes, slight yellow fluorescence in the green stripes and bluish fluorescence in the white stripes."
+    alt: 
+
+  - id: "3-10.3"
+    label: "Fig. 10C"
+    src: figures/jasperse/fig-10.3-jasperse_et_al.jpg
+    caption: "(C) UV microphotograph showing a detail of the bluish fluorescence of the white silk."
+    alt: 
+
+  - id: "3-10.4"
+    label: "Fig. 10D"
+    src: figures/jasperse/fig-10.4-jasperse_et_al.jpg
+    caption: "(D) Microphotograph showing the silver thread combined with the yellow weft."
+    alt: 
+
+  - id: "3-10.5"
+    label: "Fig. 10E"
+    src: figures/jasperse/fig-10.5-jasperse_et_al.jpg
+    caption: "(E) Microphotograph of the beige warp."
     alt: 
 
   - id: "3-11"
