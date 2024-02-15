@@ -46,23 +46,93 @@ contributor_as_it_appears:
 
 contributor:
 
-  - id: trujillo
+  - id: ftrujillo
     type: secondary
-    first_name: 
-    last_name: 
-    title: Conservator
-    affiliation: 
+    first_name: Francisco H.
+    last_name: Trujillo
+    title: Drue Heinz Book Conservator
+    affiliation: The Morgan Library & Museum
+    bio: 
+    url:
+    image:
+
+  - id: fpozzi
+    type: secondary
+    first_name: Federica
+    last_name: Pozzi
+    title: Director of Scientific Laboratories
+    affiliation: Centro per la Conservazione ed il Restauro dei Beni Culurali "La Venaria Reale"
+    bio: 
+    url:
+    image:
+
+  - id: mlemay
+    type: secondary
+    first_name: Marie-France
+    last_name: Lemay
+    title: Head of Paper and Photograph Conservation
+    affiliation: Yale University Library
+    bio: 
+    url:
+    image:
+
+  - id: rhark
+    type: secondary
+    first_name: Richard R.
+    last_name: Hark
+    title: Conservation Scientist
+    affiliation: Institute for the Preservation of Cultural Heritage
     bio: 
     url:
     image:
 
   - id: 
-    type: 
+    type: secondary
     first_name: 
     last_name: 
     title: 
     affiliation: 
     bio: 
+    url:
+    image:
+
+  - id: vjohnson
+    type: secondary
+    first_name: Vanessa M.
+    last_name: Johnson
+    title: 
+    affiliation: 
+    bio: " Vanessa M. Johnson is a post-doctoral researcher in the Lasseter Clare Lab at Portland State University, part of the Pacific Northwest Conservation Science Consortium. Her research has involved analysis of organic paint binders and determination of photoactivity in zinc oxide pigments via visible fluorescence analysis. She received an MA in the Conservation of Fine Art with a specialization in paper conservation and a PhD in Conservation Science from Northumbria University, UK. "
+    url:
+    image:
+
+  - id: ijacome
+    type: secondary
+    first_name: Ivanny
+    last_name: Jácome-Valladares
+    title: Conservator
+    affiliation: 
+    bio: " Ivanny Jácome-Valladares received a BS in chemistry from Millersville University and an MS in chemistry from Portland State University. At Portland State University, her research focused on analytical chemistry and conservation science. She is interested in the application of analytical techniques for the conservation and preservation of cultural heritage. "
+    url:
+    image:
+
+  - id: ckenny
+    type: secondary
+    first_name: Claire
+    last_name: Kenny
+    title: Associate Conservator for Paper and Photographs
+    affiliation: University of Washington
+    bio: " Claire Kenny is the Associate Conservator for Paper and Photographs at the University of Washington, where she works to conserve collections at the UW Libraries, Henry Art Gallery, and Burke Museum of Natural History and Culture. She received an MA in the Conservation of Fine Art, with a specialization in paper conservation, from Northumbria University, UK. "
+    url:
+    image:
+
+  - id: tlasseterclare
+    type: secondary
+    first_name: Tami
+    last_name: Lasseter Clare
+    title: Professor of Chemistry
+    affiliation: Portland State University
+    bio: " Tami Lasseter Clare is Professor of Chemistry at Portland State University where she teaches a range of undergraduate and graduate courses and is the Director of the Pacific Northwest Conservation Science Consortium, in partnership with major museums in the region. With her undergraduate, graduate and postdoctoral trainees, her research efforts center on developing new materials and diagnostic tools to understand and prevent the degradation of material cultural heritage, such as artwork and ethnographic materials. "
     url:
     image:
 
