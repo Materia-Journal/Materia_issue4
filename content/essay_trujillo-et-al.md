@@ -13,7 +13,7 @@ contributor:
   # - id: rhark
 
   - first_name: Francisco H.
-    last_name: Trugillo
+    last_name: Trujillo
     sort_as: "1"
   - first_name: Federica
     last_name: Pozzi
