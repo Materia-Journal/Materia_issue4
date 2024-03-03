@@ -34,8 +34,6 @@ Norlander Eliasson is Full Professor in Art History at the Department of Culture
 
 *Questions*
 
-**Questions for Erich**
-
 **You started out as a chemistry undergraduate and now you head the department at Washington and Lee University. How did you become interested in the technical study of art objects, and what motivates you to introduce your science students to this field of research?**
 
 This question requires a bit of storytelling. My journey in science really began with the NASA Apollo program, which completely captivated me as a small child. Neil Armstrong and Buzz Aldrin landed on the moon several days before my seventh birthday, and I learned during the broadcasts that Armstrong’s birthday was the same as mine! I told that to everyone who would listen for a month. So, I started reading adult astronomy books in second and third grade; the Apollo 13 tragedy/triumph happened when I was in third grade; and of my parents’ best friends, the husband was a chemist—and he quickly became my childhood hero. Fast forward to Bucknell University, and I was blessed from the outset of my college career with chemistry professors who were passionate about teaching and research and who really went out of their way to mentor me. As a PhD student at Caltech, I was surrounded by people who were rabid about science, and my doctoral advisor, Terry Collins, was not only dedicated to chemistry but to furthering my research skills and helping me every step of the way. My postdoctoral advisor, Jim Collman, was the perfect person to complete my training—his group also did great science, and in his words, he“ran a finishing school for assistant professors.”
@@ -176,7 +174,7 @@ I was very pleased when I read Erich’s and Erma’s interviews since they perf
 
 [^1]: “Voices from the Field: Technical Art History Today,” *Materia: Journal of Technical Art History*, no. 3 (2022), [[https://issue-3.materiajournal.com/essay_voices-from-the-field/]{.underline}](https://issue-3.materiajournal.com/essay_voices-from-the-field/)
 
-[^2]: Erich Uffelman, “Teaching Science in Art: Technical Examination of 17th-Century Dutch Painting as Interdisciplinary Coursework for Science Majors and Nonmajors,” *Journal of Chemical Education* 84, no. 10 (2007): 1617–1624, <https://doi.org/10.1021/ed084p1617>; Erich Uffelman, “A Review of Materials for Teaching Science in Art: Technical Examination of 17th-Century Dutch Painting as Interdisciplinary Course Work for Non-Science and Science Majors,” *Journal of Chemical Education* (October 2007).
+[^2]: See for example: Erich Uffelman, “Teaching Science in Art: Technical Examination of 17th-Century Dutch Painting as Interdisciplinary Coursework for Science Majors and Nonmajors,” *Journal of Chemical Education* 84, no. 10 (2007): 1617–1624, <https://doi.org/10.1021/ed084p1617>
 
 [^3]: The details of this collaboration can be found in: Erich Uffelman, Liesbeth Abraham, Julia van den Burg, Samuel Florescu, René Hoppenbrouwers, Femke van der Knaap, Jorinde Koenen, Mireille Te Marvelde, Herman van Putten, Jessica Roeders, and Kate Seymour, “A New Three Legged Stool: Research and Educational Ventures Between the Frans Hals Museum, Stichting Restauratie Atelier Limburg, and Washington and Lee University,” ICOM Committee for Conservation preprints, 17th Triennial Meeting, Melbourne (Paris: ICOM, 2014), 0310.
 
