@@ -3,7 +3,7 @@ label: V
 title: "Materiality of a Vision"
 subtitle: "Unveiling the Complex Material Makeup of an Early Symbolist Work with Friable Media by Alfred-Napoléon Delaunois (Belgian, 1875-1941)"
 layout: essay
-order: 26
+order: 25
 peer_review: true
 class: page-one
 contributor:
@@ -31,9 +31,9 @@ contributor:
     sort_as: "5"
 
 abstract: |
-  "Alfred-Napoléon Delaunois (1875–1941) was associated with the Symbolists and the *fin de siècle* movement in Belgium. He left a prolific output of paintings, drawings, and prints, a large portion of which is preserved today in M Leuven, the municipal museum in Leuven, his hometown in Belgium. Within this ensemble, an 1897 mixed-media project for a decorative cycle titled *Vision de Moine* (*A Monk’s Vision*) stands out through the complex combination of friable drawing (specifically pastel) and painting techniques, and also through its decorative qualities. The variety of textures and visual effects sought by the artist, as well as his experimental working method, explain the peculiar materiality of this artwork—and also some of the degradation patterns it displays.
+  Alfred-Napoléon Delaunois (1875–1941) was associated with the Symbolists and the *fin de siècle* movement in Belgium. He left a prolific output of paintings, drawings, and prints, a large portion of which is preserved today in M Leuven, the municipal museum in Leuven, his hometown in Belgium. Within this ensemble, an 1897 mixed-media project for a decorative cycle titled *Vision de Moine* (*A Monk’s Vision*) stands out through the complex combination of friable drawing (specifically pastel) and painting techniques, and also through its decorative qualities. The variety of textures and visual effects sought by the artist, as well as his experimental working method, explain the peculiar materiality of this artwork—and also some of the degradation patterns it displays.
 
-  In order to shed light on the artist’s material choices and creative process, a methodology bringing together archival research, advanced technical imaging and instrumental methods, as well as innovative visualisation tools, was employed. Damaged areas were investigated to pinpoint the relationship between the layer buildup and resulting fragility of these passages. Technical imaging also provided insight into the ways in which Delaunois prepared his work and his iterative working process throughout. With this technical case study, we demonstrate the benefits of noninvasive analytical techniques when it comes to tackling research questions related to artworks with a complex material makeup such as Delaunois’s *Vision de Moine*."
+  In order to shed light on the artist’s material choices and creative process, a methodology bringing together archival research, advanced technical imaging and instrumental methods, as well as innovative visualisation tools, was employed. Damaged areas were investigated to pinpoint the relationship between the layer buildup and resulting fragility of these passages. Technical imaging also provided insight into the ways in which Delaunois prepared his work and his iterative working process throughout. With this technical case study, we demonstrate the benefits of noninvasive analytical techniques when it comes to tackling research questions related to artworks with a complex material makeup such as Delaunois’s *Vision de Moine*.
 
 ---
 

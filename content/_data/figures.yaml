@@ -91,6 +91,255 @@ figure_list:
     credit: 
     alt: ""
 
+  - id: "2-1"
+    label: "Fig. 1"
+    src: figures/Brunskog/Fig-1-Brunskog_Miyakoshi.jpg
+    caption: "Two trays. Urushi on a wooden base, each: 4.5 x 18.5 x 24.5 cm, pre-1776. Museum of Ethnography, (top) 1874-01-0001 (Riksmuseum inv. No. R.M. 1) and (bottom) 1874-01-0002 (Riksmuseum inv. No. R.M. 2), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
+    credit: 
+    alt: "Two rectangular, low, open trays with scalloped cutouts on the long sides, one decorated on the exterior sides with bamboo grass, the other with lilies in a waterscape. The insides have sprinkled gold flakes so called (nashiji) resembling pear-skin. The trays are fitted with feet and stackable on each other."
+
+  - id: "2-2"
+    label: "Fig. 2"
+    src: figures/Brunskog/Fig-2-Brunskog_Miyakoshi.jpg
+    caption: " Incense box, kobako. Urushi on a wooden base, gilded metal, 10.9 x 11.9 x 14 cm, 1700-1776. Museum of Ethnography inv. No. 1874-01-0003 (Riksmuseum inv. No. R.M. 3), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
+    credit: 
+    alt: "Square box with deeply overlapping lid with beveled edges. Inside fitted with a set of six nested, lidded containers. Outside makie decorations depicting kiri-mon leaves and flowers of Paulownia imperisalis on a pear-skin (nashiji) ground. Circular ornaments with the crest of Mikadon on two sides, to hold the now missing cord."
+
+  - id: "2-3"
+    label: "Fig. 3"
+    src: figures/Brunskog/Fig-3-Brunskog_Miyakoshi.jpg
+    caption: "Head rest. Urushi on a wooden base, 7 x 9.4 x 13.5 cm, c. 1760. Museum of Ethnography inv. No.  1874-01-0004 (Riksmuseum inv. No. R.M. 4). https://www.etnografiskamuseet.se/en/, image source: Carlotta."
+    credit: 
+    alt: "Rectangular, hollow, wood base coated with black urushi and decorated on all sides in gold hira-makie depicting scattered iris, carnation, and herbs. The sample position for analyses is marked with a yellow triangle."
+
+  - id: "2-4"
+    label: "Fig. 4"
+    src: figures/Brunskog/Fig-4-Brunskog_Miyakoshi.jpg
+    caption: " Incense container, kogo. Urushi on wood, 3 x 7.5 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0005 (Riksmuseum inv. No. R.M. 5a), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
+    credit: 
+    alt: "Cylindrical etui with lid, decorated with gold, silver, and red togidashi on a black ground. Outside decoration on the lid depicting a woman playing shamisen and inside a chrysanthemum. The sides with leaves and floral design."
+
+  - id: "2-5"
+    label: "Fig. 5"
+    src: figures/Brunskog/Fig-5-Brunskog_Miyakoshi.jpg
+    caption: "Drug container, inro. Urushi probably on a wooden base, 5 x 9 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0006 (Riksmuseum inv. No. R.M. 5b), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
+    credit: 
+    alt: "Five-tiered and lidded drug container with a densely scattered pear-skin (nashiji) ground inside and gold and silver kirikane and taka-makie on a thin pear-skin ground on the outside depicting plum foliage."
+
+  - id: "2-6"
+    label: "Fig. 6"
+    src: figures/Brunskog/Fig-6-Brunskog_Miyakoshi.jpg
+    caption: "Container. Transparent urushi on wood, 2.1 x 4.2 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0007 (Riksmuseum inv. No. R.M. 6). https://www.etnografiskamuseet.se/en/, image source: Carlotta."
+    credit: 
+    alt: "Cylindrical etui with lid turned from a single piece of wood, cut as hikimono yokobiki, i.e. with the grain parallel to the bottom and cover. Five concentric grooves on the top circumference the cover."
+
+  - id: "2-7"
+    label: "Fig. 7"
+    src: figures/Brunskog/Fig-7-Brunskog_Miyakoshi.jpg
+    caption: "Tobacco jar. Urushi on a wooden base, metal, 7 x 8.5 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0008 (Riksmuseum inv. No. R.M. 7). https://www.etnografiskamuseet.se/en/, image source: Carlotta."
+    credit: 
+    alt: "Cylindrical, lidded, black-coated jar with a fillet-shaped rim, on the outside decorated in gold hira-makie depicting pines. Lined inside with metal."
+
+  - id: "2-8"
+    label: "Fig. 8"
+    src: figures/Brunskog/Fig-8-Brunskog_Miyakoshi.jpg
+    caption: "Box, ori. Transparent urushi on wood, partly red-coated with urushi, c. 6 x 12 x 24 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0013. https://www.etnografiskamuseet.se/en/, image source: Carlotta."
+    credit: 
+    alt: "Rectangular box with deeply overlapping lid. The lid has scalloped cutouts on the long sides and is partly red-coated (bengara) with urushi."
+
+  - id: "2-9"
+    label: "Fig. 9"
+    src: figures/Brunskog/Fig-9-Brunskog_Miyakoshi.jpg
+    caption: "Barber plate with tasseled cord. Urushi on a wooden base, silk, 5.7 x 24.2 cm, pre-1776. Museum of Ethnography inv No. 1874-01-0014 (Riksmuseum inv. No. R.M. 13a), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
+    credit: 
+    alt: "Shallow, round shaving basin with a semicircular cutout on its rim and a plaited cord with tassel on the opposite side. Decorated with gold hira-makie on red (bengara) ground depicting a flying phoenix and maple foliage. The sample position for analyses is marked with a yellow triangle."
+
+  - id: "2-10"
+    label: "Fig. 10"
+    src: figures/Brunskog/Fig-10-Brunskog_Miyakoshi.jpg
+    caption: "Barber plate with tasseled cord. Urushi on a wooden base, silk, 6 x 26 cm, pre-1776. Museum of Ethnography inv No. 1874-01-0015 (Riksmuseum inv. No. R.M. 13b), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
+    credit: 
+    alt: "Shallow round shaving basin with a semicircular cutout on its rim and a plaited cord with tassel on the opposite side. Decorated with gold hira-makie on red (bengara) ground depicting autumn plant foliage."
+
+  - id: "2-11"
+    label: "Fig. 11"
+    src: figures/Brunskog/Fig-11-Brunskog_Miyakoshi.jpg
+    caption: "Tobacco pipe, kiseru, with sleeve and tobacco pouch. Transparent red urushi on bamboo, metal, textile, silk, 0.5 x 28.5 cm, pre-1776. Museum of Ethnography inv. Nos. 1874-01-0052 and 1874-01-0023 (Riksmuseum inv. Nos. R.M. 43 and R.M. 19), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
+    credit: 
+    alt: "Long smoking pipe of red-coated bamboo with metal fittings in both ends."
+
+  - id: "2-12"
+    label: "Fig. 12"
+    src: figures/Brunskog/Fig-12-Brunskog_Miyakoshi.jpg
+    caption: "Case and barber knife. Wiped urushi on wood, steel, 2.8 x 4.5 x 24 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0024 (Riksmuseum inv. No. R.M. 20), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
+    credit: 
+    alt: "Foldable case for two barber knives, made of an unidentified wood species and possibly wiped with urushi."
+
+  - id: "2-13"
+    label: "Fig. 13"
+    src: figures/Brunskog/Fig-13-Brunskog_Miyakoshi.jpg
+    caption: "Brush, hake. Wood, hair. Unidentified wood species, probably human (female) hair, 2 x 15.5 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0025 (Riksmuseum inv. No. R.M. 22), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
+    alt: "Flat brush cut at an angle at the hair, for application of urushi."
+
+  - id: "2-14"
+    label: "Fig. 14"
+    src: figures/Brunskog/Fig-14-Brunskog_Miyakoshi.jpg
+    caption: "Awl, kiri. Urushi on a wooden base, ivory, steel, 14 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0027 (Riksmuseum inv. No 23), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
+    credit: 
+    alt: "Piercing tool of steel with handle and cap of urushi-coated wood with makie decorations and ivory trimmings."
+
+  - id: "2-15"
+    label: "Fig. 15"
+    src: figures/Brunskog/Fig-15-Brunskog_Miyakoshi.jpg
+    caption: " Two balances in their cases. Transparent urushi on wood, and bamboo, bone, metal, silk, 6 x 28.5 cm (top) and 2.6 x 6 x 31.5 cm (below), pre-1776. Museum of Ethnography inv. No. 1874-01-0037 (Riksmuseum inv. No. R.M. 31) (top) and Museum of Ethnography inv. No. 1874-01-0101 (Riksmuseum inv. No. 107) (bottom), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
+    credit: 
+    alt: "Violin-shaped cases of transparently urushi-coated wood and bamboo for steelyard balances made of yellow metal plates, bone scales, metal sliding counterweights, and silk yarn and suspension strings."
+
+  - id: "2-16"
+    label: "Fig. 16"
+    src: figures/Brunskog/Fig-16-Brunskog_Miyakoshi.jpg
+    caption: "Candle, warusoku. Wax, Japan wax, 2 x 15 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0048 (Riksmuseum inv. No. R.M. 39), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
+    credit: 
+    alt: "Traditional candle probably made from nuts of the wax tree (haze)."
+
+  - id: "2-17"
+    label: "Fig. 17"
+    src: figures/Brunskog/Fig-17-Brunskog_Miyakoshi.jpg
+    caption: "A set of miniatures. Partly wiped, transparent, and opaque urushi on wood, 0.2 – 1.2 cm, pre-1776. Museum of Ethnography inv. No 1874-01-0067 (Riksmuseum inv. No R.M. 54), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
+    credit: 
+    alt: "Ten turned miniatures including: a cockware or sake pot? (kama? yu-oke?) 1 x 1 cm, a foot, stove, or burner 0.8 x 1.2 cm, two (sake? rice?) cups (sakazuki?) 0.3 x 0.7 cm and 0.4 x 0.7 cm, the latter with a red line around its body. Six, lidded, spherical containers-within-containers with fillet-shaped rims, in descending size 10-2 mm in diameter. The utensils might also be recognized as a toilet-set (watashikane-bako), for blackening of teeth including a kettle to heat the stain."
+
+  - id: "2-18"
+    label: "Fig. 18"
+    src: figures/Brunskog/Fig-18-Brunskog_Miyakoshi.jpg
+    caption: "Casket, ke hako? Black and red urushi on a wooden base, gilded metal, 17.3 x 23 x 36 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0085 (Riksmuseum inv. No. R.M. 67), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
+    credit: 
+    alt: "Small chest for food, clothes, papers, or stationary. Details of the back (top right) and lid (bottom right). On exterior sides, black urushi with gold hira-makie on red (bengara) ground depicting pavilions, pine trees, and bamboo in a rocky landscape whereas the interior is monochrome in red urushi. The lid is convexly and concavely fillet-shaped along top edges decorated with paulownia foliage. The box has convex fillet at the corners. Hinges, keyhole fitting, and two handles of metal. The sample position for analyses is marked with a yellow triangle."
+
+  - id: "2-19"
+    label: "Fig. 19"
+    src: figures/Brunskog/Fig-19-Brunskog_Miyakoshi.jpg
+    caption: "A pair of saucers. Urushi on a wooden base, each: 2.5 x 18 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0086A-B (Riksmuseum inv. No. R.M. 86), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
+    credit: 
+    alt: "Round and shallow vessels for eating or drinking, decorated with floral design in gold togidashi makie. The sample position for analyses is marked with a yellow triangle and red arrow."
+
+  - id: "2-20"
+    label: "Fig. 20"
+    src: figures/Brunskog/Fig-20-Brunskog_Miyakoshi.jpg
+    caption: "A pair of cases. Red and green urushi on a wooden base, each: c. 7 x 19 x c. 34.5 cm, pre-1776.    Museum of Ethnography inv. No. 1874-01-0099 (Riksmuseum inv. No. R.M. 99A) (top) and Museum of Ethnography inv. No. 1874-01-0100 (Riksmuseum inv. No. R.M. 89B) (bottom),  https://www.etnografiskamuseet.se/en/, image source: Carlotta."
+    credit: 
+    alt: " Flat, lidded, rectangular cases, outside monochrome red urushi with gold makie depicting a mirrored motif with flowers in a vase and a coal burner framed with gold and silver lines. One case also with Japanese kanji scripts, the other with a flying bird. Inside stamped on the monochrome green urushi surface."
+
+  - id: "2-22"
+    label: "Fig. 22"
+    src: figures/Brunskog/Fig-21-Brunskog_Miyakoshi.jpg
+    caption: "Plates 1 and 12 in **Nihon sankai meibutsu zue** (1754), vol. 3, depict an urushi workshop (left) and sap harvest (right). 16 x 22.5 cm. Uppsala University Library, https://www.alvin- portal.org, alvin-record: 91821."
+    credit: 
+    alt: "Japanese book with woodcut prints illustrating crafts and manufacture along with captions describing essential characteristics."
+
+  - id: "2-21"
+    label: "Fig. 21"
+    src: figures/Brunskog/Fig-22-Brunskog_Miyakoshi.jpg
+    caption: "Postage stamp: polychrome steel engraving on paper. Svenolov Ehrén, designer; Czeslaw Slania, engraver, 1973. Postmuseum, https://digitaltmuseum.se/021026478706/frimarke."
+    credit: 
+    alt: "Carl Peter Thunberg's portrait is depicted in the foreground with peonies and a Japanese setting."
+
+  - id: "2-23"
+    label: "Fig. 23"
+    src: figures/Brunskog/Fig-23-Brunskog_Miyakoshi.jpg
+    caption: "City map. Woodcut print on paper, 66 x 90 cm, Edo period c. 1772─ c. 1776. Uppsala University Library, https://www.alvin-portal.org, alvin-record: 91727."
+    credit: 
+    alt: "A Japanese map of Nagasaki city where north is to the right and the fan-shaped island Deshima (Dejima) in the middle. In the harbor, four large vessels from left to right, a Dutch, Chinese, Dutch, and Scandinavian ship. Thunberg’s notes in red pencil, similar to the notes in his Japanese books."
+
+  - id: "2-24"
+    label: "Fig. 24"
+    src: figures/Brunskog/Fig-24-Brunskog_Miyakoshi.jpg
+    caption: " Map. Copper engraving, print on paper, polychrome, coloured by hand, 49 x 56.7 cm, c. 1720─1730. https://inter-antiquariaat.nl."
+    credit: 
+    alt: "Map of Japan (cropped) based on Engelbert Kaemphe's sketches, showing the shogunal road Tōkaidō, between Kyoto and Tokyo, one of the five main feudal roads Japan, map, Red dot = start and endpoint for Thunberg´s journey; blue dot = start and endpoint for the sea crossing; yellow dot = places noted in Resa."
+
+  - id: "2-25"
+    label: "Fig. 25"
+    src: figures/Brunskog/Fig-25-Brunskog_Miyakoshi.jpg
+    caption: "Painting by Kawahara Keiga  川原慶賀 (1786─1860?) , polychrome watercolour on paper, late Edo-period 1823─1829. en.wikipedia.org, accessed January 29, 2022."
+    credit: 
+    alt: " Image depicting three men, two women, and a child (Philipp von Siebold with his Japanese lover Kusumoto Otaki 楠本滝 and baby-daughter Kusumoto Ine, together with Dutch personnel and Japanese woman) standing on a roof in Dejima, looking south to the Bay of Nagasaki, watching rowing boats and observing with a telescope an incoming towed Dutch sailing ship. The mountains of south-west Kyūshū at the horizon. "
+
+  - id: "2-26"
+    label: "Fig. 26"
+    src: figures/Brunskog/Fig-26-Brunskog_Miyakoshi.jpg
+    caption: "Keisuke Ito's translation of **Flora iaponica**, woodcut print on paper, page 35, 18 x 26 cm, 1829. Uppsala University Library, https://www.alvin-portal.org, alvin-record: 153420."
+    credit: 
+    alt: "Japanese book with woodcut prints illustrating crafts and manufacture along with captions describing essential characteristics. The third and forth entries from the left list the two lacquer trees Rhus vernix and R. succedaneum, with the kanji script for urushi marked with red circles."
+
+  - id: "2-27"
+    label: "Fig. 27"
+    src: figures/Brunskog/Fig-27-Brunskog_Miyakoshi.jpg
+    caption: "Specimens of **Rhus succedanea** L. (left) and **Rhus vernix** L. (right). Herbarium, Uppsala (UPS), catalogued UPS-THUNB nos. 7372 and 7384. Museum of Evolution. Image source: UPS catalogue."
+    credit: 
+    alt: "Two pressed lacquer tree twigs with leaves, flowers, and nuts, attached to paper with handwritten notes."
+
+  - id: "2-28"
+    label: "Fig. 28"
+    src: figures/Brunskog/Fig-28-Brunskog_Miyakoshi.jpg
+    caption: "Sample 4 from the headrest (Fig 3) (top) captured under the microscope: surface (left) and underside (right). The cross-section (bottom) is captured in different light conditions: visible reflected and transmitted (left) and polarised reflected and transmitted (right). The identified coating layers are marked a–d from the surface and downwards. A black triangle marks the coating surface."
+    credit: 
+    alt: ""
+
+  - id: "2-29"
+    label: "Fig. 29"
+    src: figures/Brunskog/Fig-29-Brunskog_Miyakoshi.jpg
+    caption: "Sample 14 from the barber plate (Fig. 9) captured under the microscope: surface (left) and underside (right). Bottom: The cross-section is captured in different light conditions: visible reflected and transmitted (left), and polarised reflected and transmitted (right). The identified coating layers are marked a–b from the surface and downwards."
+    credit: 
+    alt: ""
+
+  - id: "2-30"
+    label: "Fig. 30"
+    src: figures/Brunskog/Fig-30-Brunskog_Miyakoshi.jpg
+    caption: "Top: Sample 85 from the casket (Fig. 18) captured under the microscope: surface (left) and underside (right). Bottom: The cross-section is captured in visible reflected and transmitted (left), and polarised reflected and transmitted (right). The identified coating layers are marked a–c from the surface and downwards. A black triangle marks the coating surface."
+    credit: 
+    alt: ""
+
+  - id: "2-31"
+    label: "Fig. 31"
+    src: figures/Brunskog/Fig-31-Brunskog_Miyakoshi.jpg
+    caption: "Top: Sample 86B from the saucer (Fig. 19) was captured under the microscope: surface (left) and underside (right). Bottom: The cross-section is captured in visible reflected and transmitted (left) and polarised reflected and transmitted (right). The identified coating layers are marked a–d from the surface and downwards. A black triangle marks the coating surface."
+    credit: 
+    alt: ""
+
+  - id: "2-32"
+    label: "Fig. 32"
+    src: figures/Brunskog/Fig-32-Brunskog_Miyakoshi.jpg
+    caption: "EIC at m/z 202 data of sample 14 in which fluoranthene was detected."
+    credit: 
+    alt: ""
+
+  - id: "2-33"
+    label: "Fig. 33"
+    src: figures/Brunskog/Fig-33-Brunskog_Miyakoshi.jpg
+    caption: "EIC at m/z 108 data of sample 14. The simultaneous high peaks C7 and C15 are characteristic pyrolysates of urushiol. The triangle marks the position of other peaks associated with the pyrolysates of sap from **Toxicodendron vernicifluum**."
+    credit: 
+    alt: ""
+
+  - id: "2-34"
+    label: "Fig. 34"
+    src: figures/Brunskog/Fig-34-Brunskog_Miyakoshi.jpg
+    caption: "EIC at m/z 60 data of sample 86B in which palmitic and stearic acids were detected."
+    alt: 
+
+  - id: "2-35"
+    label: "Fig. 35"
+    src: figures/Brunskog/Fig-35-Brunskog_Miyakoshi.jpg
+    caption: "XRF data of sample 85 in which iron (Fe) and zinc (Zn) were detected."
+    credit: 
+    alt: ""
+
+  - id: "2-36"
+    label: "Fig. 36"
+    src: figures/Brunskog/Fig-36-Brunskog_Miyakoshi.jpg
+    caption: "Detail of the barber plate (Fig. 9) showing a red-tinged ground under the black finish in the same area that was subjected to sampling. (a) and (b) refer to the layers marked in Fig. 29."
+    alt: 
+
   - id: "3-1"
     label: "Fig. 1"
     src: figures/jasperse/fig-1-jasperse_et_al.jpg
