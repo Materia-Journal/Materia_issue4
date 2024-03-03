@@ -2,7 +2,7 @@
 label: VII
 title: "The Identification of Materials and Processes Used in the Manufacture of Orotone, Hand-Colored Orotone, and Silvertone Photographs"
 layout: essay
-order: 28
+order: 27
 peer_review: true
 class: page-one
 contributor:

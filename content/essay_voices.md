@@ -3,12 +3,11 @@ label: VIII
 title: "Voices from the Field"
 subtitle: "Collaboration in Technical Art History"
 layout: essay
-order: 30
+order: 28
 class: page-one
 
     
 ---
-
 In the last issue of *Materia*, we launched a new, interview-based series titled “Voices from the Field,”[^1] designed to encourage discussion and debate on the topic of technical art history as an academic discipline. How do we define the field? Can it be said to have a standardized methodology or theoretical framework? Is there room for improvement in how we approach the technical study of artworks, particularly when it comes to how we organize interdisciplinary collaborations?
 
 It is with this latter question in mind that we have conducted the interviews presented in this latest edition of “Voices from the Field.” Sticking with the current issue’s theme of Interdisciplinary Collaboration: Benefits and Challenges, we were keen to explore the perspectives of three different scholars, each representing the various fields typically associated with technical art history: conservation, conservation science, and art history. As will no doubt be familiar to many of our readers, technical art history deals with multiple different areas of expertise, ranging from traditional art historical knowledge grounded in archival research to domains of natural science, such as chemistry, optics, and mechanics. In addition, the tacit knowledge of practicing conservators is often of great value in technical research, as their first hand interactions with art objects provide a unique perspective that is difficult to replicate in other contexts.
