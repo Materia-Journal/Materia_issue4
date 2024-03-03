@@ -3,7 +3,7 @@ label: VIII
 title: "Voices from the Field"
 subtitle: "Collaboration in Technical Art History"
 layout: essay
-order: 30
+order: 28
 class: page-one
 
     
@@ -34,8 +34,6 @@ Professor Erma Hermens is Director of the Hamilton Kerr Institute for Easel Pain
 Norlander Eliasson is Full Professor in Art History at the Department of Culture and Aesthetics, Stockholm University. She is the founder and director of the international master’s program Technical Art History and the Art Museum. She is currently heading the project Art and Science: Cultural Transfer and Mobility in the Age of Liberty in collaboration with the Nationalmuseum in Stockholm and Emmebi Diagnostica Artistica in Rome. She is also currently deputy director for the Swedish Institute for Classical Studies in Rome (2023–2025).
 
 *Questions*
-
-**Questions for Erich**
 
 **You started out as a chemistry undergraduate and now you head the department at Washington and Lee University. How did you become interested in the technical study of art objects, and what motivates you to introduce your science students to this field of research?**
 
@@ -177,7 +175,7 @@ I was very pleased when I read Erich’s and Erma’s interviews since they perf
 
 [^1]: “Voices from the Field: Technical Art History Today,” *Materia: Journal of Technical Art History*, no. 3 (2022), [[https://issue-3.materiajournal.com/essay_voices-from-the-field/]{.underline}](https://issue-3.materiajournal.com/essay_voices-from-the-field/)
 
-[^2]: Erich Uffelman, “Teaching Science in Art: Technical Examination of 17th-Century Dutch Painting as Interdisciplinary Coursework for Science Majors and Nonmajors,” *Journal of Chemical Education* 84, no. 10 (2007): 1617–1624, <https://doi.org/10.1021/ed084p1617>; Erich Uffelman, “A Review of Materials for Teaching Science in Art: Technical Examination of 17th-Century Dutch Painting as Interdisciplinary Course Work for Non-Science and Science Majors,” *Journal of Chemical Education* (October 2007).
+[^2]: See for example: Erich Uffelman, “Teaching Science in Art: Technical Examination of 17th-Century Dutch Painting as Interdisciplinary Coursework for Science Majors and Nonmajors,” *Journal of Chemical Education* 84, no. 10 (2007): 1617–1624, <https://doi.org/10.1021/ed084p1617>
 
 [^3]: The details of this collaboration can be found in: Erich Uffelman, Liesbeth Abraham, Julia van den Burg, Samuel Florescu, René Hoppenbrouwers, Femke van der Knaap, Jorinde Koenen, Mireille Te Marvelde, Herman van Putten, Jessica Roeders, and Kate Seymour, “A New Three Legged Stool: Research and Educational Ventures Between the Frans Hals Museum, Stichting Restauratie Atelier Limburg, and Washington and Lee University,” ICOM Committee for Conservation preprints, 17th Triennial Meeting, Melbourne (Paris: ICOM, 2014), 0310.
 

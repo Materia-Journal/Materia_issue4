@@ -517,38 +517,38 @@ figure_list:
   - id: "7-1"
     label: "Fig. 1"
     src: figures/johnson-et-al/Fig-1-Johnson_et_al.jpg
-    caption: A collection of orotones and silvertones from the University of Washington Libraries Special Collections. a) Asahel Curtis, Mt. Rainier and Mirror Lake, ca. 1910–1940, orotone photograph, 49.5 x 41.9 cm frame size, Dan Davis Mountain Photograph Collection, PH 1238.11, PNWCSC #O2. b) Norman Edson, South Side of Mt. Rainier, ca. 1911-1940, orotone photograph, 45.1 x 37.1 cm frame size, Dan Davis Mountain Photograph Collection, PH 1238.53, PNWCSC #O7. c) Arthur C. Pillsbury, Snow Arched Way, date unknown, silvertone photograph, 17.8 x 12.1 cm frame size, Dan Davis Mountain Photograph Collections, PH 1135, PNWCSC #O27.
-    alt: Two framed orotone photographs in art-nouveau style frames and one silvertone photograph in a plain wooden frame.
+    caption: "A collection of orotones and silvertones from the University of Washington Libraries Special Collections. a) Asahel Curtis, Mt. Rainier and Mirror Lake, ca. 1910–1940, orotone photograph, 49.5 x 41.9 cm frame size, Dan Davis Mountain Photograph Collection, PH 1238.11, PNWCSC #O2. b) Norman Edson, South Side of Mt. Rainier, ca. 1911-1940, orotone photograph, 45.1 x 37.1 cm frame size, Dan Davis Mountain Photograph Collection, PH 1238.53, PNWCSC #O7. c) Arthur C. Pillsbury, Snow Arched Way, date unknown, silvertone photograph, 17.8 x 12.1 cm frame size, Dan Davis Mountain Photograph Collections, PH 1135, PNWCSC #O27."
+    alt: "Two framed orotone photographs in art-nouveau style frames and one silvertone photograph in a plain wooden frame."
 
   - id: "7-2"
     label: "Fig. 2"
     src: figures/johnson-et-al/Fig-2-Johnson_et_al.jpg
-    caption: Cross-section of the layer structure of an orotone or silvertone photograph. The black dots represent silver atom clusters that form the image. The metal flake can be present on top of the varnish as shown or mixed into the varnish.
-    alt: Diagram of the layer structure of an orotone and silvertone showing the glass support and backing comprised of the emulsion, varnish, and metal flake layers.
+    caption: "Cross-section of the layer structure of an orotone or silvertone photograph. The black dots represent silver atom clusters that form the image. The metal flake can be present on top of the varnish as shown or mixed into the varnish."
+    alt: "Diagram of the layer structure of an orotone and silvertone showing the glass support and backing comprised of the emulsion, varnish, and metal flake layers."
 
   - id: "7-3"
     label: "Fig. 3"
     src: figures/johnson-et-al/Fig-3-Johnson_et_al.jpg
-    caption: a) the backing of PNWCSC #O16 with clear striations associated with a poured-on varnish with metal flake mixed in b) the backing of PNWCSC #O18 with a characteristically uneven density of gold tone typical of a dusted-on metal flake c) a microsample from PNWCSC #O2 with metal flake distributed through the entire varnish, indicating a mixed-in metal flake d) a microsample from PNWCSC #O18 indicates a dusted-on flake with its very shiny, friable surface
-    alt: An array of four images showing a gold surface in the top two images and small gold samples under magnification in the lower two images.
+    caption: "a) the backing of PNWCSC #O16 with clear striations associated with a poured-on varnish with metal flake mixed in b) the backing of PNWCSC #O18 with a characteristically uneven density of gold tone typical of a dusted-on metal flake c) a microsample from PNWCSC #O2 with metal flake distributed through the entire varnish, indicating a mixed-in metal flake d) a microsample from PNWCSC #O18 indicates a dusted-on flake with its very shiny, friable surface."
+    alt: "An array of four images showing a gold surface in the top two images and small gold samples under magnification in the lower two images."
 
   - id: "7-4"
     label: "Fig. 4"
     src: figures/johnson-et-al/Fig-4-Johnson_et_al.jpg
-    caption: The backing of PNWCSC #O9 shows abrasions and loss of flake in the lower right corner, indicating the flake was dusted on. This is confirmed by a fragmented and friable microsample of the backing at 40x magnification.
-    alt: Gold-colored flakes with scale bar overlaid onto the scratched gold-colored back of an orotone.
+    caption: "The backing of PNWCSC #O9 shows abrasions and loss of flake in the lower right corner, indicating the flake was dusted on. This is confirmed by a fragmented and friable microsample of the backing at 40x magnification."
+    alt: "Gold-colored flakes with scale bar overlaid onto the scratched gold-colored back of an orotone."
 
   - id: "7-5"
     label: "Fig. 5"
     src: figures/johnson-et-al/Fig-5-Johnson_et_al.jpg
-    caption: a) Oxygen, b) silicon, c) sodium, d) calcium, and e) aluminum SEM/EDS elemental maps collected from the PNWCSC #O27 microsample.
-    alt: Color-coded elemental maps of a small orotone sample showing the distribution of elements throughout.
+    caption: "a) Oxygen, b) silicon, c) sodium, d) calcium, and e) aluminum SEM/EDS elemental maps collected from the PNWCSC #O27 microsample."
+    alt: "Color-coded elemental maps of a small orotone sample showing the distribution of elements throughout."
 
   - id: "7-6"
     label: "Fig. 6"
     src: figures/johnson-et-al/Fig-6-Johnson_et_al.jpg
-    caption: a) PNWCSC #O7 with all test areas labeled and b) the XRF spectra collected for some of those areas (40 kV, 7.60 μA, 60 sec acquisition time, and 0.001” Cu, 0.001” Ti, and 0.012” Al filter) with low-energy (top) and high-energy (bottom) insets. Elements with an asterisk (*) were present from the background or instrumental artifacts.
-    alt: Orotone in upper left next to XRF spectra showing the elements present in the pigments used to hand-color the image.
+    caption: "a) PNWCSC #O7 with all test areas labeled and b) the XRF spectra collected for some of those areas (40 kV, 7.60 μA, 60 sec acquisition time, and 0.001” Cu, 0.001” Ti, and 0.012” Al filter) with low-energy (top) and high-energy (bottom) insets. Elements with an asterisk (*) were present from the background or instrumental artifacts."
+    alt: "Orotone in upper left next to XRF spectra showing the elements present in the pigments used to hand-color the image."
 
   - id: "7-7"
     label: "Fig. 7"
