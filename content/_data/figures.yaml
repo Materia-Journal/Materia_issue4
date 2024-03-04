@@ -514,6 +514,276 @@ figure_list:
     caption: "Photograph of Delaunois' house-atelier at 132 rue de Tirlemont in Heverlee, from a photo album dated 1955, M Leuven. Highlighted in blue: *Vision de Moine* framed together with a pendant."
     alt: "Black and white photograph taken in Delaunois's living room, with the artwork framed, among art and decorative objects"
 
+  - id: "6-1a"
+    label: "Fig. 1.1"
+    src: figures/salinas-et-al/Fig-1.1-Rodriquez-Salinas_et_al.JPG
+    caption: "Front view of dress K-98-3000."
+    alt: ""
+
+  - id: "6-1b"
+    label: "Fig. 1.2"
+    src: figures/salinas-et-al/Fig-1.2-Rodriquez-Salinas_et_al.JPG
+    caption: "Detail view of dress K-98-3000."
+    alt: ""
+
+  - id: "6-1c"
+    label: "Fig. 1.3"
+    src: figures/salinas-et-al/Fig-1.3-Rodriquez-Salinas_et_al.jpg
+    caption: "Detail view of dress K-98-3000, showing missing smock."
+    alt: ""
+
+  - id: "6-1d"
+    label: "Fig. 1.4"
+    src: figures/salinas-et-al/Fig-1.4-Rodriquez-Salinas_et_al.jpg
+    caption: "Detail view of dress K-98-3000, showing characteristic interior brown stains associated with breastfeeding."
+    alt: ""
+
+  - id: "6-2a"
+    label: "Fig. 2.1"
+    src: figures/salinas-et-al/Fig-2.1-Rodriquez-Salinas_et_al.jpg
+    caption: "Sample taken from the archives of Liberty Fabrics catalogues of Chefoo and Odori silks in characteristic pink-mauve colours similar to the one seen in teh KMDH dress. Photo (c) Liberty Retail, 2023."
+    alt: ""
+
+  - id: "6-2b"
+    label: "Fig. 2.2"
+    src: figures/salinas-et-al/Fig-2.2-Rodriquez-Salinas_et_al.jpg
+    caption: "Sample taken from the archives of Liberty Fabrics catalogues of Chefoo and Odori silks in characteristic pink-mauve colours similar to the one seen in teh KMDH dress. Photo (c) Liberty Retail, 2023."
+    alt: ""
+
+  - id: "6-2c"
+    label: "Fig. 2.3"
+    src: figures/salinas-et-al/Fig-2.3-Rodriquez-Salinas_et_al.jpg
+    caption: "Sample taken from the archives of Liberty Fabrics catalogues of Chefoo and Odori silks in characteristic pink-mauve colours similar to the one seen in teh KMDH dress. Photo (c) Liberty Retail, 2023."
+    alt: ""
+
+  - id: "6-2d"
+    label: "Fig. 2.4"
+    src: figures/salinas-et-al/Fig-2.4-Rodriquez-Salinas_et_al.jpg
+    caption: "Sample taken from the archives of Liberty Fabrics catalogues of Chefoo and Odori silks in characteristic pink-mauve colours similar to the one seen in teh KMDH dress. Photo (c) Liberty Retail, 2023."
+    alt: ""
+
+  - id: "6-3"
+    label: "Fig. 3"
+    src: figures/salinas-et-al/Fig-3-Rodriquez-Salinas_et_al.jpg
+    caption: "Four Liberty dresses and two reform dresses, highlighting the different typologies used for the house and the inspiration taken by the reform activists. Photo taken in 2011 during the exhibition *Fashion & Art* at KMDH. Left to right: Liberty (ca. 1908); Liberty (1911; collection of Centraal Museum Utrecht), Liberty (ca. 1910), Margaine-Lacroix (ca. 1900--1910); Leo Simonis, Arts & Modes (ca. 1910--15); Liberty & Co.? (ca. 1912). Photo: Alice de Groot."
+    alt: ""
+
+  - id: "6-4a"
+    label: "Fig. 4.1"
+    src: figures/salinas-et-al/Fig-4.1-Rodriquez-Salinas_et_al.jpg
+    caption: "Rational dress, Palazzo Morando (SN 42, ca. 1908--9). © Comune di Milano. All rights reserved. Palazzo Morando/Costume Moda Immagine, Milan. Photo: Giulia Bellezza."
+    alt: ""
+
+  - id: "6-4b"
+    label: "Fig. 4.2"
+    src: figures/salinas-et-al/Fig-4.2-Rodriquez-Salinas_et_al.jpg
+    caption: "KMDH dress K-32-1973 (ca. 1905--10). The two dresses not only share a similar design but also similar materials and trimmings. © Comune di Milano. All rights reserved. Palazzo Morando/Costume Moda Immagine, Milan. Photo: Giulia Bellezza."
+    alt: ""
+
+  - id: "6-5a"
+    label: "Fig. 5.1"
+    src: figures/salinas-et-al/Fig-5.1-Rodriquez-Salinas_et_al.jpg
+    caption: "Liberty fashion illustration (KDMH, PRK-1000-1033) showing close similarities with the dress from this research, such as the sleeves, the smock work, and the neck. The pink dress was called \"Dorothy,\" an eighteenth-century-style house robe of Tyrian silk with smocking at the neck, waist, and sleeves. Both are From a Liberty catalogue first published in London in 1905."
+    alt: ""
+
+  - id: "6-5b"
+    label: "Fig. 5.2"
+    src: figures/salinas-et-al/Fig-5.2-Rodriquez-Salinas_et_al.jpg
+    caption: "Liberty fashion illustration (KDMH, PRK-1000-1195) showing close similarities with the dress from this research, such as the sleeves, the smock work, and the neck. The light yellow dress was called \"Cecilia.\" Both are from a Liberty catalogue first published in London in 1905."
+    alt: ""
+
+  - id: "6-6a"
+    label: "Fig. 6.1"
+    src: figures/salinas-et-al/Fig-6.1-Rodriquez-Salinas_et_al.jpg
+    caption: "Girl's dress (ca. 1897; KMDH, K 348-1981) worn by Henriette Kitty Wertheim (1892--1966), made with Liberty's velvet following the characteristic designs of Kate Greenaway."
+    alt: ""
+
+  - id: "6-6b"
+    label: "Fig. 6.2"
+    src: figures/salinas-et-al/Fig-6.2-Rodriquez-Salinas_et_al.jpg
+    caption: "Detail of girl's dress (ca. 1897; KMDH, K 348-1981)."
+    alt: ""
+
+  - id: "6-6c"
+    label: "Fig. 6.3"
+    src: figures/salinas-et-al/Fig-6.3-Rodriquez-Salinas_et_al.jpg
+    caption: "In this archival photograph, Henriette's sister (at the far right) wears a dress of the same style (unfortunately not preserved)."
+    alt: ""
+
+  - id: "6-7a"
+    label: "Fig. 7.1"
+    src: figures/salinas-et-al/Fig-7.1-Rodriquez-Salinas_et_al.jpg
+    caption: "Detail of Liberty walking suit (blouse, skirt, jacket, and mittens; KMDH, K-161-1969)."
+    alt: ""
+
+  - id: "6-7b"
+    label: "Fig. 7.2"
+    src: figures/salinas-et-al/Fig-7.2-Rodriquez-Salinas_et_al.jpg
+    caption: "Detail of Liberty walking suit (blouse, skirt, jacket, and mittens; KMDH, K-161-1969)."
+    alt: ""
+
+  - id: "6-7c"
+    label: "Fig. 7.3"
+    src: figures/salinas-et-al/Fig-7.3-Rodriquez-Salinas_et_al.JPG
+    caption: "Dress K-98-3000 [Fig. 1]). Note the simplicity of the smock work compared to K-161-1969, as well as the absence of embroidered flower motifs and buttons."
+    alt: ""
+
+  - id: "6-7d"
+    label: "Fig. 7.4"
+    src: figures/salinas-et-al/Fig-7.4-Rodriquez-Salinas_et_al.JPG
+    caption: "Dress K-98-3000 [Fig. 1]). Note the simplicity of the smock work compared to K-161-1969,  as well as the absence of embroidered flower motifs and buttons."
+    alt: ""
+
+  - id: "6-8a"
+    label: "Fig. 8.1"
+    src: figures/salinas-et-al/Fig-8.1-Rodriquez-Salinas_et_al.jpeg
+    caption: "Example of the use of Indonesian informal house garments. *Slaapbroek* and *baadje* worn by men; *kebaja* and *sarong* worn by women."
+    alt: ""
+
+  - id: "6-8b"
+    label: "Fig. 8.2"
+    src: figures/salinas-et-al/Fig-8.2-Rodriquez-Salinas_et_al.jpg
+    caption: "Example of the use of Indonesian informal house garments. A Dutch woman in Batavia-Indonesia, dressed in *sarong* and *kebaja*. Photo by Hermann & Co., Kunstmuseum Collection."
+    alt: ""
+
+  - id: "6-8c"
+    label: "Fig. 8.3"
+    src: figures/salinas-et-al/Fig-8.3-Rodriquez-Salinas_et_al.jpg
+    caption: "Self-portrait of the Dutch-Indonesian painter Jan Toorop wearing *slaapbroek* and *baadje*, seated among batiks and other fabrics in his atelier. Oil on canvas, 45 x 32.5 cm, Kunstmuseum Den Haag, SCH 1932-0026 (1880)."
+    alt: ""
+
+  - id: "6-9"
+    label: "Fig. 9"
+    src: figures/salinas-et-al/Fig-9-Rodriquez-Salinas_et_al.JPG
+    caption: "Detail of the mechanical tulle application covering the original smock work on dress K-98-3000."
+    alt: ""
+
+  - id: "6-10"
+    label: "Fig. 10"
+    src: figures/salinas-et-al/Fig-10-Rodriquez-Salinas_et_al.jpg
+    caption: "(left) Detail of the smock work from dress K-98-3000. (right) A diagram showing the way the smock work was carried out. Note that the numbers show the position of the thread and the dots indicate the position of the pleats taken by the needle."
+    alt: ""
+
+  - id: "6-11a"
+    label: "Fig. 11.1"
+    src: figures/salinas-et-al/Fig-11.1-Rodriquez-Salinas_et_al.jpg
+    caption: "SEM-EDX of the elements identified as the warp from dress K-98-3000, showing the lack of metal components associated with the weighted silks. Analyses by Livio Ferrazza."
+    alt: ""
+
+  - id: "6-11b"
+    label: "Fig. 11.2"
+    src: figures/salinas-et-al/Fig-11.2-Rodriquez-Salinas_et_al.jpg
+    caption: "SEM-EDX of the elements identified as the weft from dress K-98-3000, showing the lack of metal components associated with the weighted silks. Analyses by Livio Ferrazza."
+    alt: ""
+
+  - id: "6-12a"
+    label: "Fig. 12.1"
+    src: figures/salinas-et-al/Fig-12.1-Rodriquez-Salinas_et_al.JPG
+    caption: "Detail of the fragile silk seen on dress K-98-3000, with partly missing smock areas at the front as well as the wrists."
+    alt: ""
+
+  - id: "6-12b"
+    label: "Fig. 12.2"
+    src: figures/salinas-et-al/Fig-12.2-Rodriquez-Salinas_et_al.JPG
+    caption: "Detail of the fragile silk seen on dress K-98-3000, with partly missing smock areas at the front as well as the wrists."
+    alt: ""
+
+  - id: "6-12c"
+    label: "Fig. 12.3"
+    src: figures/salinas-et-al/Fig-12.3-Rodriquez-Salinas_et_al.JPG
+    caption: "Detail of the fragile silk seen on dress K-98-3000, with partly missing smock areas at the front as well as the wrists."
+    alt: ""
+
+  - id: "6-12d"
+    label: "Fig. 12.4"
+    src: figures/salinas-et-al/Fig-12.4-Rodriquez-Salinas_et_al.JPG
+    caption: "Detail of the fragile silk seen on dress K-98-3000, with partly missing smock areas at the front as well as the wrists."
+    alt: ""
+
+  - id: "6-13a"
+    label: "Fig. 13.1"
+    src: figures/salinas-et-al/Fig-13.1-Rodriquez-Salinas_et_al.jpeg
+    caption: "Reproduction of the smock work over the mock-up with the habutai silk made with the new brown thread."
+    alt: ""
+
+  - id: "6-13b"
+    label: "Fig. 13.2"
+    src: figures/salinas-et-al/Fig-13.2-Rodriquez-Salinas_et_al.jpeg
+    caption: "Reproduction of the smock work over the mock-up with the habutai silk made with the new brown thread."
+    alt: ""
+
+  - id: "6-13c"
+    label: "Fig. 13.3"
+    src: figures/salinas-et-al/Fig-13.3-Rodriquez-Salinas_et_al.jpeg
+    caption: "Reproduction of the smock work over the mock-up with the habutai silk made with the new brown thread."
+    alt: ""
+
+  - id: "6-13d"
+    label: "Fig. 13.4"
+    src: figures/salinas-et-al/Fig-13.4-Rodriquez-Salinas_et_al.jpeg
+    caption: "Reproduction of the smock work over the mock-up with the habutai silk made with the new brown thread."
+    alt: ""
+
+  - id: "6-13e"
+    label: "Fig. 13.5"
+    src: figures/salinas-et-al/Fig-13.5-Rodriquez-Salinas_et_al.jpeg
+    caption: "Reconstruction of the smock work over the original silk after the consolidation with the silk crepeline and habutai silk and the addition of the new brown thread."
+    alt: ""
+
+  - id: "6-13f"
+    label: "Fig. 13.6"
+    src: figures/salinas-et-al/Fig-13.6-Rodriquez-Salinas_et_al.jpeg
+    caption: "Reconstruction of the smock work over the original silk after the consolidation with the silk crepeline and habutai silk and the addition of the new brown thread."
+    alt: ""
+
+  - id: "6-13g"
+    label: "Fig. 13.7"
+    src: figures/salinas-et-al/Fig-13.7-Rodriquez-Salinas_et_al.jpeg
+    caption: "Reconstruction of the smock work over the original silk after the consolidation with the silk crepeline and habutai silk and the addition of the new brown thread."
+    alt: ""
+
+  - id: "6-13h"
+    label: "Fig. 13.8"
+    src: figures/salinas-et-al/Fig-13.8-Rodriquez-Salinas_et_al.jpeg
+    caption: "Reconstruction of the smock work over the original silk after the consolidation with the silk crepeline and habutai silk and the addition of the new brown thread."
+    alt: ""
+
+  - id: "6-14a"
+    label: "Fig. 14.1"
+    src: figures/salinas-et-al/Fig-14.1-Rodriquez-Salinas_et_al.jpeg
+    caption: "Before conservation treatment."
+    alt: ""
+
+  - id: "6-14b"
+    label: "Fig. 14.2"
+    src: figures/salinas-et-al/Fig-14.2-Rodriquez-Salinas_et_al.jpg
+    caption: "Following the reconstruction of the lining and the smock work. Note the two brown stains around the breast."
+    alt: ""
+
+  - id: "6-15a"
+    label: "Fig. 15.1"
+    src: figures/salinas-et-al/Fig-15.1-Rodriquez-Salinas_et_al.jpg
+    caption: "Dress K-98-3000 after conservation treatment, showing the original design of a reform dress from 1903 that is very similar to Liberty creations."
+    alt: ""
+
+  - id: "6-15b"
+    label: "Fig. 15.2"
+    src: figures/salinas-et-al/Fig-15.2-Rodriquez-Salinas_et_al.jpg
+    caption: "Dress K-98-3000 after conservation treatment, showing the original design of a reform dress from 1903 that is very similar to Liberty creations."
+    alt: ""
+
+  - id: "6-15c"
+    label: "Fig. 15.3"
+    src: figures/salinas-et-al/Fig-15.3-Rodriquez-Salinas_et_al.jpg
+    caption: "Dress K-98-3000 after conservation treatment, showing the original design of a reform dress from 1903 that is very similar to Liberty creations."
+    alt: ""
+
+  - id: "6-15d"
+    label: "Fig. 15.4"
+    src: figures/salinas-et-al/Fig-15.4-Rodriquez-Salinas_et_al.jpg
+    caption: "Detail of dress K-98-3000, showing that the new conservation thread is slightly lighter than the original thread."
+    alt: ""
+
   - id: "7-1"
     label: "Fig. 1"
     src: figures/johnson-et-al/Fig-1-Johnson_et_al.jpg
