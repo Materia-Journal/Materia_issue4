@@ -32,7 +32,7 @@ Norlander Eliasson is Full Professor in Art History at the Department of Culture
 
 Since 1999 Uffelman has taught a course on the technical examination of seventeenth-century Dutch painting. He has been awarded external funding from the National Science Foundation (NSF), American Chemical Society-PRF, Research Corporation, Hewlett Packard, Associated Colleges of the South, Kress Foundation, among others. Uffelman helped teach the NSF CWCS Chemistry in Art Workshops from 2005 to 2017 and was part of a Kress Foundation initiative spearheaded by Jennifer Mass and Rick Johnson to create a technical art history syllabus suitable for undergraduates. Among the museums and other institutions with which he has collaborated are the National Gallery of Art, Frans Hals Museum, Winterthur Museum, North Carolina Museum of Art, Stichting Restauratie Atelier Limberg, Mauritshuis, Smithsonian, Balboa Art Conservation Center, Monticello, Mount Vernon, Dordrechts Museum, Museum Boijmans van Beuningen, Bonnefanten Museum, Virginia Museum of Fine Art, Chrysler Museum, Rijksmuseum, Guggenheim, NU ACCESS, and dozens of colleges and universities.
 
-*Questions*
+### Questions
 
 **You started out as a chemistry undergraduate and now you head the department at Washington and Lee University. How did you become interested in the technical study of art objects, and what motivates you to introduce your science students to this field of research?**
 

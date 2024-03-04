@@ -378,7 +378,7 @@ figure_list:
   - id: "3-4.3"
     label: "Fig. 4C"
     src: figures/jasperse/fig-4.3-jasperse_et_al.jpg
-    caption: "(C) Microphotograph of the area of damage and loss of the white weft on the back."
+    caption: "&#40;C) Microphotograph of the area of damage and loss of the white weft on the back."
     alt: 
 
   - id: "3-4.4"
@@ -431,7 +431,7 @@ figure_list:
   - id: "3-6.3"
     label: "Fig. 6C"
     src: figures/jasperse/fig-6.3-jasperse_et_al.jpg
-    caption: "(C) Microphotograph of the yellow padding. Lewisham charter, The National Archives, Kew, E 42/524."
+    caption: "&#40;C) Microphotograph of the yellow padding. Lewisham charter, The National Archives, Kew, E 42/524."
     alt: 
 
   - id: "3-7"
@@ -449,7 +449,7 @@ figure_list:
   - id: "3-7.3"
     label: "Fig. 7C"
     src: figures/jasperse/fig-7.3-jasperse_et_al.jpg
-    caption: "(C) Detail of the herringbone weave of the cloth of arista (the image has been rotated to show the direction of warp and weft)."
+    caption: "&#40;C) Detail of the herringbone weave of the cloth of arista (the image has been rotated to show the direction of warp and weft)."
     alt: 
 
   - id: "3-8"
@@ -467,7 +467,7 @@ figure_list:
   - id: "3-8.3"
     label: "Fig. 8C"
     src: figures/jasperse/fig-8.3-jasperse_et_al.jpg
-    caption: "(C) Untidy stitching."
+    caption: "&#40;C) Untidy stitching."
     alt: 
 
   - id: "3-8.4"
@@ -503,7 +503,7 @@ figure_list:
   - id: "3-10.3"
     label: "Fig. 10C"
     src: figures/jasperse/fig-10.3-jasperse_et_al.jpg
-    caption: "(C) UV microphotograph showing a detail of the bluish fluorescence of the white silk."
+    caption: "&#40;C) UV microphotograph showing a detail of the bluish fluorescence of the white silk."
     alt: 
 
   - id: "3-10.4"
@@ -766,7 +766,7 @@ figure_list:
   - id: "7-1"
     label: "Fig. 1"
     src: figures/johnson-et-al/Fig-1-Johnson_et_al.jpg
-    caption: "A collection of orotones and silvertones from the University of Washington Libraries Special Collections. a) Asahel Curtis, Mt. Rainier and Mirror Lake, ca. 1910–1940, orotone photograph, 49.5 x 41.9 cm frame size, Dan Davis Mountain Photograph Collection, PH 1238.11, PNWCSC #O2. b) Norman Edson, South Side of Mt. Rainier, ca. 1911-1940, orotone photograph, 45.1 x 37.1 cm frame size, Dan Davis Mountain Photograph Collection, PH 1238.53, PNWCSC #O7. c) Arthur C. Pillsbury, Snow Arched Way, date unknown, silvertone photograph, 17.8 x 12.1 cm frame size, Dan Davis Mountain Photograph Collections, PH 1135, PNWCSC #O27."
+    caption: "A collection of orotones and silvertones from the University of Washington Libraries Special Collections. a) Asahel Curtis, Mt. Rainier and Mirror Lake, ca. 1910–1940, orotone photograph, 49.5 x 41.9 cm frame size, Dan Davis Mountain Photograph Collection, PH 1238.11, PNWCSC #O2. b) Norman Edson, South Side of Mt. Rainier, ca. 1911-1940, orotone photograph, 45.1 x 37.1 cm frame size, Dan Davis Mountain Photograph Collection, PH 1238.53, PNWCSC #O7. &#40;c) Arthur C. Pillsbury, Snow Arched Way, date unknown, silvertone photograph, 17.8 x 12.1 cm frame size, Dan Davis Mountain Photograph Collections, PH 1135, PNWCSC #O27."
     alt: "Two framed orotone photographs in art-nouveau style frames and one silvertone photograph in a plain wooden frame."
 
   - id: "7-2"
@@ -778,7 +778,7 @@ figure_list:
   - id: "7-3"
     label: "Fig. 3"
     src: figures/johnson-et-al/Fig-3-Johnson_et_al.jpg
-    caption: "a) the backing of PNWCSC #O16 with clear striations associated with a poured-on varnish with metal flake mixed in b) the backing of PNWCSC #O18 with a characteristically uneven density of gold tone typical of a dusted-on metal flake c) a microsample from PNWCSC #O2 with metal flake distributed through the entire varnish, indicating a mixed-in metal flake d) a microsample from PNWCSC #O18 indicates a dusted-on flake with its very shiny, friable surface."
+    caption: "a) the backing of PNWCSC #O16 with clear striations associated with a poured-on varnish with metal flake mixed in b) the backing of PNWCSC #O18 with a characteristically uneven density of gold tone typical of a dusted-on metal flake &#40;c) a microsample from PNWCSC #O2 with metal flake distributed through the entire varnish, indicating a mixed-in metal flake d) a microsample from PNWCSC #O18 indicates a dusted-on flake with its very shiny, friable surface."
     alt: "An array of four images showing a gold surface in the top two images and small gold samples under magnification in the lower two images."
 
   - id: "7-4"
@@ -790,7 +790,7 @@ figure_list:
   - id: "7-5"
     label: "Fig. 5"
     src: figures/johnson-et-al/Fig-5-Johnson_et_al.jpg
-    caption: "a) Oxygen, b) silicon, c) sodium, d) calcium, and e) aluminum SEM/EDS elemental maps collected from the PNWCSC #O27 microsample."
+    caption: "a) Oxygen, b) silicon, &#40;c) sodium, d) calcium, and e) aluminum SEM/EDS elemental maps collected from the PNWCSC #O27 microsample."
     alt: "Color-coded elemental maps of a small orotone sample showing the distribution of elements throughout."
 
   - id: "7-6"
@@ -802,7 +802,7 @@ figure_list:
   - id: "7-7"
     label: "Fig. 7"
     src: figures/johnson-et-al/Fig-7-Johnson_et_al.jpg
-    caption: a) FTIR spectrum of PNWCSC #O3 blue pigment sample with emulsion layer b) reference protein spectrum (IRUG entry number IPR00016), and c) reference Prussian blue spectrum (IRUG entry number IMP00077). Amide I and Amide II bands, from the gelatin protein, are visible at 1645cm^-1^ and 1543 cm^-1^, respectively, while the nitrile peak, from Prussian blue, is visible at ~2085 cm^-1^.
+    caption: a) FTIR spectrum of PNWCSC #O3 blue pigment sample with emulsion layer b) reference protein spectrum (IRUG entry number IPR00016), and &#40;c) reference Prussian blue spectrum (IRUG entry number IMP00077). Amide I and Amide II bands, from the gelatin protein, are visible at 1645cm^-1^ and 1543 cm^-1^, respectively, while the nitrile peak, from Prussian blue, is visible at ~2085 cm^-1^.
     alt: Three FTIR spectra stacked with peaks labelled with their position on the x-axis.
 
   - id: "7-8"
@@ -814,7 +814,7 @@ figure_list:
   - id: "7-9"
     label: "Fig. 9"
     src: figures/johnson-et-al/Fig-9-Johnson_et_al.jpg
-    caption: " Left: Py/GC/MS chromatograms of samples from orotones PNWCSC #O16 and O20 as well as PAM 2001.122 with labeled peaks relating to pyrroles and pyrrole derivatives, indicating a gelatin emulsion layer. Right: µFTIR spectra of a) reference protein spectrum (of hide glue, a protein similar to gelatin), from the IRUG database, entry number IPR00019 b) PNWCSC #O2 c) PNWCSC #O16 d) PNWCSC #O20 e) PAM 2001.122. "
+    caption: " Left: Py/GC/MS chromatograms of samples from orotones PNWCSC #O16 and O20 as well as PAM 2001.122 with labeled peaks relating to pyrroles and pyrrole derivatives, indicating a gelatin emulsion layer. Right: µFTIR spectra of a) reference protein spectrum (of hide glue, a protein similar to gelatin), from the IRUG database, entry number IPR00019 b) PNWCSC #O2 &#40;c) PNWCSC #O16 d) PNWCSC #O20 e) PAM 2001.122. "
     alt: Three chromatograms stacked on the left and five FTIR spectra stacked on the right with labels indicating the x-axis position or associated molecule of each peak.
 
   - id: "7-10"
