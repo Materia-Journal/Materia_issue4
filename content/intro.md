@@ -6,7 +6,7 @@ order: 10
 image: figures/jasperse/Fig.-8.3-Jasperse_et_al.jpg
 
 ---
-Happy New Year and a warm welcome back to all of our *Materia* readers. For issue 4, we have another special themed issue for you, this time focusing on the topic of interdisciplinary collaboration.
+Wishing a warm welcome back to all of our *Materia* readers! For issue 4, we have another special themed issue for you, this time focusing on the topic of interdisciplinary collaboration.
 
 In selecting our theme for this issue, our editors wished to highlight the different contributions offered by individual scholars and research disciplines. For example, within the fields of conservation and conservation science, researchers are able to contribute detailed empirical data relating to artworks’ material compositions, often down to the microscopic level, revealing aspects such as artists’ individual pigment choices. In addition, imaging techniques such as multispectral photography can provide valuable information relating to an art object’s layer structure, including aspects such as compositional changes made by the artist, as well as later restoration interventions. Contrastingly, art history has more traditionally dealt with broader contextual questions, with attention given to diverse topics ranging from philosophical aesthetics and questions of style, socio-political or religious affiliations, to contemporary practices of trade and commerce. That is not to say that the boundaries between the different fields are necessarily fixed. Indeed, conservators and conservation scientists have shown a sustained interest in contextual or historical questions, and vice versa for art historians when it comes to the subject of an artwork’s materiality.
 
