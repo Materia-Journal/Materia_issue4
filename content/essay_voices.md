@@ -14,12 +14,6 @@ It is with this latter question in mind that we have conducted the interviews pr
 
 *Interviewees*
 
-**Erich Uffelman, Bentley Professor of Chemistry** **and Department Head of Chemistry and Biochemistry, Washington and Lee University, Lexington City, Virginia**
-
-{% figure '8-3', 'is-pulled-right' %}
-
-Since 1999 Uffelman has taught a course on the technical examination of seventeenth-century Dutch painting. He has been awarded external funding from the National Science Foundation (NSF), American Chemical Society-PRF, Research Corporation, Hewlett Packard, Associated Colleges of the South, Kress Foundation, among others. Uffelman helped teach the NSF CWCS Chemistry in Art Workshops from 2005 to 2017 and was part of a Kress Foundation initiative spearheaded by Jennifer Mass and Rick Johnson to create a technical art history syllabus suitable for undergraduates. Among the museums and other institutions with which he has collaborated are the National Gallery of Art, Frans Hals Museum, Winterthur Museum, North Carolina Museum of Art, Stichting Restauratie Atelier Limberg, Mauritshuis, Smithsonian, Balboa Art Conservation Center, Monticello, Mount Vernon, Dordrechts Museum, Museum Boijmans van Beuningen, Bonnefanten Museum, Virginia Museum of Fine Art, Chrysler Museum, Rijksmuseum, Guggenheim, NU ACCESS, and dozens of colleges and universities.
-
 **Erma Hermens, Director, Hamilton Kerr Institute, University of Cambridge, and Deputy Director, Conservation and Science Division, Fitzwilliam Museum, Cambridge**
 
 {% figure '8-1', 'is-pulled-right' %}
@@ -31,6 +25,12 @@ Professor Erma Hermens is Director of the Hamilton Kerr Institute for Easel Pain
 {% figure '8-2', 'is-pulled-right' %}
 
 Norlander Eliasson is Full Professor in Art History at the Department of Culture and Aesthetics, Stockholm University. She is the founder and director of the international master’s program Technical Art History and the Art Museum. She is currently heading the project Art and Science: Cultural Transfer and Mobility in the Age of Liberty in collaboration with the Nationalmuseum in Stockholm and Emmebi Diagnostica Artistica in Rome. She is also currently deputy director for the Swedish Institute for Classical Studies in Rome (2023–2025).
+
+**Erich Uffelman, Bentley Professor of Chemistry** **and Department Head of Chemistry and Biochemistry, Washington and Lee University, Lexington City, Virginia**
+
+{% figure '8-3', 'is-pulled-right' %}
+
+Since 1999 Uffelman has taught a course on the technical examination of seventeenth-century Dutch painting. He has been awarded external funding from the National Science Foundation (NSF), American Chemical Society-PRF, Research Corporation, Hewlett Packard, Associated Colleges of the South, Kress Foundation, among others. Uffelman helped teach the NSF CWCS Chemistry in Art Workshops from 2005 to 2017 and was part of a Kress Foundation initiative spearheaded by Jennifer Mass and Rick Johnson to create a technical art history syllabus suitable for undergraduates. Among the museums and other institutions with which he has collaborated are the National Gallery of Art, Frans Hals Museum, Winterthur Museum, North Carolina Museum of Art, Stichting Restauratie Atelier Limberg, Mauritshuis, Smithsonian, Balboa Art Conservation Center, Monticello, Mount Vernon, Dordrechts Museum, Museum Boijmans van Beuningen, Bonnefanten Museum, Virginia Museum of Fine Art, Chrysler Museum, Rijksmuseum, Guggenheim, NU ACCESS, and dozens of colleges and universities.
 
 *Questions*
 
