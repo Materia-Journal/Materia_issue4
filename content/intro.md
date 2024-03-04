@@ -3,7 +3,7 @@ title: Letter from the *Materia* editors
 subtitle: 
 layout: splash
 order: 10
-image: figures/jasperse/Fig.-8.3-Jasperse_et_al.jpg
+image: figures/jasperse/Fig-12-Jasperse_et_al.jpg
 
 ---
 Wishing a warm welcome back to all of our *Materia* readers! For issue 4, we have another special themed issue for you, this time focusing on the topic of interdisciplinary collaboration.
@@ -42,11 +42,11 @@ Anouk Jonker
 Bianca Garcia
 ‍Courtney Books
 ‍Cynthia Prieur
+Douglas MacLennon
 ‍Emma Jansson
 ‍Julie Ribits
 ‍LaStarsha McGarity
-Douglas MacLennon
-Sami Norling
 ‍Lucia Bay
 ‍Morgan Wylder
 ‍Roxane Sperber
+Sami Norling

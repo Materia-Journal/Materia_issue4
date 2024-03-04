@@ -37,7 +37,7 @@ abstract: |
 
 ---
 
-**Introduction**
+### Introduction
 
 Symbolism was a late nineteenth-century artistic movement that aspired to a higher ideal in both aesthetics and spiritual life, in reaction to the positivism and deep societal changes brought about by the industrial revolution.[^1] Taking a step aside from reality and materialism, Symbolist artists explored subjects drawn from literature, theology, mythology, and music. Their works paved the way to later twentieth-century abstraction and Expressionism, opening gateways into imagination, spirituality, and the inner world.
 
@@ -63,7 +63,7 @@ We will first shed light on the work’s genesis, based on archival and material
 
 Through this technical case study, we hope to provide a concrete example of the subtle interplay of materiality and aesthetics in the Symbolists’ works. These artists remained all but silent about the specific materials and studio practices that enabled them to create such a haunting visual legacy, but evidence thereof lies embedded within the artworks they created, for us to unlock. Additionally, the technical imaging protocol performed on Delaunois’s work was intended as a test for the analytical workflow that would be carried out on nine works with friable media from the FRIABLE project’s research corpus.
 
-**Unraveling the Work’s Genesis: A Preparatory Work for a Decorative Cycle**
+### Unraveling the Work’s Genesis: A Preparatory Work for a Decorative Cycle
 
 A label in Delaunois’s handwriting pasted onto the verso of the work is inscribed: *Vision de Moine / (pour fresque murale)* (“A Monk’s Vision / \[for wall fresco\]”) (Fig. 3).[^16] Although the inscription in red in the lower left corner is now partially effaced (Fig. 4), the top part is an earlier signature flanked with the date 1897, and the bottom line can still be read as *Le Songe des Moines* (“The Monks’ Dream”). The work’s documentation at M Leuven does not provide any further indication that could shed light on these inscriptions. However, the most explicit mention of a project titled *Le Songe des Moines*, and of this very artwork, can be found in art historical writing on the artist. Indeed, in his 1935 monograph on Delaunois, Robert de Bendère wrote that:
 
@@ -77,7 +77,7 @@ It appears, therefore, that this project was Delaunois’s own initiative, a you
 
 Another uncertainty lies within the term *fresque murale* seen on the pasted label. The authors of related exhibition catalogues use the denomination *fresque* and *décoration murale* (wall decoration) interchangeably to describe preparatory studies such as this one.[^21] It is therefore unclear which technique Delaunois would have eventually implemented to realise this cycle at full scale, perhaps a technique of working directly onto the wall, or even using mounted panels.[^22] The young artist’s familiarity with decorative painting techniques, learnt from his father and elder brother, could explain his affinity with wall painting and fresco-like procedures. This hypothetical choice should also be contextualised within the so-called Fresco Revival.[^23] Observed from the mid-nineteenth to the early twentieth century in countries such as England, France and Germany, it was spurred by the Pre-Raphaelite and Nazarene schools, the Arts and Crafts movement, as well as early Symbolist painters such as Pierre Puvis de Chavanne (1824–1898) in France.[^24] This renewed appreciation for the technique proceeded directly from the Tempera Revival,[^25] which sought to break away from academic art and the medium it was most associated with—oil paint. In reaction to the glossy finish of varnished oil paintings, artists turned to materials with a matte appearance, such as tempera, distemper, pastel, and crayons.[^26] This aesthetic trend is reflected in the studio practice of Paul Gauguin and the Nabi painters Edouard Vuillard and Pierre Bonnard, among others. Odilon Redon exemplifies this trend as well, in his drawings combining pastel and distemper to create large finished artworks with an unvarnished surface.[^27] Both matte painting materials and subdued colours used in modern wall paintings served the aesthetic goal of re-engaging with the “austerity of the primitives.”[^28] Against this backdrop, Delaunois’s choice of techniques such as pastel, used extensively in *Vision de Moine*, could be interpreted as the artist’s attempt at transposing onto paper the visual effect of the *a fresco* technique, the matte and chalky texture of soft pastel lending itself perfectly to this purpose.
 
-***A Complex Material Makeup and Distinctive Degradation Patterns***
+### A Complex Material Makeup and Distinctive Degradation Patterns
 
 Close examination of the artwork reveals the wide array of techniques used by Delaunois. Soft pastel can be identified over most of the surface, applied in layers of various colours blended together, in adjacent touches, or in strokes, oftentimes allowing the paper colour (a light pink) to show through to build subtle mid-tones.[^29] The pastel was stumped into a remarkably smooth layer on the monk’s face. The figure’s sharp outline and hair were drawn with an iron-rich pigment,[^30] both in the form of a dry medium (chalk or crayon), and mixed with an aqueous binding medium applied with a thin brush.[^31] Faint lines consisting of a black dry medium are also visible in the lilies. Paint (gouache and watercolour, oil) was also used in many passages,[^32] mostly in combination and layering with pastel—notably in the lilies, in the figure’s white cloak and veil, and in thin brushstrokes in his hair, with varying degrees of transparency and thickness.[^33] In some parts of the veil, Delaunois appears to have blended pastel colours together using a wet brush.
 
@@ -96,7 +96,7 @@ The second severely damaged area is located in the monk’s hairline. Interestin
 
 {% figure '5-9', 'is-pulled-right' %}
 
-***Retracing Delaunois’s Working Process***
+### Retracing Delaunois’s Working Process
 
 The highly finished appearance of *Vision de Moine* leads to the question of just how much the artist prepared his work, and whether traces can be found that evidence the early steps of his creative process. The presence of an underdrawing, for instance, is not clearly visible to the naked eye, owing to the thick layer of pastel applied throughout, although a few lines in red dry medium appear through the thin paint layer on the left wrist, together with the aforementioned black dry medium tracings, partially covered with paint, in the lilies. However, incised lines appear in some passages, most visibly in the area above the lily close to the face (Fig. 10), in the top left corner, along the top part of the halo (short parallel hatchings in all three cases), and along the right hand, in long lines running roughly parallel to the outline of the wrist. A powerful complement to raking-light imaging, the white-light Microdome allowed for a deeper investigation of these shallow traces from all angles. These observations showed that the relationship between these lines and the markings in the pictorial layer was not directly obvious. We therefore propose to view them either as a very early stage of Delaunois’s creative process—from which he eventually drifted considerably—or as elements from another composition that he subsequently drew over.
 
@@ -119,7 +119,7 @@ Working with such elaborate colour buildup, the artist was also able to implemen
 {% figuregroup '3', '5-13a, 5-13b, 5-13c' %}
 
 
-***Reconstructing the Work’s History: From Preparatory Study to Stand-alone Artwork?***
+### Reconstructing the Work’s History: From Preparatory Study to Stand-alone Artwork?
 
 {% figure '5-14', 'is-pulled-right' %}
 
@@ -133,7 +133,7 @@ Nail marks are visible at regular intervals along the four edges, evidence of ol
 
 The fact that Delaunois kept this early work in the room where he also displayed a wealth of objects dear to his heart, likely as sources of inspiration and for their sentimental value, attests to the special status of the drawing as a work particularly enjoyed by the artist himself. The objects surrounding it further shed light on the visual references from which Delaunois drew throughout his career.[^55] They reflect the same eclecticism that Delaunois demonstrated in choosing the artistic techniques and processes he brought together in his *Vision de Moine.*
 
-**Conclusion**
+### Conclusion
 
 The research carried out on Delaunois’s *Vision de Moine* helped us understand the breadth of the technical skills he mastered in his early career, and the freedom with which he combined techniques and materials to create this singular work. The degradation patterns investigated in this study have proven to be directly linked to this unrestrained way of working—in particular, his application of paint highlights and impastos over a friable medium layer to create contrasts in textures. Closer examination revealed that this artwork’s apparent spontaneity hinges both on careful preparation (as shown by underlying tracings) and the artist’s ability to easily rework passages utilising the properties of soft pastel, namely, its blendability or ability to create soft transitions between different passages of colour and to mix colours together.
 

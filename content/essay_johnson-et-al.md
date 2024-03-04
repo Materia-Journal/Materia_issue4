@@ -145,7 +145,7 @@ Copper and zinc were detected in every orotone analyzed in this study using XRF 
 
 Aluminum was tentatively identified by XRF spectroscopy in PNWCSC #O27 based on an unusually high-intensity peak with an S/N value of 17. Given that aluminum's emission energy is near the lower detection limit of the XRF instrument, this indicated that the metal flake was likely composed of aluminum, but verification with another technique was required. Elemental maps were collected of a microsample from silvertone PNWCSC #O27 using SEM/EDS and identified aluminum in the lower left region of the sample (**Fig. 5e**), verifying that the metal flake used in this silvertone was an aluminum metal flake.
 
-{% figure '7-5' %}
+{% figure '7-5', 'is-pulled-left' %}
 
 ### Glass Analysis
 
@@ -181,7 +181,7 @@ Iron was detected throughout orotone PNWCSC #O19 and was determined to originate
 
 Two pigmented microsamples collected from the edge of another orotone, PNWCSC #O3, were analyzed via µFTIR spectroscopy. The red pigment could not be identified, while the blue pigment contained a strong amide I band at 1645 cm^-1^ and an amide II band at 1543 cm^-1^ (**Fig. 7a**) corresponding to a protein backbone as shown in the reference protein spectrum (**Fig. 7b**), as well as a peak at 2083 cm^-1^ attributed to a nitrile functional group. This functional group is present in Prussian blue (Fe~4~\[Fe(CN)~6~\]~3~) (**Fig. 7c**) as well as the bleaching agent used in the photographic process, potassium ferricyanide.
 
-{% figure '7-7' %}
+{% figure '7-7', 'is-pulled-right' %}
 
 #### Raman Spectroscopy of PNWCSC #O3 Pigments
 
