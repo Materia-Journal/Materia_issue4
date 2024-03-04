@@ -13,7 +13,7 @@ contributor:
   # - id: rhark
 
   - first_name: Francisco H.
-    last_name: Trugillo
+    last_name: Trujillo
     sort_as: "1"
   - first_name: Federica
     last_name: Pozzi
@@ -257,7 +257,7 @@ Richter, Ernst-Ludwig, and Heide Härlin. "The 'Stuttgarter Kartenspiel': Scient
 
 Turner, Nancy K. "Surface Effect and Substance: Precious Metals in Illuminated Manuscripts." In *Illuminating Metalwork: Metal, Object, and Image in Medieval Manuscripts*, edited by Joseph Salvatore Ackley and Shannon L. Wearing, 51--110. Berlin: De Gruyter, 2022. [https://doi.org/10.1515/9783110637526-002](https://doi.org/10.1515/9783110637526-002).
 
-## **NOTES**
+## NOTES
 
 [^1]: *Tarocchi* cards were originally referred to as *carte da trionfi*, possibly a reference to Petrarch's poem *I Trionfi* dating from the mid-fourteenth century. Thierry Depaulis, introduction to *Tarots enluminés: Chefs-d'oeuvre de la Renaissance italienne*, ed. Thierry Depaulis (Paris, Issy-les-Moulineaux: Musée Français de la Carte à Jouer and LienArt, 2021), 19--20. See also Gertrud Moakley, *The Tarot Cards Painted by Bonifacio Bembo for the Visconti-Sforza Family: An Iconographic and Historical Study* (New York: New York Public Library, 1966).
 
