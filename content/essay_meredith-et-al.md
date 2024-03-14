@@ -22,7 +22,7 @@ contributor:
     sort_as: "3"
 ---
 
-### PROLOGUE
+## PROLOGUE
 
 Part of our vision at *Materia* is to highlight ways that technical art history can engage a broader audience in the study of cultural heritage. Discussions, and/or hands-on experiences, exploring how an object was made, the materials it was made from, how it may have altered over time, or the physical signs of use are highly impactful ways to attract diverse audiences through a shared connection to materiality. Due to the relatively high costs of performing technical art history, however, this area of study has historically been relegated to well-resourced institutions. Consequently, the objects studied are generally those by already well-researched artists. Sharing and engaging scholars from a wider range of institutions and backgrounds is critical to bridging this resource and scholarship gap.
 
@@ -30,7 +30,7 @@ The following is the record of a conversation prompted by questions from *Materi
 
 The discussants also had the opportunity to respond to each other’s comments, and those responses have been incorporated in the text that follows. The conversation has been edited and condensed for clarity from conversations conducted via email and other written correspondence in 2023.
 
-### INTRODUCTION TO THE SUMMER TEACHERS INSTITUTE IN TECHNICAL ART HISTORY
+## INTRODUCTION TO THE SUMMER TEACHERS INSTITUTE IN TECHNICAL ART HISTORY
 
 A glassblower, a digital media artist, and a photo historian walked into Yale University’s Summer Teachers Institute in Technical Art History (STITAH). Below is a reflection and a conversation among them about why they participated in STITAH, what they got out of it, and their plans to apply what they learned in their classrooms at their institutions.
 
@@ -40,7 +40,7 @@ This discussion offers three perspectives on an intensive week-long introduction
 
 Our shared goal in reflecting on this collaborative model of instruction is to focus on the value of TAH in our own teaching. This model prompted two questions: What forms can TAH take, and how can it be integrated into the particular culture at an institution? The following engages with these and related questions, as the discussants reflected on their introduction and collaborative approach to TAH.
 
-### OUR JOURNEYS TO STITAH
+## OUR JOURNEYS TO STITAH
 
 ***Materia*:** What is your background, what is your teaching institution, and what prompted you to apply for STITAH?
 

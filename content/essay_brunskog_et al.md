@@ -25,7 +25,7 @@ abstract: |
   The results add physical and chemical data about everyday urushi wares from the mid-Edo period (1603–1868), made from sap blackened with soot and partly embellished with metal powders applied traditionally. The results also indicate the impression these artefacts are likely to have had on those people in Europe who came across them and provide information about how much Europeans might have known about lacquerware from East Asia at the end of the eighteenth century. Reading contemporary written documents parallel to studying the tangible artefacts themselves leads to a deeper understanding of tangible and intangible aspects.
 ---
 
-### Introduction
+## Introduction
 
 
 Carl Peter Thunberg was, and still is, regarded as a renowned explorer, scholar, and collector of Japanese artefacts, specifically objects of commercial or scientific value.[^1] His cargo (lacquerware and much other material) was sent from Japan before he embarked for Europe or arrived with him on his return in 1779. However, some deliveries forwarded before his return never reached their intended destination. Supposedly, Thunberg did not receive additional shipments after his return home. Thus, all the lacquerware, which is assumed to be authentic, was obtained (but perhaps not made) between his arrival in Japan on 13 August 1775 and his departure on 3 December 1776[—]{.mark}as gifts, purchases, or items of mutual exchange, including a handful of everyday commodities and rare artefacts ranging from modest objects to antiquities.
@@ -34,7 +34,7 @@ The lacquerware provides a narrow yet intriguing window into the nature of the *
 
 *Urushi* (漆) refers to anacard sap harvested in Japan from the *Toxicodendron vernicifluum* tree, Japan’s most abundant lacquer tree (urushi no ki 漆の木) and to its products, a highly prized material, refined for over seven thousand years.[^2] However, in the eighteenth century, the word was unknown in Swedish. With a broader definition, the word *lacquer* (Swedish: *lack*) sometimes replaces the word urushi in this article. Thunberg also used the terms *fernissa* (n.: varnish; v.: to apply a glossy coating) and *japonerad* (coated in the Japanese way).[^3]
 
-### The artefacts
+## The artefacts
 
 Most of the content of Thunberg’s original collection brought to Sweden remained at Uppsala University until his passing. It was only later that parts of the collections were relocated. At present, much is spread across multiple countries, as well as at several scientific and cultural institutions. A collection of tobacco and paper samples, textile fabrics, everyday tools, metal, wood, ceramic artefacts, Japanese costumes, cosmetics, and toothbrushes is scattered between the Museums of World Culture and the Far Eastern Antiquities.[^4] Among Thunberg’s lesser-known collectables is an assemblage of objects with entirely or partly exposed urushi coatings that are the main object of this study (Figs. 1–20).
 
@@ -46,7 +46,7 @@ Table 1A.
 
 Other parts of the historical collection are held in trust elsewhere. The Royal Coin Cabinet at the Swedish History Museum contains Thunberg’s Japanese coins. Nordiska museet holds single objects related to Thunberg’s private life rather than his scholarly activities. Many of his books, prints, medals, five Japanese maps, and numerous letters are in the library at Uppsala University. Other documents are in the National Library of Sweden, Uppsala University archives, and the Swedish National Archives. Other material, including books and letters, are in London, Amsterdam, Leiden, Paris, Berlin, and Saint Petersburg.[^6] His multifaceted collection of natural specimens from the African and Asian continents comprises an extensive collection of Japanese plant species currently housed in the Museum of Evolution in Uppsala, including two lacquer tree specimens (Table 1B).[^7]
 
-### The documents
+## The documents
 
 Even though Thunberg was not the first Swede or European to visit Japan before or during its seclusion,[^8] he nevertheless played a significant role in bringing Japanese culture to the outside world, specifically Western Europe (Fig. 21).[^9] His travel account, for example, includes detailed observations and descriptions of Japanese life and manners, replete with a deep admiration for local customs, hygienic standards, and courtesy between people.[^10] Thunberg also corresponded profusely with numerous elite scholars, politically influential persons, and monarchs worldwide. Many letters are still accessible. Although there are no remnant handwritten notes from his voyage to Japan,[^11] Thunberg used his now-lost diary entries to publish travel accounts a decade after his return to Sweden. The first edition, printed in four volumes and written in the vernacular, is titled *Resa uti* *Europa, Afrika, Asia förrättad åren 1770–1779* (Travel in Europe, Africa, and Asia during the years 1770–1779), hereafter referred to as* Resa*.[^12] Within this collection, the third volume (published in 1791) was specifically devoted to Japan, while the fourth (published in 1793) details his period in Japan and the return journey. Shortly after the Swedish edition was published, the work was also translated into English, Russian, German, and French.[^13] A century later, an edition in Japanese was published in which only Thunberg’s Japanese visit was covered.[^14]
 
@@ -58,7 +58,7 @@ Another contemporary publication about similar crafts and their immediate contex
 
 {% figure '2-22', 'is-pulled-right' %}
 
-### Aim, methods, and theory
+## Aim, methods, and theory
 
 This paper aims to present the hitherto unexplored collection of Thunberg’s urushi-related items in order to highlight their technical aspects and cultural-historical significance. The purpose is to identify and document the materials and manufacturing techniques in the Thunberg Japanese lacquerware collection at the Museum of Ethnography, Stockholm. With this information, it becomes possible to compare their composition, characters, and functions to descriptions made by Thunberg in his travel account and other contemporary texts related to his sojourn in Japan, thereby linking their material qualities with historical description: how much he might have understood about the craft; to what extent the collected artefacts reflect his descriptions of the Japanese domestic manufacture and supply; the accuracy of his documentation about materials and techniques; if possible to link individual artefacts with the information in his publications; and to reevaluate the artefacts in light of Thunberg’s own words. For restoration-conservation, it is crucial to analyse the materials, manufacture, and present condition of artefacts held in custody. The context is equally essential for their preservation in a broader sense, and both are this article’s focus.
 
@@ -72,7 +72,7 @@ Besides *Resa*, the *Nihon sankai* was similarly scrutinised for information abo
 
 One advantage of studying the documents in parallel with analysing the tangible artefacts was that both types of information sources provided essential but different kinds of data, thus enhancing the richness of the outcome as the results of each approach supported the other. Moreover, the artefacts would remain unnecessarily anonymous without the context that Thunberg’s own words provide. In addition, the artefacts support interpretations of the texts and provide a critical appraisal of the textual sources.
 
-### Carl Peter Thunberg: botanist, physician, explorer, and anthropologist
+## Carl Peter Thunberg: botanist, physician, explorer, and anthropologist
 
 A brief biography of Carl Peter Thunberg’s (1743–1828) life and information on other early travellers and scholars who may have influenced Thunberg highlight his circumstances. Born in the small provincial town of Jönköping, Thunberg came from a modest social background. Between 1761 and 1770, he studied botany, zoology, and medicine at Uppsala University. In 1770 he continued his studies in botany in Holland and in 1771 learned the latest surgical methods in Paris. It was also in 1771 that the Dutch botanist Nicolaas Laurens Burman suggested that Thunberg go to Japan—which the then twenty-seven-year-old was eager to do. During Thunberg’s time, Japan was relatively isolated and somewhat of an enigma to Westerners. In Europe the V.O.C. had secured exclusive trading rights with Japan.[^23] Enrolled by the company, Thunberg sailed as an extra surgeon. Some members of Amsterdam’s ruling oligarchy[^24] offered him financial support and a commission to supply his patrons with living Japanese plant specimens for the Botanical Gardens in Leiden and for the Hortus Medicus in Amsterdam.[^25]
 
@@ -86,7 +86,7 @@ Thunberg was eventually allowed to leave Deshima for short excursions to other p
 
 Thunberg departed for Europe after a sojourn lasting about sixteen months, including barely one month in Edo, from 27 April to 25 May 1776. He stayed in the Netherlands and England on his return voyage, favouring his patrons and beneficiaries with living plants, seeds, and other specimens ─ but not, as far as is known, with urushi. Back in Sweden, he focused on his academic career, for which his information on Japan was crucial. At the lecture in 1779, he presented the coins he had collected in Japan to the Swedish king.[^29] His vast collection of plant and insect specimens greatly interested well-educated botanists and entomologists and contributed to Sweden’s already good scientific reputation. Scholars and the general population, as it has been noted, were eager to receive information on Asia, particularly Japan, and the literary genre of the travel account was also in vogue during this period.[^30]
 
-### Early visitors to Japan and other influential contemporaries
+## Early visitors to Japan and other influential contemporaries
 
 Several earlier and contemporary written sources complement our knowledge of urushi alongside Thunberg’s own comments and collection. To evaluate the importance and extent of his achievements, it is helpful to identify a few other Europeans who visited Japan around the same time or with whom he had contact. Literature and scholars were part of the academic environment in which Thunberg operated. At least two other Swedes visited Japan well before Thunberg: Fredrik Coyet (1615–1687) in 1648, after a Dutch factory had been established on Deshima in 1641, and Olof Eriksson (1620–1673) in 1652 as a representative of the V.O.C. However, neither contributed much to the Western understanding of East Asia.[^31] The first Western scholar was the German physician Engelbert Kaempfer (1651–1716), who visited Japan in 1691–92. The V.O.C.-employed, German physician and botanist Franz Philip von Siebold (1796–1866), who stayed in Japan from 1823 to 1829, was one of Thunberg’s many correspondents and became his successor (Fig. 25).[^32]According to von Siebold, Kaempfer made outstanding contributions to modern research on Japan in his monumental *Nippon*, based on the collecting of all kinds of information and records on cultures and societies.[^33] As a botanist, and as far as this study has confirmed, Kaempfer did not reflect on anything related to urushi but instead focused on medicinal plants, and thus was a crucial forebearer of Thunberg.[^34] Yet, Thunberg might also have been influenced by Kaempfer’s admiration for the well-organised and peaceful Japanese society where, for example, different religions coexisted. In *Resa*’s third volume, Kaempfer is noted twice (concerning maps and the succession of shoguns since 1692); and therefore it is certain that Thunberg was well aware of his predecessor (3:222, 234).
 
@@ -102,7 +102,7 @@ One of Thunberg’s many European contacts was a key figure in Britain in the la
 
 {% figure '2-27', 'is-pulled-right' %}
 
-### Results and discussion***
+## Results and discussion***
 
 Table 3 summarises the results of the microscopy of sections and chemical and physical analyses of samples, hereafter called sample 4 (headrest), 14 (barber plate), 85 (casket), and 86B (saucer), respectively. Figs. 28–31 show the samples and sections. The layers observed in the sections are named a–d within brackets, with \[a\] at the surface. Some X-ray fluorescence (XRF) spectra and pyrolysis-gas chromatography-mass spectrometry (Py-GC-MS) chromatograms were nearly identical. Hence, Figs. 32─35 are limited to the most elucidatory example in each case.
 
@@ -172,7 +172,7 @@ Deduced from the AI recognition and translation, the content of plate 1 reads th
 
 The caption for plate 12 reads that the juice spurts from cuts in the tree and is then scraped off with a bamboo spatula into a vessel containing a thick infusion of tea and walnut oil. The trees should be fairly thick and old to produce good juice. The age of the trees tallies with information in *Resa*, that the trees should be three years old to produce high-quality sap and collected in an appropriate container. The Yoshino district in Washu prefecture (和州, present-day Nara) and Kumano in Kishu (紀州, present-day Wakayama prefecture) were famous for liquid urushi. The affinity of the explanations in *Nihon sankai* with Thunberg’s reflections in *Resa* further supports the hypothesis that interpreters may have told Thunberg about the contents of the Japanese text.[^84]
 
-### Conclusion
+## Conclusion
 
 In summary, the sections illustrate and the scientific analyses support descriptions of the historical manufacturing methods and some characteristics of urushi ware discussed in *Resa*. They also suggest that the investigated artefacts were carefully made everyday commodities rather than precious rarities, created primarily for the domestic market and not for exportation. In this respect, Thunberg’s urushi collection corresponds with contemporary, traditionally made urushi from Japan. The number of variations that urushi might display is almost infinite, so the limited assortment in the collection by no means illustrates the whole picture, but Thunberg’s fascination with Japanese habits, sleeping modes, shaving routines, and hygienic standards is reflected by the artefacts relating to body care, including those he may have personally used in Japan (such as the tableware). His interest in manufacturing, trading, and commerce is also reflected in the collection.
 
@@ -378,7 +378,7 @@ We hope this work contributes to the more recent and relatively abundant scholar
 
 [^88]: Single data can be an exceptional case, but many data pointing in the same direction can be interpreted as a tendency. When data from different sources point in the same direction, conclusions are better supported and more thoroughly underpinned. It is analogous to the accuracy and precision of methods with a bigger sample size in chemical analysis compared to a smaller sample. The more minute the sample, the more crucial the sample composition becomes, and the risk for mismatch with the substances in a specimen, since heterogeneous specimens are the rule. With a larger sample, samples collected from the best or several locations, the risk of not covering all substances in a specimen decreases. Thus, a true value is more likely. Precision is high when the sample is analysed twice or more with different methods, and the same result is achieved. Since the manuscript's focus is not method development, further discussion of the issue above is out of scope.
 
-**BIBLIOGRAPHY**
+## BIBLIOGRAPHY
 
 ALVIN Platform for digital collections and digitized cultural heritage. https://www.alvin-portal.org/alvin/home.jsf?dswid=-1699
 

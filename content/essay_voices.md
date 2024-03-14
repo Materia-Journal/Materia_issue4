@@ -3,7 +3,7 @@ label: VIII
 title: "Voices from the Field"
 subtitle: "Collaboration in Technical Art History"
 layout: essay
-order: 28
+order: 29
 class: page-one
 
     
