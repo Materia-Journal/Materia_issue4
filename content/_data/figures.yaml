@@ -340,6 +340,24 @@ figure_list:
     caption: "Detail of the barber plate (Fig. 9) showing a red-tinged ground under the black finish in the same area that was subjected to sampling. (a) and (b) refer to the layers marked in Fig. 29."
     alt: 
 
+  - id: "2-37"
+    label: "Table 1"
+    src: figures/Brunskog/Table_1.jpg
+    caption: "The list of artefacts, natural specimens, and documents in the Thunberg legacy with an anticipated relevance for the Japanese urushi craft, including data excerpted from catalogues and inventories. Legend: * artefact subjected to scientific analysis. Owner acronyms: MEv Museum of Evolution; UUBA Uppsala University Library *ALVIN* portal; EM Museum of Ethnography."
+    alt: "table, list of artefacts, natural specimens, documents, categories, excerpted catalogue data."
+
+  - id: "2-38"
+    label: "Table 2"
+    src: figures/Brunskog/Table_2.jpg
+    caption: "Included artefacts in the scientific examination, sample location and type(s) of analysis. Legend: DP digital photography; OE ocular examination; OM optical microscopy; Py-GC-MS pyrolyse gas chromatography-mass spectroscopy; XRF X-ray fluorescence."
+    alt: "table, list of artefacts, scientific, analyses, sample, location."
+
+  - id: "2-39"
+    label: "Table 3"
+    src: figures/Brunskog/Table_3.jpg
+    caption: "The interpretation of the coating structure based on the detected substances and observation of sections."
+    alt: "table, interpretation, detected, substances, coating, structure, cross section"
+
   - id: "3-1"
     label: "Fig. 1"
     src: figures/jasperse/fig-1-jasperse_et_al.jpg
@@ -764,6 +782,42 @@ figure_list:
     caption: "Photograph of Delaunois' house-atelier at 132 rue de Tirlemont in Heverlee, from a photo album dated 1955, M Leuven. Highlighted in blue: *Vision de Moine* framed together with a pendant."
     alt: "Black and white photograph taken in Delaunois's living room, with the artwork framed, among art and decorative objects"
 
+  - id: "5-18"
+    label: "Interactive figure I"
+    src: figures/Grison/Interactive_viewer_I.png
+    caption: "[Curtain viewer of the Pb-L map and a raking-light image from a 0॰ angle.](https://images.erdmann.io/viewer.html?mode=curtain&prefix=M-Museum-Leuven/G-968-D/&pointer=0.362,0.385&r=0.3835,0.3272,0.6350,0.2985&i=G-968-D_VIS-RAK-000_1200-dpi%5Bl=RAK-000%5D,G-968-D_MAXRF_Pb_L_100-um%5Bl=Pb_L%5D)" 
+    alt: "A dynamic visualisation overlaying the distribution map of the lead element and a raking light image of the artwork."
+
+  - id: "5-19"
+    label: "Interactive figure II"
+    src: figures/Grison/Interactive_viewer_II.png
+    caption: "[Curtain Viewer of the Hg-L and Pb-L maps.](https://images.erdmann.io/viewer.html?mode=curtain&prefix=M-Museum-Leuven/G-968-D/&pointer=0.536,0.573&r=0.1651,0.2089,0.9297,0.4370&i=G-968-D_MAXRF_Pb_L_100-um%5Bl=Pb_L%5D,G-968-D_MAXRF_Hg_L_100-um%5Bl=Hg_L%5D)" 
+    alt: "A dynamic visualisation overlaying the distribution maps of the mercury and lead elements in the halo, showing underdrawing"
+
+  - id: "5-20"
+    label: "Interactive figure III"
+    src: figures/Grison/Interactive_viewer_III.png
+    caption: "[Visible-light image and Pb-L map viewed in Fading Mode.](https://images.erdmann.io/viewer.html?mode=fade&prefix=M-Museum-Leuven/G-968-D/&pointer=0.462,0.512&r=0.4386,0.7617,0.5165,0.2428&i=G-968-D_MAXRF_Pb_L_100-um%5Bo=0.6983;l=Pb_L%5D,G-968-D_VIS_1200-dpi%5Bo=0.3017;l=VIS%5D)" 
+    alt: "A dynamic visualisation overlaying the distribution map of the lead element and a visible light image of the chin area"
+
+  - id: "5-21"
+    label: "Interactive figure IV"
+    src: figures/Grison/Interactive_viewer_IV.png
+    caption: "[Sync View of the Zn-K and Ca-K maps.](https://images.erdmann.io/viewer.html?mode=sync&prefix=M-Museum-Leuven/G-968-D/&pointer=0.434,0.623&r=0.4596,0.2994,0.3842,0.3612&i=G-968-D_MAXRF_Zn_K_100-um%5Bl=Zn_K%5D,G-968-D_MAXRF_Ca_K_100-um%5Bl=Ca_K%5D)"
+    alt: "A dynamic visualisation overlaying the distribution maps of the zinc and calcium elements in the halo, showing an underlayer"
+
+  - id: "5-22"
+    label: "Interactive figure V"
+    src: figures/Grison/Interactive_viewer_V.png
+    caption: "[Curtain Viewer of the visible-light image and Zn-K map.](https://images.erdmann.io/viewer.html?mode=curtain&prefix=M-Museum-Leuven/G-968-D/&pointer=0.552,0.323&i=G-968-D_MAXRF_Zn_K_100-um%5Br=0.3723,0.3822,0.5764,0.2709;l=Zn_K%5D,G-968-D_VIS_1200-dpi%5Br=0.3724,0.3822,0.5764,0.2709;l=VIS%5D)" 
+    alt: "A dynamic visualisation overlaying the distribution map of the zinc element and a visible light image of the eye area"
+
+  - id: "5-23"
+    label: "Interactive figure VI"
+    src: figures/Grison/Interactive_viewer_VI.png
+    caption: "[Curtain Viewer of the visible-light image and Cu-K map.](https://images.erdmann.io/viewer.html?mode=curtain&prefix=M-Museum-Leuven/G-968-D/&pointer=0.549,0.787&r=0.2456,0.4540,0.7684,0.3612&i=G-968-D_VIS_1200-dpi%5Bl=VIS%5D,G-968-D_MAXRF_Cu_K_100-um%5Bl=Cu_K%5D)" 
+    alt: "A dynamic visualisation overlaying the distribution map of the copper element and a visible light image of the eye area"
+
   - id: "6-1a"
     label: "Fig. 1A"
     src: figures/salinas-et-al/Fig-1.1-Rodriquez-Salinas_et_al.JPG
@@ -1037,7 +1091,7 @@ figure_list:
   - id: "7-1"
     label: "Fig. 1"
     src: figures/johnson-et-al/Fig-1-Johnson_et_al.jpg
-    caption: "A collection of orotones and silvertones from the University of Washington Libraries Special Collections. a) Asahel Curtis, Mt. Rainier and Mirror Lake, ca. 1910–1940, orotone photograph, 49.5 x 41.9 cm frame size, Dan Davis Mountain Photograph Collection, PH 1238.11, PNWCSC #O2. b) Norman Edson, South Side of Mt. Rainier, ca. 1911-1940, orotone photograph, 45.1 x 37.1 cm frame size, Dan Davis Mountain Photograph Collection, PH 1238.53, PNWCSC #O7. &#40;c) Arthur C. Pillsbury, Snow Arched Way, date unknown, silvertone photograph, 17.8 x 12.1 cm frame size, Dan Davis Mountain Photograph Collections, PH 1135, PNWCSC #O27."
+    caption: "A collection of orotones and silvertones from the University of Washington Libraries Special Collections. a) Asahel Curtis, Mt. Rainier and Mirror Lake, ca. 1910–1940, orotone photograph, 49.5 x 41.9 cm frame size, Dan Davis Mountain Photograph Collection, PH 1238.11, PNWCSC #O2. b) Norman Edson, South Side of Mt. Rainier, ca. 1911-1940, orotone photograph, 45.1 x 37.1 cm frame size, Dan Davis Mountain Photograph Collection, PH 1238.53, PNWCSC #O7. (C) Arthur C. Pillsbury, Snow Arched Way, date unknown, silvertone photograph, 17.8 x 12.1 cm frame size, Dan Davis Mountain Photograph Collections, PH 1135, PNWCSC #O27."
     alt: "Two framed orotone photographs in art-nouveau style frames and one silvertone photograph in a plain wooden frame."
 
   - id: "7-2"

@@ -1,8 +1,8 @@
 ---
 title: Contributors
 layout: page
-order: 501
+order: 
 ---
 
-{% contributors context=publicationContributors format='bio' %}
+
 
