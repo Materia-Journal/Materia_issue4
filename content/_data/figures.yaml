@@ -593,13 +593,13 @@ figure_list:
   - id: "4-7"
     label: "Fig. 7"
     src: figures/Meredith/fig-7-Meredith_et_al.jpg
-    caption: "**Fig. 7** Irma Passeri (standing) assisting Andrew Hershberger (center) with Robert Hamilton (second from left) inside the YUAG. Photo: Jessica Smolinski."
+    caption: "**Fig. 7** Irma Passeri (standing) assisting all STITAH participants, including Andrew Hershberger (left), inside the YUAG. Photo: Jessica Smolinski."
     alt: "YUAG classroom view of one standing STITAH leader assisting seated participants at tables with techniques such as cartoon drawing transfers."
 
   - id: "4-8"
     label: "Fig. 8"
     src: figures/Meredith/fig-8-Meredith_et_al.jpg
-    caption: "**Fig. 8** Andrew Hershberger presenting in the YCBA galleries on Sir Joshua Reynolds’s *Mrs. Robinson*, ca. 1784 (center). At left are other members of the Reynolds group. Photo: Jessica Smolinski."
+    caption: "**Fig. 8** Andrew Hershberger presenting in the YCBA galleries on Sir Joshua Reynolds’s *Mrs. Robinson*, ca. 1784 (center). At right are some members of the Reynolds group including Robert Hamilton (closest to camera). Photo: Jessica Smolinski."
     alt: "One STITAH participant standing and presenting inside the YCBA next to the original painting in Fig. 6 with other participants listening."
 
   - id: "4-9"
@@ -622,7 +622,7 @@ figure_list:
 
   - id: "4-12"
     label: "Fig. 12"
-    src: figures/Meredith/fig-1-Meredith_et_al.jpg
+    src: figures/Meredith/fig-12-Meredith_et_al.jpg
     caption: "**Fig 12** Demonstration of pigment grinding with walnut oil, a historical method of making paint. (Fig. 12) Photo: Robert Hamilton."
     alt: 
 
