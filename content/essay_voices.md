@@ -84,11 +84,7 @@ It occurred to me on the subject of perhaps saying something further about colla
 
 I think one can weave a narrative that includes work from folks like Rick Johnson, Eric Postma, Ingrid Daubechies, Rob Erdmann and see not only the incredible contributions this kind of research is bringing into the field, but also how much more the future is going to be influenced by computational methods of increasing sophistication. I just taught last May a new, experimental four-week intensive course at W&L titled Imaging Science in Art and Medicine with Applications to Astronomy. We used a new medical school radiology-imaging textbook, and I brought Roxanne Radpour (who was then at John Delaney’s lab; she is now at the University of Delaware) to guest lecture on chemical imaging in art; I had our own IT specialist Tom Marcais talk about AI image generation; and I brought in my physics colleague David Sukow to discuss his radio telescope research.
 
-It was astonishing how all of that fit together. I have an art history colleague, George Bent, who is, I think, really pushing the boundaries of digital humanities by collaborating with cultural heritage stewards, scientists, technology experts, and a team of undergraduate interdisciplinary researchers to create virtual reconstructions of artwork within pointcloud and photogrammetric models of architectural spaces. His work has involved architectural scanning, computational wedding of different content, and rigorous traditional archival research.[^6]
-
-These technical developments, matched by increasing social emphases on bridging geographical and
-
-cultural divides to enhance the globalization of cultural heritage conservation, are making for very
+It was astonishing how all of that fit together. I have an art history colleague, George Bent, who is, I think, really pushing the boundaries of digital humanities by collaborating with cultural heritage stewards, scientists, technology experts, and a team of undergraduate interdisciplinary researchers to create virtual reconstructions of artwork within pointcloud and photogrammetric models of architectural spaces. His work has involved architectural scanning, computational wedding of different content, and rigorous traditional archival research.[^6] These technical developments, matched by increasing social emphases on bridging geographical and cultural divides to enhance the globalization of cultural heritage conservation, are making for very
 
 exciting times in this field!
 
