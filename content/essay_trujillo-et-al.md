@@ -320,5 +320,3 @@ Bonifacio Bembo, "Visconti-Sforza Tarot Cards", Milan, Italy, ca.1450-1480. Morg
 [^27]: Organic colorants are often defined in the literature as "insect-derived" or "plant-derived," if not just "organic red glaze or lake." A possible reason for that lies in the fact that analytical techniques currently enabling conclusive identification of these materials, such as SERS or MS, require highly specialized technical skills and are not widely available to museums or research institutions.
 
 [^28]: See the case studies in Stella Panayotova, *The Art & Science of Illuminated Manuscripts: A Handbook* (London: Brepols, 2020).
-
-{% endbackmatter %}

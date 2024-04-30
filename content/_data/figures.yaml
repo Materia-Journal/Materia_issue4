@@ -681,21 +681,21 @@ figure_list:
     alt: "A photograph of the artwork taken under ultraviolet light, showing luminescence effects in some passages in white paint"
 
   - id: "5-6a"
-    label: "Fig. 6"
+    label: "Fig. 6a"
     src: figures/Grison/fig-6-grison_et_al.jpg
-    caption: "Top, detail of the lower right corner, revealing the impastos and the carving; bottom, detail of the sleeve with flowing lines carved into wet paint. Both photographed in raking light from a 270॰ angle."
+    caption: "Detail of the lower right corner, revealing the impastos and the carving."
     alt: "Two photographs of details of the artwork taken in raking light, showing of relief and texture in the paint"
   
   - id: "5-6b"
-    label: "Fig. 6"
+    label: "Fig. 6b"
     src: figures/Grison/fig-6.2-grison_et_al.jpg
-    caption: "Top, detail of the lower right corner, revealing the impastos and the carving; bottom, detail of the sleeve with flowing lines carved into wet paint. Both photographed in raking light from a 270॰ angle."
+    caption: "Detail of the sleeve with flowing lines carved into wet paint. Both photographed in raking light from a 270॰ angle."
     alt: "Two photographs of details of the artwork taken in raking light, showing of relief and texture in the paint"
 
   - id: "5-7"
     label: "Fig. 7"
     src: figures/Grison/fig-7-grison_et_al.jpg
-    caption: "Ca map showing the presence of a calcium-containing layer in the veil (MA-XRF)."
+    caption: "Ca-K map showing the presence of a calcium-containing layer in the veil (MA-XRF)."
     alt: "Chemical imaging with MA-XRF mapping the presence of calcium in a detail of the monk's veil"
 
   - id: "5-8a"
@@ -767,7 +767,7 @@ figure_list:
   - id: "5-15"
     label: "Fig. 15"
     src: figures/Grison/fig-15-grison_et_al.jpg
-    caption: "Photograph of Delaunois' house-atelier at 132 rue de Tirlemont in Heverlee, from a photo album dated 1955, M Leuven. Highlighted in blue: *Vision de Moine* framed together with a pendant."
+    caption: "Detail of the monogram showing the presence of pastel colours on top of the red paint."
     alt: "Two black and white photographs taken in Delaunois's living room, with the artwork framed, among art and decorative objects"
   
   - id: "5-16"
