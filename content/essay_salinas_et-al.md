@@ -189,7 +189,7 @@ Wilson, Sophia. "Away with the Corsets, on with the Shifts." In *Simply Stunning
 
 We would like to thank all those who made this project possible, including Doede Hardeman, head of collections, Kunstmuseum Den Haag; Bernice Morris, textile conservator, Philadelphia Museum of Art; Dr. Naomi Luxford, conservation scientist, English Heritage Centre; Dr. Paul Garside, Kelvin Centre for Conservation and Cultural Heritage Research, University of Glasgow; Keren Protheroe, senior archivist, Liberty Fabrics; Anna Buruma, archivist, St Martin´s School of Art; Ilaria de Palma, head, Costume Conservation Department, Palazzo Morando; and Gemma Contreras Zamorano, director, Institut Valenciá de Conservació, Restauració i Investigacio. Finally, we would like to make a special dedication to Noah Rodriguez Pozo, who was born at the moment this research was completed, as well as to César Rodríguez Salinas's partner, Iciar Pozo Julian, who was tremendously supportive of this project.
 
-## Author Bios
+## Contributors
 
 César Rodríguez Salinas holds an MSc in analytical techniques applied to the preservation of cultural heritage and is a specialist in the conservation and restoration of textiles. He is a fashion and textile conservator at the Kunstmuseum Den Haag in the Netherlands.
 
