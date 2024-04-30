@@ -48,7 +48,7 @@ Other parts of the historical collection are held in trust elsewhere. The Royal 
 
 ## The documents
 
-Even though Thunberg was not the first Swede or European to visit Japan before or during its seclusion,[^8] he nevertheless played a significant role in bringing Japanese culture to the outside world, specifically Western Europe (Fig. 21).[^9] His travel account, for example, includes detailed observations and descriptions of Japanese life and manners, replete with a deep admiration for local customs, hygienic standards, and courtesy between people.[^10] Thunberg also corresponded profusely with numerous elite scholars, politically influential persons, and monarchs worldwide. Many letters are still accessible. Although there are no remnant handwritten notes from his voyage to Japan,[^11] Thunberg used his now-lost diary entries to publish travel accounts a decade after his return to Sweden. The first edition, printed in four volumes and written in the vernacular, is titled *Resa uti* *Europa, Afrika, Asia förrättad åren 1770–1779* (Travel in Europe, Africa, and Asia during the years 1770–1779), hereafter referred to as* Resa*.[^12] Within this collection, the third volume (published in 1791) was specifically devoted to Japan, while the fourth (published in 1793) details his period in Japan and the return journey. Shortly after the Swedish edition was published, the work was also translated into English, Russian, German, and French.[^13] A century later, an edition in Japanese was published in which only Thunberg’s Japanese visit was covered.[^14]
+Even though Thunberg was not the first Swede or European to visit Japan before or during its seclusion,[^8] he nevertheless played a significant role in bringing Japanese culture to the outside world, specifically Western Europe (Fig. 21).[^9] His travel account, for example, includes detailed observations and descriptions of Japanese life and manners, replete with a deep admiration for local customs, hygienic standards, and courtesy between people.[^10] Thunberg also corresponded profusely with numerous elite scholars, politically influential persons, and monarchs worldwide. Many letters are still accessible. Although there are no remnant handwritten notes from his voyage to Japan,[^11] Thunberg used his now-lost diary entries to publish travel accounts a decade after his return to Sweden. The first edition, printed in four volumes and written in the vernacular, is titled *Resa uti* *Europa, Afrika, Asia förrättad åren 1770–1779* (Travel in Europe, Africa, and Asia during the years 1770–1779), hereafter referred to as *Resa*.[^12] Within this collection, the third volume (published in 1791) was specifically devoted to Japan, while the fourth (published in 1793) details his period in Japan and the return journey. Shortly after the Swedish edition was published, the work was also translated into English, Russian, German, and French.[^13] A century later, an edition in Japanese was published in which only Thunberg’s Japanese visit was covered.[^14]
 
 {% figure '2-21', 'is-pulled-left' %}
 
@@ -86,13 +86,13 @@ Thunberg departed for Europe after a sojourn lasting about sixteen months, inclu
 
 ## Early visitors to Japan and other influential contemporaries
 
-Several earlier and contemporary written sources complement our knowledge of urushi alongside Thunberg’s own comments and collection. To evaluate the importance and extent of his achievements, it is helpful to identify a few other Europeans who visited Japan around the same time or with whom he had contact. Literature and scholars were part of the academic environment in which Thunberg operated. At least two other Swedes visited Japan well before Thunberg: Fredrik Coyet (1615–1687) in 1648, after a Dutch factory had been established on Deshima in 1641, and Olof Eriksson (1620–1673) in 1652 as a representative of the V.O.C. However, neither contributed much to the Western understanding of East Asia.[^31] The first Western scholar was the German physician Engelbert Kaempfer (1651–1716), who visited Japan in 1691–92. The V.O.C.-employed, German physician and botanist Franz Philip von Siebold (1796–1866), who stayed in Japan from 1823 to 1829, was one of Thunberg’s many correspondents and became his successor (Fig. 25).[^32]According to von Siebold, Kaempfer made outstanding contributions to modern research on Japan in his monumental *Nippon*, based on the collecting of all kinds of information and records on cultures and societies.[^33] As a botanist, and as far as this study has confirmed, Kaempfer did not reflect on anything related to urushi but instead focused on medicinal plants, and thus was a crucial forebearer of Thunberg.[^34] Yet, Thunberg might also have been influenced by Kaempfer’s admiration for the well-organised and peaceful Japanese society where, for example, different religions coexisted. In *Resa*’s third volume, Kaempfer is noted twice (concerning maps and the succession of shoguns since 1692); and therefore it is certain that Thunberg was well aware of his predecessor (3:222, 234).
+Several earlier and contemporary written sources complement our knowledge of urushi alongside Thunberg’s own comments and collection. To evaluate the importance and extent of his achievements, it is helpful to identify a few other Europeans who visited Japan around the same time or with whom he had contact. Literature and scholars were part of the academic environment in which Thunberg operated. At least two other Swedes visited Japan well before Thunberg: Fredrik Coyet (1615–1687) in 1648, after a Dutch factory had been established on Deshima in 1641, and Olof Eriksson (1620–1673) in 1652 as a representative of the V.O.C. However, neither contributed much to the Western understanding of East Asia.[^31] The first Western scholar was the German physician Engelbert Kaempfer (1651–1716), who visited Japan in 1691–92. The V.O.C.-employed, German physician and botanist Franz Philip von Siebold (1796–1866), who stayed in Japan from 1823 to 1829, was one of Thunberg’s many correspondents and became his successor (Fig. 25).[^32] According to von Siebold, Kaempfer made outstanding contributions to modern research on Japan in his monumental *Nippon*, based on the collecting of all kinds of information and records on cultures and societies.[^33] As a botanist, and as far as this study has confirmed, Kaempfer did not reflect on anything related to urushi but instead focused on medicinal plants, and thus was a crucial forebearer of Thunberg.[^34] Yet, Thunberg might also have been influenced by Kaempfer’s admiration for the well-organised and peaceful Japanese society where, for example, different religions coexisted. In *Resa*’s third volume, Kaempfer is noted twice (concerning maps and the succession of shoguns since 1692); and therefore it is certain that Thunberg was well aware of his predecessor (3:222, 234).
 
 {% figure '2-25' %}
 
 It may be that a greater influence on Thunberg was botanist Carl Linnaeus (1707–1778), one of the most prominent scientific figures in Swedish history. From letters in the archives, it is clear that Thunberg corresponded with several of Linnaeus’ disciples and that these also may have had an influence on Thunberg´s ideas and achievements. One Linnaean pupil is Pehr af Bjerkén (1731–1774), a physician and appointed city medical officer in Stockholm. He studied the *Toxicodendron vernicifluum*, one of three Asian lacquer trees.[^35] In all probability, af Bjerkén was interested in the tree species as a potential drug-producing plant.
 
-Another contemporary scholar assisted, collaborated, and corresponded with Thunberg from Uppsala. In a letter to Lars Montin (1723–1785) from Nagasaki in 1775, Thunberg refers to the delivery of eighty plants, including twelve previously unknown species.[^36] Montin’s account lists all the plants, including *Rhus javanica *and* R. Vernix* (archaic for *Toxicodendron vernicifluum).* Moreover, these species are listed in the Japanese edition of *Flora iaponica* (*Taisei honzou meiso* 泰西本草名疏), translated by scholar Itō Keisuke 伊藤圭介 (1803–1901) and published in 1829 (Fig. 26).[^37] The documentation, description, and classification of these trees indicate an interest in finding new species that could be cultivated in Europe and supply substances for medicine. While it is unlikely that the mentioning of the lacquer tree in Thunberg’s correspondence is evidence of a historical alternative for surface-finishing and coating-media production, these dated publications and letters indicate the current knowledge of urushi-related material in Europe.
+Another contemporary scholar assisted, collaborated, and corresponded with Thunberg from Uppsala. In a letter to Lars Montin (1723–1785) from Nagasaki in 1775, Thunberg refers to the delivery of eighty plants, including twelve previously unknown species.[^36] Montin’s account lists all the plants, including *Rhus javanica* and *R. Vernix* (archaic for *Toxicodendron vernicifluum)*. Moreover, these species are listed in the Japanese edition of *Flora iaponica* (*Taisei honzou meiso* 泰西本草名疏), translated by scholar Itō Keisuke 伊藤圭介 (1803–1901) and published in 1829 (Fig. 26).[^37] The documentation, description, and classification of these trees indicate an interest in finding new species that could be cultivated in Europe and supply substances for medicine. While it is unlikely that the mentioning of the lacquer tree in Thunberg’s correspondence is evidence of a historical alternative for surface-finishing and coating-media production, these dated publications and letters indicate the current knowledge of urushi-related material in Europe.
 
 {% figure '2-26', 'is-pulled-left' %}
 
@@ -100,7 +100,7 @@ One of Thunberg’s many European contacts was a key figure in Britain in the la
 
 {% figure '2-27', 'is-pulled-right' %}
 
-## Results and discussion***
+## Results and discussion
 
 Table 3 summarises the results of the microscopy of sections and chemical and physical analyses of samples, hereafter called sample 4 (headrest), 14 (barber plate), 85 (casket), and 86B (saucer), respectively. Figs. 28–31 show the samples and sections. The layers observed in the sections are named a–d within brackets, with \[a\] at the surface. Some X-ray fluorescence (XRF) spectra and pyrolysis-gas chromatography-mass spectrometry (Py-GC-MS) chromatograms were nearly identical. Hence, Figs. 32─35 are limited to the most elucidatory example in each case.
 
@@ -112,7 +112,7 @@ Table 3 summarises the results of the microscopy of sections and chemical and ph
 
 The presentation of results and discussion about related documentary pieces of evidence follow the working process of urushi from the bottom up, starting with the core material and ending with the decorations and signs of ageing, and then extending to more general aspects such as the pricing of urushi, the supply of lacquer, and the like. These more general aspects have a weaker linkage to the artefacts’ materiality and a wider scope for interpretation but can indicate how urushi and lacquerware were appreciated and understood in previous eras.
 
-Unfortunately, no sample covered the body material, which was too small and occasionally too delicate. Therefore, it is impossible to establish any link between the information in *Resa* and the artefacts for wood species. However, Thunberg repeatedly commented on wood types, the quality of timber, and the importance of a straight grain. He often focused on the usefulness of plants. He also noted that bodies to be lacquered could be of different materials, but woods were most frequent, as for example: “large and beautifully lacquered *norimon* (palanquin) made partly from thin wood boards, and bamboo, in which one travels most comfortably” (3:109–10), and “two lacquered wood pegs (chopsticks) held in the right hand serve as fork and spoon” (4:74). The makers* *“use the finest choice of pines and cedars for lacquerware” (3:284; 4:59). Commenting on forests and wood species found in many regions along the Tōkaidō, he noted ”the most beautiful and giant trees, outstanding and unparalleled *Thuja* *dolabrata* (arborvitae)” (3:180). Thunberg considered the thuja (Hiba or Asunaro) the best conifers, particularly for their straight height and evergreen leaves. In the vicinity of Fakona (Hakone), Thunberg saw a profusion of cedars (*Cupressus japonica,* Sugi) that were higher, more beautiful than any conifer, and unmatched in other prefectures. Here, the “stems stand like candles,” and the material “displays a fine grain” (3:185). Further, he wrote that cedar resists decay better than any other wood and that it was apt for sea vessels, bridges, underwater constructions, and many artefacts” (3:185). Good timber was in high demand. Indeed, attempts were made to retrieve “cedar timber underwater, which was lost due to earthquakes” (3:185). The fact that most of Thunberg’s urushi ware show no warping or splitting indicates that the core material was chosen carefully, suitable for its application, and resilient towards changes in the mostly uncontrolled environment to which they have been exposed since 1776. Artefacts that show deformation, while very limited, are the box with red lid and the two cases (Figs. 8, 20).
+Unfortunately, no sample covered the body material, which was too small and occasionally too delicate. Therefore, it is impossible to establish any link between the information in *Resa* and the artefacts for wood species. However, Thunberg repeatedly commented on wood types, the quality of timber, and the importance of a straight grain. He often focused on the usefulness of plants. He also noted that bodies to be lacquered could be of different materials, but woods were most frequent, as for example: “large and beautifully lacquered *norimon* (palanquin) made partly from thin wood boards, and bamboo, in which one travels most comfortably” (3:109–10), and “two lacquered wood pegs (chopsticks) held in the right hand serve as fork and spoon” (4:74). The makers “use the finest choice of pines and cedars for lacquerware” (3:284; 4:59). Commenting on forests and wood species found in many regions along the Tōkaidō, he noted ”the most beautiful and giant trees, outstanding and unparalleled *Thuja* *dolabrata* (arborvitae)” (3:180). Thunberg considered the thuja (Hiba or Asunaro) the best conifers, particularly for their straight height and evergreen leaves. In the vicinity of Fakona (Hakone), Thunberg saw a profusion of cedars (*Cupressus japonica,* Sugi) that were higher, more beautiful than any conifer, and unmatched in other prefectures. Here, the “stems stand like candles,” and the material “displays a fine grain” (3:185). Further, he wrote that cedar resists decay better than any other wood and that it was apt for sea vessels, bridges, underwater constructions, and many artefacts” (3:185). Good timber was in high demand. Indeed, attempts were made to retrieve “cedar timber underwater, which was lost due to earthquakes” (3:185). The fact that most of Thunberg’s urushi ware show no warping or splitting indicates that the core material was chosen carefully, suitable for its application, and resilient towards changes in the mostly uncontrolled environment to which they have been exposed since 1776. Artefacts that show deformation, while very limited, are the box with red lid and the two cases (Figs. 8, 20).
 
 Sections of samples 4 and 86B show ground layers \[d\] (Figs. 28, 31). For the complete validation of coating systems, the core material is essential. However, the interface between the body and the ground is often a zone with weak adhesion due to different chemical compositions and anisotropy. If the chemical bonding between applications is weak, physical interlocking might compensate. Therefore, we assume that the ground zone in the section reflects the actual ground in sample 4. The opposite may apply to sample 86B due to the deteriorating ground showing separation between applications close to the sample location. The limited number of layers reflects a more straightforward working process, typical for modest yet precisely and neatly made Japanese urushi ware from the eighteenth century.[^45]
 
@@ -126,21 +126,21 @@ The total number of layers in a coating system can vary considerably depending o
 
 A drying oil was added to the sap on the barber plate, casket, and saucer, verified by the detection of palmitic and stearic acids in the EIC at m/z 60 of sample 86B; confirmed by the peaks for the saturated fatty acids (C6–C9), palmitic acid (C16), and stearic acid (C18) (Fig. 34. The same result also holds for samples 14 and 85. EIC m/z 60 of sample 4 confirmed carboxylic acids C6–C9, but not C16 and C18. The molecules C16 and C18 were not detected, possibly due to the aged coating. Oils modify properties, such as the lustre and elasticity of the cured film, additives known from the literature and current craftsmanship. The incense container (Fig. 4) is made in *togidashi maki-e* technique, in which the design is first covered then abraded to be revealed. It is very smooth and lustrous both inside and out, which may be an indication of oil. Usually, the surfaces most exposed to the light become matt, due to ongoing deterioration. Previous studies on urushi detected azelaic acid and palmitic, stearic, and saturated acids with a low carbon number, i.e., C6–C9, albeit suberic acid was not.[^53] Palmitic and stearic acids have also been detected along with C6–C9 at m/z 60 without simultaneously detecting either azelaic or suberic acids.[^54] Fatty acids from other substances complicate the interpretation of the results further.[^55] Besides a drying oil (linseed, tung, and perilla oil), analytical data from other studies have suggested other potential additives such as a semi- or non drying oil or another ingredient containing fatty acids.[^56] Such additives associated with the urushi craft include rapeseed and sesame oil.[^57] *Nihon sankai* suggests that walnut oil was a contemporary alternative.[^58] Such an admixture is unheard of by many artists and scholars, and this study has been unable to verify its presence in the literature and analyses.[^59] However, raw anacard resins do not contain native fatty acids. Linseed and perilla oils are glycerides, i.e., esters formed by three fatty acids reacting with one glycerol molecule. The polyunsaturated fatty acids in linseed oil are linolenic, linoleic, and oleic. The saturated fatty acids are stearic and palmitic. The polyunsaturated acids polymerise simultaneously as the sap cures. Therefore, they remain undetected by GC-MS a posteriori. The main fatty acids of walnut oils are oleic, linoleic, linolenic, and palmitic, so the same applies to that type of oil.[^60]
 
-In contrast, saturated fatty acids and oleic acid (monounsaturated) remain in the urushi coating film. In particular, saturated fatty acids are less reactive, relatively stable, and less susceptible to oxidation by oxygen in the air. Therefore, saturated fatty acids (stearic and palmitic acid) are detected when Py-GC-MS thermally decomposes old lacquer coatings. Moreover, it is unlikely that a drying oil has been used to restore the artefacts, although only the more recent restoration history is undocumented, e.g., that for of one of the saucers (Fig. 19). Thus, the sample 86B was collected from the other saucer to avoid the risk of contamination. The hypothesis also makes sense because adding oil to lacquer sap is a conventional technique.
+In contrast, saturated fatty acids and oleic acid (monounsaturated) remain in the urushi coating film. In particular, saturated fatty acids are less reactive, relatively stable, and less susceptible to oxidation by oxygen in the air. Therefore, saturated fatty acids (stearic and palmitic acid) are detected when Py-GC-MS thermally decomposes old lacquer coatings. Moreover, it is unlikely that a drying oil has been used to restore the artefacts, although the recent restoration history is undocumented, e.g., that for of one of the saucers (Fig. 19). Thus, the sample 86B was collected from the other saucer to avoid the risk of contamination. The hypothesis also makes sense because adding oil to lacquer sap is a conventional technique.
 
-Two sap-producing tree species are noted in *Resa*, namely *Rhus vernix and R. succedanea (B)*, *“*growing in many prefectures” (3:78). Seeds from the “varnish tree, the so-called *Fasino ki* (ハゼノキ Hazenoki) or *R. succedanea,* most frequently cultivated in “Jetsigo” (Echigo 越後 present-day Niigata prefecture) (3:78–79, 211) were used to produce “tallow and waxy oil” for making candles “that are white or yellowish-white and covered with a white surface” (3:78–79, 211). Recently, *Toxicodendron succedanea* has been associated with lacquerware from Vietnam and Taiwan.[^61] The notes testify that the species grew in Japan during the eighteenth century. However, it is unconfirmed for producing anything but candles, which is consistent with present sources of information.[^62] Such data are inconsistent with *Flora iaponica* and its Japanese translation.[^63] In the latter, *R. vernix* Linn. (*toxicodendron)* and *R. succedanea* Linn. were marked with the Japanese sign for urushi 漆, whereas *R. iavanicum* Linn. was not (Fig. 26). Why these entries are inconsistent is beyond the scope of this study. At least it is certain that Thunberg never visited the prefectures Niigata or Tochigi (mentioned in *Nihon sankai*; see below). In Thunberg’s collection of urushi-related artefacts, there is a candle (Fig. 16) displaying a matt, soft surface with white blooming resembling ageing wax. Its colour has changed significantly to brown-orange. Moreover, two of Thunberg’s plant specimens (UPS-THUNB nos. 7273 and 7284) tally with the information in *Resa* (Fig. 27), perhaps supplied by the Japanese translators and Thunberg’s helpers together with trustworthy information.
+Two sap-producing tree species are noted in *Resa*, namely *Rhus vernix and R. succedanea (B)*, "growing in many prefectures" (3:78). Seeds from the “varnish tree, the so-called *Fasino ki* (ハゼノキ Hazenoki) or *R. succedanea,* most frequently cultivated in “Jetsigo” (Echigo 越後 present-day Niigata prefecture) (3:78–79, 211) were used to produce “tallow and waxy oil” for making candles “that are white or yellowish-white and covered with a white surface” (3:78–79, 211). Recently, *Toxicodendron succedanea* has been associated with lacquerware from Vietnam and Taiwan.[^61] The notes testify that the species grew in Japan during the eighteenth century. However, it is unconfirmed for producing anything but candles, which is consistent with present sources of information.[^62] Such data are inconsistent with *Flora iaponica* and its Japanese translation.[^63] In the latter, *R. vernix* Linn. (*toxicodendron)* and *R. succedanea* Linn. were marked with the Japanese sign for urushi 漆, whereas *R. iavanicum* Linn. was not (Fig. 26). Why these entries are inconsistent is beyond the scope of this study. At least it is certain that Thunberg never visited the prefectures Niigata or Tochigi (mentioned in *Nihon sankai*; see below). In Thunberg’s collection of urushi-related artefacts, there is a candle (Fig. 16) displaying a matt, soft surface with white blooming resembling ageing wax. Its colour has changed significantly to brown-orange. Moreover, two of Thunberg’s plant specimens (UPS-THUNB nos. 7273 and 7284) tally with the information in *Resa* (Fig. 27), perhaps supplied by the Japanese translators and Thunberg’s helpers together with trustworthy information.
 
 There is no evidence that Thunberg visited any plantations for sap production or urushi workshops. Nonetheless, *Resa* describes sap harvest, some essential properties of saps, and processes of manufacture, in accord with plate no. 12 in *Nihon sankai*:
 
 > The sap oozes out from the wounded stems of three-year-old trees. As freshly received in a proper vessel, it is light-coloured and of creamy consistency. Exposed to air, it turns black and more viscous. Dark grounds applied first are made with fine sludge. Ground charcoal is used at other times, and a black-reddish substance is occasionally mixed with the sap (4:59).
 
-Thunberg noted that small and large artefacts were equally lacquered with a modified and more transparent sap showing the wood grain, and that “doorposts, window frames, drawers, chests, boxes, fans, teacups, soup dishes, and most household furniture made of wood are lacquered this way” (3:185; 4:99). The smallest artefact in Thunberg’s collection is the set of miniatures ( Fig. 17). Besides the miniatures, the container, the box with a red-coated lid, and three cases (for a knife and two balances), the grain is visible through the lacquer (Figs. 6, 8, 12, and 15). Even blue lacquerware was made from “*Cypressus japonica*, which turns blue when soaked in water . . . \[and\] lacquered” with a more transparent sap (4:185). In the collection of artefacts, the above-mentioned container could be an example (Fig. 6). Other sap modifications were more opaque and turned the coating brown or black (4:99). Blue and green urushi ware was unusual since the sap reacts chemically with many pigments, changing or losing their colour.[^64] Access to modern synthetic pigments makes it possible to produce bright colours, whereas historical blue urushi ware has been encountered only sporadically and in those cases was made with indigo pigment.[^65] Therefore, this comment on the making of blue urushi ware is puzzling.
+Thunberg noted that small and large artefacts were equally lacquered with a modified and more transparent sap showing the wood grain, and that “doorposts, window frames, drawers, chests, boxes, fans, teacups, soup dishes, and most household furniture made of wood are lacquered this way” (3:185; 4:99). The smallest artefact in Thunberg’s collection is the set of miniatures (Fig. 17). Besides the miniatures, the container, the box with a red-coated lid, and three cases (for a knife and two balances), the grain is visible through the lacquer (Figs. 6, 8, 12, and 15). Even blue lacquerware was made from “*Cypressus japonica*, which turns blue when soaked in water . . . \[and\] lacquered” with a more transparent sap (4:185). In the collection of artefacts, the above-mentioned container could be an example (Fig. 6). Other sap modifications were more opaque and turned the coating brown or black (4:99). Blue and green urushi ware was unusual since the sap reacts chemically with many pigments, changing or losing their colour.[^64] Access to modern synthetic pigments makes it possible to produce bright colours, whereas historical blue urushi ware has been encountered only sporadically and in those cases was made with indigo pigment.[^65] Therefore, this comment on the making of blue urushi ware is puzzling.
 
 Black and red are the dominant colours in the urushi craft.[^66] Thunberg’s collection is typical in this respect. As verified by other investigations, soot was a way to make black urushi, traditional before the mid-eighteenth century in China and Japan.[^67] Processes to stain urushi black using iron were unknown during the period of interest but are widely used today.[^68] Therefore, indications of soot were expected. The pigment is further confirmed by detecting fluoranthene, a pyrolysate of soot, in the EIC m/z 202 from samples 4 \[c\], 14 \[b\], and 85 \[a\] and in combination with pyrene in 86B \[c\] (Fig. 32). In general, soot powder added to urushi sap strengthens the substrate and renders it black. In the absence of other pigments, dyes, or stains, the conclusion is that soot was used on the four sampled artefacts and probably also on the rest, an assumption based on their age and slightly brownish-black appearances. Red urushi is encountered most as foundation (*bengara*) to the *maki-e* gold decorations, except for the interior of the casket (Fig. 18) and the two cases (Fig. 20). The interiors of the cases are green and the only examples that deviate from the most abundant colours, black and red. In history, green could sometimes be obtained with an admixture of indigo and a yellow pigment, such as orpiment, later substituted for Prussian blue and chrome yellow.[^69]
 
 Many intriguing text passages in *Resa* concern lacquerware’s range in quality and design, expressed as “lacquerware of diverse sorts. Some artefacts were plain (coarser), others more elaborate (finer)” (3:59). Most of the artefacts collected by Thunberg are either plain or have exposed flat decorations and were probably more affordable, given he had a limited budget to work with and only a small cash allowance. The coating systems in samples 4, 14, 85, and 86B are limited in the number of layers, a strong indication of everyday rather than luxury products, as noted above (Figs. 28–31). Typical examples of surfaces with flat decorations are the two trays, the headrest, and the incense container (Figs. 1, 3, and 4). Even more plain is the partly red-coated box (Fig. 8).
 
-Thunberg encountered lacquerware embellished with various motifs in gold or silver and adorned with “glitter” (probably meaning precious metals or nacre) (3:110; 4:99). The inro, incense box, and container are good examples of this (Figs. 5, 2, and 4). He concluded that gold “milled in fine particles” could be added to a transparent sap (4:59). Two trays display such decoration, so-called *nashiji* (pear-skin), on their inside faces (Fig. 1), as well as the inro´s interior faces. *Nashiji* is composed of flat particles, whereas *maki-e* powders are rounded and smaller. The ocular examination shows that many *maki-e* elements (sprinkled designs) have a red undercoat, probably an iron pigment such as iron oxide (*bengara*). Thunberg notes that the ground made as preparation for mirror-like urushi surfaces could be mixed with a filler, such as sediment recovered from grinding stones (4:59). The decorative elements on the four sampled artefacts are limited to metal powders sprinkled or applied with a brush, often on a red undercoat. According to Thunberg’s documentation, such embellishments were made with gold or silver (3:221; 4:59). XRF data confirmed zinc (Zn) in sample 85 (Fig. 35). Zinc is the second highest peak, suggesting that brass (a copper-zinc alloy) was more affordable than precious metals. However, there is no peak for copper. Upon surface examination, the décor on the casket appears to be a fine, golden powder on a red undercoat (Fig. 18). In a European context, zinc may have been used instead of silver, but appeared golden due to the proper colour of a dark binding medium. In Japan during the period of interest, zinc was mined with gold, silver, and copper but all of it was thrown away as useless mucus.[^70] Many other artefacts have abraded decorations displaying a red undercoat, which is consistent with remarks in *Resa*, such as “beautifully lacquered . . . with flowers in raised decoration” and “sometimes red paint is mixed with the varnish” (3:221; 4:59). The investigation was limited to small samples, so the presence of other compounds or combinations of substances cannot be ruled out. However, the potential decoration remained unobserved in the section of sample 85. This absence may reflect that the specimen was subdivided after sampling. After that, the fragments were distributed between analysis methods. The same applies to sample 86B, with a zinc peak even higher than the iron (Fe) and, in low concentration, arsenic. Orpiment (*kio*, *kiwo*, *sekio*), a yellow pigment made of arsenic trisulphide, is occasionally used as an undercoat for gold, especially in areas subject to wear, such as the rim of vessels.[^71] It used to be a standard material for transferring *maki e* patterns from draft paper or making undercoats for *keishifun maki e* (sprinkling the finest gold powder).[^72] Elsewhere, indeed, a yellow pigment might replace gold. No orpiment particles were observed in the sections, but the pigment can deteriorate to white arsenic oxide. Although decorations were not deliberately sampled, the detection of zinc in other layer zones was unanticipated, and its presence is inconsistent with the literature.[^73] Detection of zinc may be considered as contamination until otherwise indicated.
+Thunberg encountered lacquerware embellished with various motifs in gold or silver and adorned with “glitter” (probably meaning precious metals or nacre) (3:110; 4:99). The inro, incense box, and container are good examples of this (Figs. 5, 2, and 4). He concluded that gold “milled in fine particles” could be added to a transparent sap (4:59). Two trays display such decoration, so-called *nashiji* (pear-skin), on the inro's interior faces (Fig. 1), as well as the inro´s interior faces. *Nashiji* is composed of flat particles, whereas *maki-e* powders are rounded and smaller. The ocular examination shows that many *maki-e* elements (sprinkled designs) have a red undercoat, probably an iron pigment such as iron oxide (*bengara*). Thunberg notes that the ground made as preparation for mirror-like urushi surfaces could be mixed with a filler, such as sediment recovered from grinding stones (4:59). The decorative elements on the four sampled artefacts are limited to metal powders sprinkled or applied with a brush, often on a red undercoat. According to Thunberg’s documentation, such embellishments were made with gold or silver (3:221; 4:59). XRF data confirmed zinc (Zn) in sample 85 (Fig. 35). Zinc is the second highest peak, suggesting that brass (a copper-zinc alloy) was more affordable than precious metals. However, there is no peak for copper. Upon surface examination, the décor on the casket appears to be a fine, golden powder on a red undercoat (Fig. 18). In a European context, zinc may have been used instead of silver, but appeared golden due to the proper colour of a dark binding medium. In Japan during the period of interest, zinc was mined with gold, silver, and copper but all of it was thrown away as useless mucus.[^70] Many other artefacts have abraded decorations displaying a red undercoat, which is consistent with remarks in *Resa*, such as “beautifully lacquered . . . with flowers in raised decoration” and “sometimes red paint is mixed with the varnish” (3:221; 4:59). The investigation was limited to small samples, so the presence of other compounds or combinations of substances cannot be ruled out. However, the potential decoration remained unobserved in the section of sample 85. This absence may reflect that the specimen was subdivided after sampling. After that, the fragments were distributed between analysis methods. The same applies to sample 86B, with a zinc peak even higher than the iron (Fe) and, in low concentration, arsenic. Orpiment (*kio*, *kiwo*, *sekio*), a yellow pigment made of arsenic trisulphide, is occasionally used as an undercoat for gold, especially in areas subject to wear, such as the rim of vessels.[^71] It used to be a standard material for transferring *maki e* patterns from draft paper or making undercoats for *keishifun maki e* (sprinkling the finest gold powder).[^72] Elsewhere, indeed, a yellow pigment might replace gold. No orpiment particles were observed in the sections, but the pigment can deteriorate to white arsenic oxide. Although decorations were not deliberately sampled, the detection of zinc in other layer zones was unanticipated, and its presence is inconsistent with the literature.[^73] Detection of zinc may be considered as contamination until otherwise indicated.
 
 Further, in the index to volume 3 of *Resa*, Thunberg listed some Swedish and Japanese terms related to the urushi craft. Examples of words for decoration techniques, materials, and tools include *to lacquer*: “Makie faru” (*maki e suru* 蒔絵する \[doing or applying *maki-e*\]); lacquer work: “Makie mono, norimono” (*nurimono* 塗物 \[lacquered object\]); lacquerware with gold: “Nafis” (nasis; probably *nashiji* 梨地); pen, brush: “Fuda” (*fude* 筆); nacre :“Sinfu” (probably *shinju* 真珠 \[pearl\]); and Spanish green: “Rokulfeo” (*rokuseo rokusho* 緑⻘ \[verdigris\]), a basic copper acetate pigment (3:320–40). Fig. 13 corresponds to such a brush. Since the sampling strategy was to avoid excess loss of otherwise almost intact surfaces, decorated areas were not targeted. Therefore, the total range of potential pigments remains inconclusive. The literature and current craftsmanship show that cinnabar (vermilion) was admired and frequently used to make red urushi—the lighter the nuance, the better. Therefore, it is not farfetched to assume that most of the red urushi is mixed with cinnabar or a blend of cinnabar and red iron (*bengara*), in spite of the fact that Thunberg noted a number of minerals as “important materials” (3:228–30).
 
@@ -154,17 +154,15 @@ In Thunberg’s opinion, the high quality depended partly on the deliberate choi
 
 Thunberg was fascinated by the frequency by which lacquerware appeared in many situations. When the Japanese slept, he said, “they did not use pillows but oblong pieces of lacquered wood” (3:127). Everyone sat down at a small table at mealtimes. The various dishes came in “the neatest lidded porcelain or japanned wood vessels” (3:127). In between, they drank hot sake from “shallow tea saucers made of lacquered wood” (3:127; 4:74). Among the artefacts, the head rest and the saucers seem to correspond to such bed- and tableware (Figs. 3, 19).
 
-In Miyako, almost “any ready-made commodity could be obtained, particularly lacquerware,” and the “best and most masters, manufacturers, and artists have settled here” (3:159). Before leaving Miyako and Fakonie*,* Thunberg placed orders for various lacquerware to be collected on his return (3:160, 180). In particular, these remarks on the assortment of available categories of items in almost unlimited stock, and on places for purchase, illuminate the extant artefacts’ value as evidence for the standards and supply of everyday commodities. It must remain a speculation which of the artefacts, if any, Thunberg commissioned in Miyako. However, some of the urushi seem to be in almost pristine condition, or at least without any obvious signs of wear and tear, and thus more likely to have been made on the order of Thunberg or his Japanese helpers in Miyako or elsewhere. Other sites mentioned for purchasing and placing commissions were Swota, Fisen (porcelain), Kokura, and Osaka (3:3).
+In Miyako, almost “any ready-made commodity could be obtained, particularly lacquerware,” and the “best and most masters, manufacturers, and artists have settled here” (3:159). Before leaving Miyako and Fakonie, Thunberg placed orders for various lacquerware to be collected on his return (3:160, 180). In particular, these remarks on the assortment of available categories of items in almost unlimited stock, and on places for purchase, illuminate the extant artefacts’ value as evidence for the standards and supply of everyday commodities. It must remain a speculation which of the artefacts, if any, Thunberg commissioned in Miyako. However, some of the urushi seem to be in almost pristine condition, or at least without any obvious signs of wear and tear, and thus more likely to have been made on the order of Thunberg or his Japanese helpers in Miyako or elsewhere. Other sites mentioned for purchasing and placing commissions were Swota, Fisen (porcelain), Kokura, and Osaka (3:3).
 
-The purchase prices, which Thunberg at times considered too high, reflected the level of quality. A cabinet in “vieux lack”* *(antique lacquerware) offered for purchase was considered by Thunberg to be overly expensive (3:221). Despite its better quality, unmatched by contemporary works, and decorated with flowers in high relief, he compared its price unfavourably with that of gold (3:221). Raised relief (*takamaki-e*), described as “embodied figures on the varnish surface, especially on old works, are greatly esteemed (in the domestic market) and of high price” (4:99). From a contemporary standpoint, we may imagine that Thunberg, as a typical Westerner, was unaccustomed to paying as much as the Japanese.
+The purchase prices, which Thunberg at times considered too high, reflected the level of quality. A cabinet in “vieux lack” (antique lacquerware) offered for purchase was considered by Thunberg to be overly expensive (3:221). Despite its better quality, unmatched by contemporary works, and decorated with flowers in high relief, he compared its price unfavourably with that of gold (3:221). Raised relief (*takamaki-e*), described as “embodied figures on the varnish surface, especially on old works, are greatly esteemed (in the domestic market) and of high price” (4:99). From a contemporary standpoint, we may imagine that Thunberg, as a typical Westerner, was unaccustomed to paying as much as the Japanese.
 
-In Japan during the period of interest, lacquerware could be used to distinguish a person of high rank. “No person of distinction undertakes a journey without a small chest of lacquered wood” (4:80). Only officials and persons of distinction travelled with *norimon* and used* *“an oblong and lacquered box of the size of a large sandwich for provisions” (3:111). In the collection, the casket might be nearest in size to that description, depending on the measurements of a sandwich (Fig. 18). Smoking could also be a sign of social standing. “Pipes of lacquered bamboo” were used by persons of rank in a kit with “three small, black or brown lacquered cups” in a likewise lacquered case (Fig. 11) (4:82). While the tobacco pipe (Fig. 11) corresponds to Thunberg’s remark, a sleeve instead of a case protects the pipe, and there are no lacquered cups in the museum collection. Perhaps a small, red glass cup (inv. no. 1900-35-0023), also associated with Thunberg but with a different provenance, is the kind of accessory that, according to him, should make up such a kit, but there is no detailed description of its function in the museum catalogue.[^76]
+In Japan during the period of interest, lacquerware could be used to distinguish a person of high rank. “No person of distinction undertakes a journey without a small chest of lacquered wood” (4:80). Only officials and persons of distinction travelled with *norimon* and used “an oblong and lacquered box of the size of a large sandwich for provisions” (3:111). In the collection, the casket might be nearest in size to that description, depending on the measurements of a sandwich (Fig. 18). Smoking could also be a sign of social standing. “Pipes of lacquered bamboo” were used by persons of rank in a kit with “three small, black or brown lacquered cups” in a likewise lacquered case (Fig. 11) (4:82). While the tobacco pipe (Fig. 11) corresponds to Thunberg’s remark, a sleeve instead of a case protects the pipe, and there are no lacquered cups in the museum collection. Perhaps a small, red glass cup (inv. No. 1900-35-0023), also associated with Thunberg but with a different provenance, is the kind of accessory that, according to him, should make up such a kit, but there is no detailed description of its function in the museum catalogue.[^76]
 
 ### Nihon sankai and how it relates to Resa
 
-Volume 3 of *Nihon sankai* is of primary interest from a urushi crafts perspective.[^77] It includes plates for turning wood cups and shallow bowls from Mount Nikkō in Tochigi, production of camphor, charcoal manufacturing from Ikeda in Osaka, and urushi sap harvesting (plates 1, 5, 7, 12) (Fig. 21). Other plates show crafts and products adjacent to the urushi craft, such as papermaking, weaving of cloth in Nishijinn, and manufacturing candles (plates 4, 11, 20). Plates 1, 7, and 12 tally with the information in *Resa*. It can be hypothesised that the interpreters informed Thunberg about details illustrated in *Nihon sankai* that he could only have observed if he had visited a workshop or plantation during harvest. Although *Resa *includes site-specific descriptions, Thunberg was unlikely to have visited places other than those along the planned Tōkaidō route. Therefore, some of the descriptions in *Resa* are probably based on illustrations in *Nihon sankai*, word-of-mouth accounts from his interpreters, or a combination of the two. Plate 1 shows coated boxes and diverse bowls inside a traditional *furo* (humidor for curing urushi) and a pile of small tables, perhaps the type of items Thunberg had used and described with appreciation. However, he never wrote anything about the curing of urushi in a closet. Based on his experience with tableware and furniture, he might have been able to evaluate other information illustrated in the pictures, perhaps even without reading the text. Plate 12 depicts men and women slashing bark for draining and collecting sap in small casks, recognisable as such because the same model is still used.[^78] After Japanese copper, camphor was the primary commodity sold to the V.O.C. at the Nagasaki port (3:47). Thunberg’s interest in camphor was probably mainly as a potential drug (4:4).[^79] In an urushi context, the resin is known as an additive in anacard coatings, modifying their properties.[^80]
-
-Fig. 21.
+Volume 3 of *Nihon sankai* is of primary interest from a urushi crafts perspective.[^77] It includes plates for turning wood cups and shallow bowls from Mount Nikkō in Tochigi, production of camphor, charcoal manufacturing from Ikeda in Osaka, and urushi sap harvesting (plates 1, 5, 7, 12) (Fig. 21). Other plates show crafts and products adjacent to the urushi craft, such as papermaking, weaving of cloth in Nishijinn, and manufacturing candles (plates 4, 11, 20). Plates 1, 7, and 12 tally with the information in *Resa*. It can be hypothesised that the interpreters informed Thunberg about details illustrated in *Nihon sankai* that he could only have observed if he had visited a workshop or plantation during harvest. Although *Resa* includes site-specific descriptions, Thunberg was unlikely to have visited places other than those along the planned Tōkaidō route. Therefore, some of the descriptions in *Resa* are probably based on illustrations in *Nihon sankai*, word-of-mouth accounts from his interpreters, or a combination of the two. Plate 1 shows coated boxes and diverse bowls inside a traditional *furo* (humidor for curing urushi) and a pile of small tables, perhaps the type of items Thunberg had used and described with appreciation. However, he never wrote anything about the curing of urushi in a closet. Based on his experience with tableware and furniture, he might have been able to evaluate other information illustrated in the pictures, perhaps even without reading the text. Plate 12 depicts men and women slashing bark for draining and collecting sap in small casks, recognisable as such because the same model is still used.[^78] After Japanese copper, camphor was the primary commodity sold to the V.O.C. at the Nagasaki port (3:47). Thunberg’s interest in camphor was probably mainly as a potential drug (4:4).[^79] In an urushi context, the resin is known as an additive in anacard coatings, modifying their properties.[^80]
 
 Deduced from the AI recognition and translation, the content of plate 1 reads that the bowls and tables produced in Mount Nikkō, located 31 *ri* from Edo,[^81] Shimotsuke no Kuni province (today’s Tochigi prefecture), were “admired and cherished by all because of their solid lacquer base and dependability for all uses.”[^82] During the Edo period, Shimotsuke no Kuni was ranked as one of the thirteen “great provinces” in terms of importance and attracted shogunal attention. The explanation also contains a poem on the virtues of lacquerware: carved from wood, coated with glue and lacquer, and shining like golden treasures.[^83]
 
@@ -190,193 +188,11 @@ One of the most convincing motives for scientific analyses of tangible materials
 
 We hope this work contributes to the more recent and relatively abundant scholarly research on identifying complex coatings made from anacard sap and to curating and preserving historical urushi objects. Any informed decision about their care and restoration must consider the intrinsic information and intangible qualities the tangible artefacts might convey. The tangible and intangible heritages might be equally essential and cross-fertilise each other.
 
-[^1]: Thunberg was an academic careerist but also acted from a Swedish mercantile perspective, by which the nation’s political and economic supremacy relied on exporting the largest possible quantity of its products and importing as little as possible, thus establishing a favourable balance of trade.
+#### Author Bio
 
-[^2]: *Urushiふしぎ物語 : 人と漆の12000年史 : 企画展示 (Urushi fushigi monogatari: hito to urushi no 12000nenshi: kikaku tenji)* (Tokyo: National Museum of Japanese History, 2017), 40.
+Maria Brunskog studied arts and crafts and is a trained cabinet maker. Graduated from the Royal Danish Academy of Fine Arts as a conservator-restorer and in 2003 awarded a PhD in conservation by the University of Gothenburg. She has been involved in conservation at various museums and as a private consultant for over four decades. Her research areas include archaeometry issues, the technology of Swedish furniture and decorative surface finishes in historical contexts, climate impact on polychromy and the visual evaluation of paint on wood. She is a senior researcher affiliated with Uppsala University, where she acted as head of the programme in Integrated Conservation.
 
-[^3]: *Svenska Akademiens Ordbok* *(SAOB*) vol. 8 (1924): F 467; vol. 13 (1937): J17, https://www.saob.se/.
-
-[^4]: See the online catalogue for the Museums of World Culture: Carlotta, https://collections.smvk.se/carlotta-em/web; Europeana: https://www.europeana.eu/en; and DigitaltMuseum, the common database for museums in Sweden and Norway, https://digitaltmuseum.se/.
-
-[^5]: On the Swedish Natural History Museum, see https://www.nrm.se/ommuseet/historikochbyggnad/historik.10074.html, last modified July 1, 2015.
-
-[^6]: Ulrika Bornestaf, “Numismatic Treasures in the Royal Coin Cabinet,” *Quadra* (1998): 132–135; Atsushi Ebihara et al., *Thunberg´s Japanese Plants* (2015– ), http://cpthunberg.ebc.uu.se; ALVIN Platform for Digital Collections and Digitized Cultural Heritage, https://www.alvin-portal.org/alvin/home.jsf?dswid=-1699; Bertil Nordenstam, “Carl Peter Thunberg and Japanese Natural History,” *Asian Journal of Natural & Applied Sciences* 2, no. 2 (2013); Marie-Christine Skuncke, *Carl Peter Thunberg: Botanist and Physician; Career-Building across the Oceans in the Eighteenth Century* (Uppsala: Swedish Collegium for Advanced Study, 2014); Marie-Christine Skuncke, “Suède, Europe, Japon: Le botaniste Carl Peter Thunberg sur le marché international,” *La Révolution française*, no. 13 (January 2018), https://doi.org/10.4000/lrf.1928.
-
-[^7]: A rough total of 27,000 plant specimens and 37,000 insects.
-
-[^8]: During the Tokugawa reign, Japan enforced self-isolation from foreign powers between the years 1693 and 1854, banning Christianity, prohibiting Japanese people from making or returning from trips overseas, and restricting foreign diplomatic and trade relations except with the Dutch and the Chinese.
-
-[^9]: Harald Fodstad, “Carl Peter Thunberg: Swedish Pioneer of Occidental Medicine in Japan,” *Neurologia Medico-Chirurgica* 22, no. 7 (1982): 577, https://doi.org/10.2176/NMC.22.577.
-
-[^10]: Fodstad*,* 580*;* Carl Peter Thunberg, *Resa uti Europa, Afrika, Asia förrättad åren 1770─1779,* 1788–.
-
-[^11]: Skuncke, *Carl Peter Thunberg*, page 256*.*
-
-[^12]: Fodstad, “Carl Peter Thunberg,” 580.
-
-[^13]: This study did not have access to all translated editions and did not aim at comparing them.
-
-[^14]: Timon Screech, *Japan Extolled and Decried: Carl Peter Thunberg and the Shogun’s Realm, 1775–1796* (London: Routledge, 2005), 61–63. The Japanese translation was by Yamada Tamaki ⼭⽥珠樹, *Tsunberugu Nihon Kikou* ツンベルグ ⽇本紀⾏ (Tokyo: Shun Nan Do, 1928; Okukawa Shobo, 1941), https://dl.ndl.go.jp/pid/1877837.
-
-[^15]: Tessai Hirase and Mitsunobu Hasegawa, *Nihon sankai meibutsu zue* vol. 3 (Osaka: Chigusaya Shinzaemon, 1754).
-
-[^16]: Since its publication, many copies have spread and can be found worldwide, e.g., at the Smithsonian Institution, Museum of Fine Arts, Boston, Biodiversity Heritage Library Consortium, and National Library of Australia. It is frequently available at auction.
-
-[^17]: Email correspondence with the authors, Herbert Jonsson, 8 March 2022; Charlotte du Rietz, 7 March 2022; Lars Vargö, 4 March 2022.
-
-[^18]: Initial ocular examination and macro photography preceded sampling. One sample from each of the selected artefacts was collected as discreetly as possible but simultaneously to locate the most appropriate and informative specimens. In general, the aim is to limit sampling in order to preserve the object’s surface and hence not to violate potential intrinsic information. However, with almost wholly intact original surfaces, the opportunities are even more restricted and have to be balanced with the anticipated outcome.
-
-    After that, standard scientific analysis methods characterised the main components, focusing on the coating strata. Separation of the multi-layered coatings during sampling into single layers was impossible. Therefore, the data obtained are not layer specific, which leads to uncertainty in the interpretation when determining the use and proportion of certain substances in specific layer(s).
-
-[^19]: Digital microscope photography used a Zeiss Stemi 2000-C Stereo Microscope 6.5x–50x attached with a Sony α NEX-7 digital camera to photograph and closely observe samples before preparation.
-
-    Preparation of thin sections and light microscopy aimed for thin-section microscopy; samples were embedded in epoxy resin, with any air bubbles removed with a vacuum and left to cure overnight. After subsequent grinding and polishing, the reverse side was glued to a microscope glass slide (Matsunami Glass Ind. Ltd.), using the same medium, and left to cure overnight. Thin sections were cut to about 1−2 mm in thickness using a diamond saw (South Bay Technology, Low-Speed Diamond Wheel Saw, model 650). Grinding was done stepwise automatically (Buehler AutoMet 250 EcoMet grinder polisher) for three minutes on each grid, using 400, 600, and 2400 Mesh Silicon Carbide Waterproof Papers. The subsequent polishing used suspensions (Sankei aqra diamond suspension 3 microns, or Ultra-High-Purity Deagglom Alumina Suspen 0.05 µm) for about one minute. A final manual polishing step was performed to avoid excessive material loss and reach a final thickness of around 10−15 µm. Observation of sections was carried out using an ECLIPSE LV100N POL microscope (Nikon Co. Ltd), and a digital camera. Sections were observed in both reflected and transmitted light, in the darkfield, and with crossed polars (PLM) and images captured under magnification.
-
-    XRF (X-ray fluorescence microscopy) was performed at normal atmospheric pressure with current 50 kV and 1.0 mA in the** **Horiba Scientific XGT-5200 Analytical X-ray Microscope** **with high spatial resolution, from 1 to 10 µm.
-
-    Pyrolysis-gas chromatography-mass spectrometry direct measurements were performed with a vertical microfurnace pyrolyser PY-2020iD (Frontier Lab, Japan), and HP 6890 gas chromatograph, and an HPG 5972A (Hewlett-Packard, Ltd.) mass spectrometer. A stainless-steel capillary column (diam. 0.25 mm × 30 m) coated with 0.25 μm of Ultra Alloy PY-1 (100% methyl silicone) was used for the separation. A platinum cup containing the sample (0.05 mg) was first kept on top of the pyrolyser at near ambient temperature; then, the sample was introduced into the furnace at 500°C. The oven was programmed to provide a constant temperature increase of 12°C per min from 40°C to 320°C and held for 10 min at 320°C. The flow rate of the helium gas was 1 ml min-1. The injector had a split of 50:1. The MS ionisation energy was 70eV (EI-mode). All pyrolysis products were identified by mass spectrometry at ionisation energy at 70eV (EI-mode). Data was analysed with Agilent MSD Chemstation software. See Soichiro Idei et al., “Analysis of Sakhalin-Ainu Lacquerwares by Pyrolysis Gas Chromatography-Mass Spectrometry,” *Journal of Archaeological Science: Reports* 20 (August 2018): 1–5; Takahashi et al. (2018). All pyrolysis products were identified from an interpretation of their mass spectra. The results are presented as extracted ion chromatograms (EIC).
-
-[^20]: Carl Peter Thunberg, *Inträdes-tal, om de mynt-sorter, som i äldre och sednare tider blifvit slagne och varit gångbare uti kejsaredömet Japan; hållet för kongl. vetenskaps-academien, den 25 Aug., 1779* (Stockholm: Johan Georg Lange, 1779), cited in Skuncke, *Carl Peter Thunberg*, 256.
-
-[^21]:
-    #  Thunberg, Carl Peter, 1792 and 1794, Karl Peter Thunbergs, ... *Reise durch einen Theil von Europa, Afrika und Asien, hauptsächlich in Japan, in den Jahren 1770 bis 1779*. Aus dem Schwedischen frey übersetzt von Christian Heinrich Groskurd, ... Erster und Zweyter Band., Berlin bey Haude und Spener. Thunberg, Carl Peter, 1796, *Voyages De C. P. Thunberg, Au Japon, Par le Cap de Bonne-Espérance*, Les îles de la Sonde, &c. Traduits, rédigés et augmentés de notes considérables sur la Religion, le Gouvernement, le Commerce, l'Industrie et les Langues de ces différentes contrées, particulièrement sur le Javan et le Malai; Par L. Langles ... ; Et revus, quant à la partie d'Histoire naturelle, par J. B. Lamarck ... Avec des Planches Tome troisième., A Paris, Chez Benoît Dandré, Garnery, Obré, I an IV.
-
-[^22]: Use of the Miwo app was suggested by Masaki Hayashi, senior lecturer and associate professor, Department of Game Design, Uppsala University.
-
-[^23]: Leonie Kijewski, “The Japanese Character and Its Peculiarity—A Study of Carl Peter Thunberg’s Travel Account,” *MaRBLe* 6 (July 2014): 158, https://doi.org/10.26481/MARBLE.2014.V6.223.
-
-[^24]: Known as “great men” in Thunberg’s words.
-
-[^25]: Skuncke, *Carl Peter Thunberg*, 15, 18, 41.
-
-[^26]: Skuncke, 99.
-
-[^27]: Nordenstam, “Carl Peter Thunberg,” 1.
-
-[^28]: Screech, *Japan Extolled and Decried*, 106.
-
-[^29]: Thunberg, *Inträdes-tal*, cited in Skuncke, *Carl Peter Thunberg*, 256.
-
-[^30]: Skuncke, *Carl Peter Thunberg*, 145; Kijewski, “Japanese Character,” 157.
-
-[^31]: Olof Eriksson and Nils Matsson Willman, *Beskriffning vppå trenne resor sampt konungarijket Japan* (Kiöping, 1667).
-
-[^32]: Fodstad, “Carl Peter Thunberg,” 579.
-
-[^33]: Wolfgang Michael, “His Story of Japan: Engelbert Kaempfer´s Manuscript in a New Translation,” review of *Kaempfer’s Japan: Tokugawa Culture Observed by Englebert Kaempfer*, by Beatrice M. Bodart-Bailey, *Monumenta Nipponica* 55, no. 1 (2000), 10910. Kaempfer´s original manuscript in German with the title “Geschichte und Beschreibung von Japan” was bought after his death by Sloane in London, translated into English, and published in 1727 as “The History of Japan”. Since then, it has been edited and published many times in German, each under a different title.
-
-[^34]: Screech, *Japan Extolled*, 70.
-
-[^35]: ALVIN, record no. 233956.
-
-[^36]: Skuncke, *Carl Peter Thunberg*, 99.
-
-[^37]: Carl Peter Thunberg, *Flora iaponica sistens plantas insvlarum iaponicarvm secvndvm systema sexvale emendatvm redactas ad XX classes, ordines, genera et species cvm differentiis specificis, synonymis pavcis, descriptionibvs concinnis et XXX IX iconibvs adiectis* (Lipsiae: I. G. Mulleriano, 1784).
-
-[^38]: Skuncke, 23.
-
-[^39]: Göran Wennergren, “Carl Peter Thunberg—läkare och botaniker: Thunbergians fader,” *Läkartidningen* 100, no. 44 (2003), 2.
-
-[^40]: Günther Heckmann, *Japanese Lacquer Technology / Urushi No Waza* (Ellwangen: Nihon Art, 2002), 22; Hew D. V. Prendergast et al., *A Lacquer Legacy at Kew: The Japanese Collection of John J. Quin* (\[Richmond\]: Royal Botanic Gardens, Kew, 2001).
-
-[^41]: Miho Kitagawa, email correspondence to the authors, 13 January 2022; Urushi Nation Joboji*,* [[http://en.urushi-joboji.com/]{.underline}](http://en.urushi-joboji.com/).
-
-[^42]: To survey museum collections for raw materials and the like was not within the scope of this study. Maria Brunskog and Tetsuo Miyakoshi, “A Colourful Past: A Re-Examination of a Swedish Rococo Set of Furniture with a Focus on the *Urushi* Components,” *Studies in Conservation* 66, no. 8 (2021): 477–501, https://doi.org/10.1080/00393630.2020.1846359; Meiko Nagashima, *The Vogue for Makie Lacquerware in Eighteenth-Century France: Stripped Plates and Masterful Imitations Makie* (Kyoto National Museum Bulletin, 2014).
-
-[^43]: Brunskog and Miyakoshi, “Colourful Past.”
-
-[^44]: Tore Frängsmyr, *Sökandet efter upplysningen: En essä om 1700-talets svenska kulturdebatt* (Höganäs: Wiken, 1993): 90-91, 107-108.
-
-[^45]: Prendergast et al., *Lacquer Legacy*, 60.
-
-[^46]: Heckmann, *Japanese Lacquer Technology*, 82–83; *Project for the Conservation of Works of Japanese Art in Foreign Collections* (Tokyo: National Research Institute for Cultural Properties, 1999), 218.
-
-[^47]: Silvia Miklin-Kniefacz et al., “Searching for Blood in Chinese Lacquerware: *zhū xiě huī* 豬 血 灰,” *Studies in Conservation* 61, sup. 3 (2016): 45–51, https://doi.org/10.1080/00393630.2016.1227039.
-
-[^48]: Xinying Hao et al., “Analysis on the Composition/Structure and Lacquering Techniques of the Coffin of Emperor Qianlong Excavated from the Eastern Imperial Tombs,” *Scientific Reports* 7, no. 1 (2017): 8446, https://doi.org/10.1038/s41598-017-08933-8; Heckmann, *Japanese Lacquer Technology*, PAGE; Gonroku Matsuda, *The Book of Urushi: Japanese Lacquerware from a Master*, supervised by Kazumi Murose, trans. Michael Brase and Makiko Komada (Tokyo: Japan Publishing Industry Foundation for Culture, 2019), 93, 101, 122; Marianne Webb, *Lacquer: Technology and Conservation; A Comprehensive Guide to the Technology and Conservation of Asian and European Lacquer* (Oxford: Butterworth-Heinemann, 2000).
-
-[^49]: Takayuki Honda and Tetsuo Miyakoshi, “Scientific Analyses of Lacquerware,” *Archaeometria*, ed. Yoshiaki Nishino (Tokyo: University Museum, Tokyo University, 2012), 232–60; Rong Lu, Takayuki Honda, and Tetsuo Miyakoshi, *Lacquer Chemistry and Applications* (Amsterdam: Elsevier, 2015): 28, https://doi.org/10.1016/C2014-0-04817-4; Michael Schilling, “Characterizing Materials: Recent Advances in Characterizing Asian Lacquers” (Getty Conservation Institute, 2013), https://www.getty.edu/conservation/publications_resources/teaching/characterizing.html.
-
-[^50]: Honda, “Scientific Analysis of Coating Materials”; Rong Lu, Takayuki Honda, and Tetsuo Miyakoshi, “Application of Pyrolysis-Gas Chromatography/Mass Spectrometry to the Analysis of Lacquer Film,” *Advanced Gas Chromatography—Progress in Agricultural, Biomedical and Industrial Applications* (March 2012): 243–44, https://doi.org/10.5772/32235; Schilling, “Characterizing Materials.”
-
-[^51]: Honda and Miyakoshi, “Scientific Analyses of Lacquerware.”
-
-[^52]: Hirase and Hasegawa, *Nihon Sankai* *3*, pl. 12; Keisuke Itō, *Taisei Honzō Meiso Flora Japonica* (Tokyo, 1829), 35.
-
-[^53]: Brunskog and Miyakoshi, “Colourful Past,” fig. 6b.
-
-[^54]: Xinying Hao et al., “Analysis on the Composition,” 6 and fig. 8a; Takayuki Honda et al., “Identification of Ryukyu Lacquerwares by Pyrolysis-Gas Chromatography/Mass Spectrometry and 87Sr/86Sr Isotope Ratio.” *Journal of Analytical and Applied Pyrolysis* 117 (January 2016): 25–29, https://doi.org/10.1016/J.JAAP.2015.12.021; Idei et al., “Analysis of Sakhalin-Ainu Lacquerwares”; Meesook Sung et al., “Study of Historical Chinese Lacquer Culture and Technology—Analysis of Chinese Qin-Han Dynasty Lacquerware,” *Journal of Cultural Heritage* 21 (September 2016): 889–93, https://doi.org/10.1016/J.CULHER.2016.05.004.
-
-[^55]: Heginbotham and Schilling, “New Evidence”; Honda, “Scientific Analysis of Coating Materials,” 60, fig. 18 and table 2; Schilling et al., “Beyond the Basics,” S3-30.
-
-[^56]: Xiao-Ming Ma, Rong Lu, and Tetsuo Miyakoshi, “Application of Pyrolysis Gas Chromatography/Mass Spectrometry in Lacquer Research: A Review,” *Polymers* 6, no. 1 (2014): 138, https://doi.org/10.3390/polym6010132.
-
-[^57]: Schilling et al., “Beyond the Basics,” table 1.
-
-[^58]: Hirase and Hasegawa, *Nihon sankai* vol. 3, pl. 12.
-
-[^59]:
-    ###  Personal communication with Suzanne Ross and Shioyasu Shikki Kobo, Wajima, 19 May 2023, Yoshimi Kamiya, Kanazawa, 18 May 2023; Miho Kitagawa, Nagoya, 12 May 2023.
-
-[^60]:  Mehmet Musa Özcan, Cesari İman, and Derya Arslan,”Physicochemical Properties, Fatty Acid and Mineral Content of Some Walnuts (Juglans Regia L.) Types,” *Agricultural Sciences* 1, no. 2 (2010): 62–67, https://doi.org/10.4236/as.2010.12009.
-
-[^61]: Takayuki Honda, “Scientific Analysis of Coating Materials in Heritage: From the Perspective of Analytical Science,” in *Studies on the Restoration of Coating and Polychromy on Heritage Architecture*, ed. Marina Kunimoto and Hozon Kagaku Kenkyū Sentā (Tokyo: Tokyo National Research Institute for Cultural Properties, 2017), 46–64; Lu, Honda, and Miyakoshi, *Lacquer Chemistry*, 3, https://doi.org/10.1016/C2014-0-04817-4; Hye Hyan Yu et al., “Quantitative Analysis of Blended Asian Lacquers Using ToF-SIMS, Py-GC/MS and HPLC,” *Polymers* 13, no. 1 (2021): 97, https://doi.org/10.3390/polym13010097. Vietnamese lacquer known as Annan Urushi is produced near Dong Kinh (Tonkin) and imported to Japan. During the Asia-Pacific War, the Japanese government unsuccessfully tried to plant *T. vernicifluum* in Taiwan but planted the Vietnamese *T. succedanea* instead. Laccol, the main component of Vietnamese lacquer, was first identified by G. Bertrand at the end of the nineteenth century, then Majima Toshiyuki corrected the description of the main component and stated its molecular composition at the beginning of the twentieth century.
-
-[^62]: Urushi Nation Joboj (see note 39).
-
-[^63]: Thunberg, *Flora iaponica*; Itō, *Taisei Honzō Meiso Flora Japonica*, 35.
-
-[^64]: Heckmann, *Japanese Lacquer Technology*, 32; Honda et al. “Identification of Ryukyu Lacquerwares”; Prendergast et al., *Lacquer Legacy at Kew*, 60.
-
-[^65]: Brunskog and Miyakoshi, “Colourful Past”; Takayuki Honda et al., “Investigation of Ryukyu Lacquerwares by Pyrolysis-Gas Chromatography/Mass Spectrometry,” *Journal of Analytical and Applied Pyrolysis* 113 (May 2015): 41–45, https://doi.org/10.1016/J.JAAP.2014.09.026.
-
-[^66]: Heckmann, *Japanese Lacquer Technology*, 32.
-
-[^67]: Maria Brunskog and Tetsuo Miyakoshi, “A Significant Japanese Coffer: A Multi-Disciplinary Approach to Examining Late Sixteenth–Early Seventeen-Century Export Urushi Ware,” *Studies in Conservation*, no. 1 (March 2021): 1–13, https://doi.org/10.1080/00393630.2021.1902142; Brunskog and Miyakoshi, “Colourful Past”; Idei et al., “Analysis of Sakhalin-Ainu Lacquerwares”; Shin Tsuge, Hajima Ohtani, and Chuichi Watanabe, *Pyrolysis-GC/MS Data Book of Synthetic Polymers: Pyrograms, Thermograms and MS of Pyrolyzates* (Tokyo: Elsevier Science, 2011), 346–49.
-
-[^68]: JIS K 5950:1979 Refined rhus lacquer. Standard issued by Japan Standards Association (March 31, 1979), 137.
-
-[^69]: Prendergast et al., *Lacquer Legacy at Kew*, 60.
-
-[^70]: Personal communication, Miho Kitagawa, Nagoya, 29 September 2023.
-
-[^71]: Heckmann, *Japanese Lacquer Technology*, 19.
-
-[^72]: See note 72.
-
-[^73]: Matsuda, *Book of Urushi*, 122–31.
-
-[^74]: Shaney Rivers, “Conservation of Japanese Lacquer in Western Collections: Conserving Meaning and Substance,” in *ICOM Committee for Conservation 14th Triennial Meeting, The Hague, 12–16 September 2005*, 2:1083–86 (published online by James & James/Earthscan, 2005); Shaney Rivers et al., “The Chemistry of East Asian Lacquer: A Review of the Scientific Literature,” *Reviews in Conservation* 8 (2007): 63.
-
-[^75]: See also Thunberg, *Inträdes-Tal*, 8.
-
-[^76]: Carlotta, entry 1900-35-0023.
-
-[^77]: Hirase and Hasegawa, *Nihon sankai 3*.
-
-[^78]: Urushi Nation Joboji (see note 39).
-
-[^79]: *Svensk farmaceutisk tidskrift*, vol. 16 (Stockholm: Svenska Tryckeriaktiebolaget, 1912), 207.
-
-[^80]: Heckmann, *Japanese Lacquer Technology,* 18–20; Michael R. Schilling et al., “Beyond the Basics: A Systematic Approach for Comprehensive Analysis of Organic Materials in Asian Lacquers,” *Studies in Conservation* 61, sup. 3 (2016): 3–27, https://doi.org/10.1080/00393630.2016.1230978.
-
-[^81]: 1 ri = 3.927 km.
-
-[^82]: Hirase and Hasegawa, *Nihon Sankai*, 3: pl. 1.
-
-[^83]: Masaki Hayashi, email correspondence to the authors, 14–17 March 2022.
-
-[^84]: See note 83.
-
-[^85]: Skuncke, *Carl Peter Thunberg*, 37.
-
-[^86]: See also Kijewski, “Japanese Character,” 162.
-
-[^87]: Arlen Heginbotham and Michael Schilling, “New Evidence for the Use of Southeast Asian Raw Materials in Seventeenth-Century Japanese Export Lacquer,” in *East Asian Lacquer: Material Culture, Science and Conservation*, ed. Shayne Rivers, Rupert Faulkner, and Boris Pretzel (London: Archetype, 2011).
-
-[^88]: Single data can be an exceptional case, but many data pointing in the same direction can be interpreted as a tendency. When data from different sources point in the same direction, conclusions are better supported and more thoroughly underpinned. It is analogous to the accuracy and precision of methods with a bigger sample size in chemical analysis compared to a smaller sample. The more minute the sample, the more crucial the sample composition becomes, and the risk for mismatch with the substances in a specimen, since heterogeneous specimens are the rule. With a larger sample, samples collected from the best or several locations, the risk of not covering all substances in a specimen decreases. Thus, a true value is more likely. Precision is high when the sample is analysed twice or more with different methods, and the same result is achieved. Since the manuscript's focus is not method development, further discussion of the issue above is out of scope.
-
-## BIBLIOGRAPHY
+#### Bibliography
 
 ALVIN Platform for digital collections and digitized cultural heritage. https://www.alvin-portal.org/alvin/home.jsf?dswid=-1699
 
@@ -499,3 +315,191 @@ Wenngren, Göran. “Carl Peter Thunberg—läkare och botaniker: Thunbergians f
 Willman, Olof Eriksson, and Nils Matsson. *Een Kort Beskriffning Vppå Trenne Resor Och Peregrinationer, Sampt Konungarijket Japan: I. Beskrifwes Een Reesa Som Genom Asia, Africa Och Många Andra Hedniska Konungarijken, Sampt Öijar, Medh Flijt Är Förrättat Aff Nils Matson, Kiöping, . . . II. Förstelles Thet Stoora Och Mächtiga Konungarijke Japan, Sampt Thes Inwånares Handel Och Wandel. III. Beskrifwes Een Reesa till Ostindien, China Och Japan, Giordh Och Beskrefwen Aff Olof Erickson Willman, . . . IIII. Vthföres Een Reesa Ifrån Muszcow till Chi*. Kiöping, 1667. \[Digital facsimile\] https://weburn.kb.se/metadata/435/digtryck_2516435.htm
 
 Yu, Hye Hyun, Jung-Ah Lin, Seung Wook Ham, Kang-Bong Lee, and Yeonhee Lee. “Quantitative Analysis of Blended Asian Lacquers Using ToF-SIMS, Py-GC/MS and HPLC.” *Polymers* 13, no. 1 (2021): 97. https://doi.org/10.3390/polym13010097. 
+
+#### Notes
+
+[^1]: Thunberg was an academic careerist but also acted from a Swedish mercantile perspective, by which the nation’s political and economic supremacy relied on exporting the largest possible quantity of its products and importing as little as possible, thus establishing a favourable balance of trade.
+
+[^2]: *Urushiふしぎ物語 : 人と漆の12000年史 : 企画展示 (Urushi fushigi monogatari: hito to urushi no 12000nenshi: kikaku tenji)* (Tokyo: National Museum of Japanese History, 2017), 40.
+
+[^3]: *Svenska Akademiens Ordbok* *(SAOB*) vol. 8 (1924): F 467; vol. 13 (1937): J17, https://www.saob.se/.
+
+[^4]: See the online catalogue for the Museums of World Culture: Carlotta, https://collections.smvk.se/carlotta-em/web; Europeana: https://www.europeana.eu/en; and DigitaltMuseum, the common database for museums in Sweden and Norway, https://digitaltmuseum.se/.
+
+[^5]: On the Swedish Natural History Museum, see https://www.nrm.se/ommuseet/historikochbyggnad/historik.10074.html, last modified July 1, 2015.
+
+[^6]: Ulrika Bornestaf, “Numismatic Treasures in the Royal Coin Cabinet,” *Quadra* (1998): 132–135; Atsushi Ebihara et al., *Thunberg´s Japanese Plants* (2015– ), http://cpthunberg.ebc.uu.se; ALVIN Platform for Digital Collections and Digitized Cultural Heritage, https://www.alvin-portal.org/alvin/home.jsf?dswid=-1699; Bertil Nordenstam, “Carl Peter Thunberg and Japanese Natural History,” *Asian Journal of Natural & Applied Sciences* 2, no. 2 (2013); Marie-Christine Skuncke, *Carl Peter Thunberg: Botanist and Physician; Career-Building across the Oceans in the Eighteenth Century* (Uppsala: Swedish Collegium for Advanced Study, 2014); Marie-Christine Skuncke, “Suède, Europe, Japon: Le botaniste Carl Peter Thunberg sur le marché international,” *La Révolution française*, no. 13 (January 2018), https://doi.org/10.4000/lrf.1928.
+
+[^7]: A rough total of 27,000 plant specimens and 37,000 insects.
+
+[^8]: During the Tokugawa reign, Japan enforced self-isolation from foreign powers between the years 1693 and 1854, banning Christianity, prohibiting Japanese people from making or returning from trips overseas, and restricting foreign diplomatic and trade relations except with the Dutch and the Chinese.
+
+[^9]: Harald Fodstad, “Carl Peter Thunberg: Swedish Pioneer of Occidental Medicine in Japan,” *Neurologia Medico-Chirurgica* 22, no. 7 (1982): 577, https://doi.org/10.2176/NMC.22.577.
+
+[^10]: Fodstad*,* 580*;* Carl Peter Thunberg, *Resa uti Europa, Afrika, Asia förrättad åren 1770─1779,* 1788–.
+
+[^11]: Skuncke, *Carl Peter Thunberg*, page 256*.*
+
+[^12]: Fodstad, “Carl Peter Thunberg,” 580.
+
+[^13]: This study did not have access to all translated editions and did not aim at comparing them.
+
+[^14]: Timon Screech, *Japan Extolled and Decried: Carl Peter Thunberg and the Shogun’s Realm, 1775–1796* (London: Routledge, 2005), 61–63. The Japanese translation was by Yamada Tamaki ⼭⽥珠樹, *Tsunberugu Nihon Kikou* ツンベルグ ⽇本紀⾏ (Tokyo: Shun Nan Do, 1928; Okukawa Shobo, 1941), https://dl.ndl.go.jp/pid/1877837.
+
+[^15]: Tessai Hirase and Mitsunobu Hasegawa, *Nihon sankai meibutsu zue* vol. 3 (Osaka: Chigusaya Shinzaemon, 1754).
+
+[^16]: Since its publication, many copies have spread and can be found worldwide, e.g., at the Smithsonian Institution, Museum of Fine Arts, Boston, Biodiversity Heritage Library Consortium, and National Library of Australia. It is frequently available at auction.
+
+[^17]: Email correspondence with the authors, Herbert Jonsson, 8 March 2022; Charlotte du Rietz, 7 March 2022; Lars Vargö, 4 March 2022.
+
+[^18]: Initial ocular examination and macro photography preceded sampling. One sample from each of the selected artefacts was collected as discreetly as possible but simultaneously to locate the most appropriate and informative specimens. In general, the aim is to limit sampling in order to preserve the object’s surface and hence not to violate potential intrinsic information. However, with almost wholly intact original surfaces, the opportunities are even more restricted and have to be balanced with the anticipated outcome.
+
+    After that, standard scientific analysis methods characterised the main components, focusing on the coating strata. Separation of the multi-layered coatings during sampling into single layers was impossible. Therefore, the data obtained are not layer specific, which leads to uncertainty in the interpretation when determining the use and proportion of certain substances in specific layer(s).
+
+[^19]: Digital microscope photography used a Zeiss Stemi 2000-C Stereo Microscope 6.5x–50x attached with a Sony α NEX-7 digital camera to photograph and closely observe samples before preparation.
+
+    Preparation of thin sections and light microscopy aimed for thin-section microscopy; samples were embedded in epoxy resin, with any air bubbles removed with a vacuum and left to cure overnight. After subsequent grinding and polishing, the reverse side was glued to a microscope glass slide (Matsunami Glass Ind. Ltd.), using the same medium, and left to cure overnight. Thin sections were cut to about 1−2 mm in thickness using a diamond saw (South Bay Technology, Low-Speed Diamond Wheel Saw, model 650). Grinding was done stepwise automatically (Buehler AutoMet 250 EcoMet grinder polisher) for three minutes on each grid, using 400, 600, and 2400 Mesh Silicon Carbide Waterproof Papers. The subsequent polishing used suspensions (Sankei aqra diamond suspension 3 microns, or Ultra-High-Purity Deagglom Alumina Suspen 0.05 µm) for about one minute. A final manual polishing step was performed to avoid excessive material loss and reach a final thickness of around 10−15 µm. Observation of sections was carried out using an ECLIPSE LV100N POL microscope (Nikon Co. Ltd), and a digital camera. Sections were observed in both reflected and transmitted light, in the darkfield, and with crossed polars (PLM) and images captured under magnification.
+
+    XRF (X-ray fluorescence microscopy) was performed at normal atmospheric pressure with current 50 kV and 1.0 mA in the** **Horiba Scientific XGT-5200 Analytical X-ray Microscope** **with high spatial resolution, from 1 to 10 µm.
+
+    Pyrolysis-gas chromatography-mass spectrometry direct measurements were performed with a vertical microfurnace pyrolyser PY-2020iD (Frontier Lab, Japan), and HP 6890 gas chromatograph, and an HPG 5972A (Hewlett-Packard, Ltd.) mass spectrometer. A stainless-steel capillary column (diam. 0.25 mm × 30 m) coated with 0.25 μm of Ultra Alloy PY-1 (100% methyl silicone) was used for the separation. A platinum cup containing the sample (0.05 mg) was first kept on top of the pyrolyser at near ambient temperature; then, the sample was introduced into the furnace at 500°C. The oven was programmed to provide a constant temperature increase of 12°C per min from 40°C to 320°C and held for 10 min at 320°C. The flow rate of the helium gas was 1 ml min-1. The injector had a split of 50:1. The MS ionisation energy was 70eV (EI-mode). All pyrolysis products were identified by mass spectrometry at ionisation energy at 70eV (EI-mode). Data was analysed with Agilent MSD Chemstation software. See Soichiro Idei et al., “Analysis of Sakhalin-Ainu Lacquerwares by Pyrolysis Gas Chromatography-Mass Spectrometry,” *Journal of Archaeological Science: Reports* 20 (August 2018): 1–5; Takahashi et al. (2018). All pyrolysis products were identified from an interpretation of their mass spectra. The results are presented as extracted ion chromatograms (EIC).
+
+   [^20]: Carl Peter Thunberg, *Inträdes-tal, om de mynt-sorter, som i äldre och sednare tider blifvit slagne och varit gångbare uti kejsaredömet Japan; hållet för kongl. vetenskaps-academien, den 25 Aug., 1779* (Stockholm: Johan Georg Lange, 1779), cited in Skuncke, *Carl Peter Thunberg*, 256.
+
+   [^21]:Thunberg, Carl Peter, 1792 and 1794, Karl Peter Thunbergs, ... *Reise durch einen Theil von Europa, Afrika und Asien, hauptsächlich in Japan, in den Jahren 1770 bis 1779*. Aus dem Schwedischen frey übersetzt von Christian Heinrich Groskurd, ... Erster und Zweyter Band., Berlin bey Haude und Spener. Thunberg, Carl Peter, 1796, *Voyages De C. P. Thunberg, Au Japon, Par le Cap de Bonne-Espérance*, Les îles de la Sonde, &c. Traduits, rédigés et augmentés de notes considérables sur la Religion, le Gouvernement, le Commerce, l'Industrie et les Langues de ces différentes contrées, particulièrement sur le Javan et le Malai; Par L. Langles ... ; Et revus, quant à la partie d'Histoire naturelle, par J. B. Lamarck ... Avec des Planches Tome troisième., A Paris, Chez Benoît Dandré, Garnery, Obré, I an IV.
+
+[^22]: Use of the Miwo app was suggested by Masaki Hayashi, senior lecturer and associate professor, Department of Game Design, Uppsala University.
+
+[^23]: Leonie Kijewski, “The Japanese Character and Its Peculiarity—A Study of Carl Peter Thunberg’s Travel Account,” *MaRBLe* 6 (July 2014): 158, https://doi.org/10.26481/MARBLE.2014.V6.223.
+
+[^24]: Known as “great men” in Thunberg’s words.
+
+[^25]: Skuncke, *Carl Peter Thunberg*, 15, 18, 41.
+
+[^26]: Skuncke, 99.
+
+[^27]: Nordenstam, “Carl Peter Thunberg,” 1.
+
+[^28]: Screech, *Japan Extolled and Decried*, 106.
+
+[^29]: Thunberg, *Inträdes-tal*, cited in Skuncke, *Carl Peter Thunberg*, 256.
+
+[^30]: Skuncke, *Carl Peter Thunberg*, 145; Kijewski, “Japanese Character,” 157.
+
+[^31]: Olof Eriksson and Nils Matsson Willman, *Beskriffning vppå trenne resor sampt konungarijket Japan* (Kiöping, 1667).
+
+[^32]: Fodstad, “Carl Peter Thunberg,” 579.
+
+[^33]: Wolfgang Michael, “His Story of Japan: Engelbert Kaempfer´s Manuscript in a New Translation,” review of *Kaempfer’s Japan: Tokugawa Culture Observed by Englebert Kaempfer*, by Beatrice M. Bodart-Bailey, *Monumenta Nipponica* 55, no. 1 (2000), 10910. Kaempfer´s original manuscript in German with the title “Geschichte und Beschreibung von Japan” was bought after his death by Sloane in London, translated into English, and published in 1727 as “The History of Japan”. Since then, it has been edited and published many times in German, each under a different title.
+
+[^34]: Screech, *Japan Extolled*, 70.
+
+[^35]: ALVIN, record no. 233956.
+
+[^36]: Skuncke, *Carl Peter Thunberg*, 99.
+
+[^37]: Carl Peter Thunberg, *Flora iaponica sistens plantas insvlarum iaponicarvm secvndvm systema sexvale emendatvm redactas ad XX classes, ordines, genera et species cvm differentiis specificis, synonymis pavcis, descriptionibvs concinnis et XXX IX iconibvs adiectis* (Lipsiae: I. G. Mulleriano, 1784).
+
+[^38]: Skuncke, 23.
+
+[^39]: Göran Wennergren, “Carl Peter Thunberg—läkare och botaniker: Thunbergians fader,” *Läkartidningen* 100, no. 44 (2003), 2.
+
+[^40]: Günther Heckmann, *Japanese Lacquer Technology / Urushi No Waza* (Ellwangen: Nihon Art, 2002), 22; Hew D. V. Prendergast et al., *A Lacquer Legacy at Kew: The Japanese Collection of John J. Quin* (\[Richmond\]: Royal Botanic Gardens, Kew, 2001).
+
+[^41]: Miho Kitagawa, email correspondence to the authors, 13 January 2022; Urushi Nation Joboji*,* [[http://en.urushi-joboji.com/]{.underline}](http://en.urushi-joboji.com/).
+
+[^42]: To survey museum collections for raw materials and the like was not within the scope of this study. Maria Brunskog and Tetsuo Miyakoshi, “A Colourful Past: A Re-Examination of a Swedish Rococo Set of Furniture with a Focus on the *Urushi* Components,” *Studies in Conservation* 66, no. 8 (2021): 477–501, https://doi.org/10.1080/00393630.2020.1846359; Meiko Nagashima, *The Vogue for Makie Lacquerware in Eighteenth-Century France: Stripped Plates and Masterful Imitations Makie* (Kyoto National Museum Bulletin, 2014).
+
+[^43]: Brunskog and Miyakoshi, “Colourful Past.”
+
+[^44]: Tore Frängsmyr, *Sökandet efter upplysningen: En essä om 1700-talets svenska kulturdebatt* (Höganäs: Wiken, 1993): 90-91, 107-108.
+
+[^45]: Prendergast et al., *Lacquer Legacy*, 60.
+
+[^46]: Heckmann, *Japanese Lacquer Technology*, 82–83; *Project for the Conservation of Works of Japanese Art in Foreign Collections* (Tokyo: National Research Institute for Cultural Properties, 1999), 218.
+
+[^47]: Silvia Miklin-Kniefacz et al., “Searching for Blood in Chinese Lacquerware: *zhū xiě huī* 豬 血 灰,” *Studies in Conservation* 61, sup. 3 (2016): 45–51, https://doi.org/10.1080/00393630.2016.1227039.
+
+[^48]: Xinying Hao et al., “Analysis on the Composition/Structure and Lacquering Techniques of the Coffin of Emperor Qianlong Excavated from the Eastern Imperial Tombs,” *Scientific Reports* 7, no. 1 (2017): 8446, https://doi.org/10.1038/s41598-017-08933-8; Heckmann, *Japanese Lacquer Technology*, PAGE; Gonroku Matsuda, *The Book of Urushi: Japanese Lacquerware from a Master*, supervised by Kazumi Murose, trans. Michael Brase and Makiko Komada (Tokyo: Japan Publishing Industry Foundation for Culture, 2019), 93, 101, 122; Marianne Webb, *Lacquer: Technology and Conservation; A Comprehensive Guide to the Technology and Conservation of Asian and European Lacquer* (Oxford: Butterworth-Heinemann, 2000).
+
+[^49]: Takayuki Honda and Tetsuo Miyakoshi, “Scientific Analyses of Lacquerware,” *Archaeometria*, ed. Yoshiaki Nishino (Tokyo: University Museum, Tokyo University, 2012), 232–60; Rong Lu, Takayuki Honda, and Tetsuo Miyakoshi, *Lacquer Chemistry and Applications* (Amsterdam: Elsevier, 2015): 28, https://doi.org/10.1016/C2014-0-04817-4; Michael Schilling, “Characterizing Materials: Recent Advances in Characterizing Asian Lacquers” (Getty Conservation Institute, 2013), https://www.getty.edu/conservation/publications_resources/teaching/characterizing.html.
+
+[^50]: Honda, “Scientific Analysis of Coating Materials”; Rong Lu, Takayuki Honda, and Tetsuo Miyakoshi, “Application of Pyrolysis-Gas Chromatography/Mass Spectrometry to the Analysis of Lacquer Film,” *Advanced Gas Chromatography—Progress in Agricultural, Biomedical and Industrial Applications* (March 2012): 243–44, https://doi.org/10.5772/32235; Schilling, “Characterizing Materials.”
+
+[^51]: Honda and Miyakoshi, “Scientific Analyses of Lacquerware.”
+
+[^52]: Hirase and Hasegawa, *Nihon Sankai* *3*, pl. 12; Keisuke Itō, *Taisei Honzō Meiso Flora Japonica* (Tokyo, 1829), 35.
+
+[^53]: Brunskog and Miyakoshi, “Colourful Past,” fig. 6b.
+
+[^54]: Xinying Hao et al., “Analysis on the Composition,” 6 and fig. 8a; Takayuki Honda et al., “Identification of Ryukyu Lacquerwares by Pyrolysis-Gas Chromatography/Mass Spectrometry and 87Sr/86Sr Isotope Ratio.” *Journal of Analytical and Applied Pyrolysis* 117 (January 2016): 25–29, https://doi.org/10.1016/J.JAAP.2015.12.021; Idei et al., “Analysis of Sakhalin-Ainu Lacquerwares”; Meesook Sung et al., “Study of Historical Chinese Lacquer Culture and Technology—Analysis of Chinese Qin-Han Dynasty Lacquerware,” *Journal of Cultural Heritage* 21 (September 2016): 889–93, https://doi.org/10.1016/J.CULHER.2016.05.004.
+
+[^55]: Heginbotham and Schilling, “New Evidence”; Honda, “Scientific Analysis of Coating Materials,” 60, fig. 18 and table 2; Schilling et al., “Beyond the Basics,” S3-30.
+
+[^56]: Xiao-Ming Ma, Rong Lu, and Tetsuo Miyakoshi, “Application of Pyrolysis Gas Chromatography/Mass Spectrometry in Lacquer Research: A Review,” *Polymers* 6, no. 1 (2014): 138, https://doi.org/10.3390/polym6010132.
+
+[^57]: Schilling et al., “Beyond the Basics,” table 1.
+
+[^58]: Hirase and Hasegawa, *Nihon sankai* vol. 3, pl. 12.
+
+[^59]:
+    Personal communication with Suzanne Ross and Shioyasu Shikki Kobo, Wajima, 19 May 2023, Yoshimi Kamiya, Kanazawa, 18 May 2023; Miho Kitagawa, Nagoya, 12 May 2023.
+
+[^60]:  Mehmet Musa Özcan, Cesari İman, and Derya Arslan,”Physicochemical Properties, Fatty Acid and Mineral Content of Some Walnuts (Juglans Regia L.) Types,” *Agricultural Sciences* 1, no. 2 (2010): 62–67, https://doi.org/10.4236/as.2010.12009.
+
+[^61]: Takayuki Honda, “Scientific Analysis of Coating Materials in Heritage: From the Perspective of Analytical Science,” in *Studies on the Restoration of Coating and Polychromy on Heritage Architecture*, ed. Marina Kunimoto and Hozon Kagaku Kenkyū Sentā (Tokyo: Tokyo National Research Institute for Cultural Properties, 2017), 46–64; Lu, Honda, and Miyakoshi, *Lacquer Chemistry*, 3, https://doi.org/10.1016/C2014-0-04817-4; Hye Hyan Yu et al., “Quantitative Analysis of Blended Asian Lacquers Using ToF-SIMS, Py-GC/MS and HPLC,” *Polymers* 13, no. 1 (2021): 97, https://doi.org/10.3390/polym13010097. Vietnamese lacquer known as Annan Urushi is produced near Dong Kinh (Tonkin) and imported to Japan. During the Asia-Pacific War, the Japanese government unsuccessfully tried to plant *T. vernicifluum* in Taiwan but planted the Vietnamese *T. succedanea* instead. Laccol, the main component of Vietnamese lacquer, was first identified by G. Bertrand at the end of the nineteenth century, then Majima Toshiyuki corrected the description of the main component and stated its molecular composition at the beginning of the twentieth century.
+
+[^62]: Urushi Nation Joboj (see note 39).
+
+[^63]: Thunberg, *Flora iaponica*; Itō, *Taisei Honzō Meiso Flora Japonica*, 35.
+
+[^64]: Heckmann, *Japanese Lacquer Technology*, 32; Honda et al. “Identification of Ryukyu Lacquerwares”; Prendergast et al., *Lacquer Legacy at Kew*, 60.
+
+[^65]: Brunskog and Miyakoshi, “Colourful Past”; Takayuki Honda et al., “Investigation of Ryukyu Lacquerwares by Pyrolysis-Gas Chromatography/Mass Spectrometry,” *Journal of Analytical and Applied Pyrolysis* 113 (May 2015): 41–45, https://doi.org/10.1016/J.JAAP.2014.09.026.
+
+[^66]: Heckmann, *Japanese Lacquer Technology*, 32.
+
+[^67]: Maria Brunskog and Tetsuo Miyakoshi, “A Significant Japanese Coffer: A Multi-Disciplinary Approach to Examining Late Sixteenth–Early Seventeen-Century Export Urushi Ware,” *Studies in Conservation*, no. 1 (March 2021): 1–13, https://doi.org/10.1080/00393630.2021.1902142; Brunskog and Miyakoshi, “Colourful Past”; Idei et al., “Analysis of Sakhalin-Ainu Lacquerwares”; Shin Tsuge, Hajima Ohtani, and Chuichi Watanabe, *Pyrolysis-GC/MS Data Book of Synthetic Polymers: Pyrograms, Thermograms and MS of Pyrolyzates* (Tokyo: Elsevier Science, 2011), 346–49.
+
+[^68]: JIS K 5950:1979 Refined rhus lacquer. Standard issued by Japan Standards Association (March 31, 1979), 137.
+
+[^69]: Prendergast et al., *Lacquer Legacy at Kew*, 60.
+
+[^70]: Personal communication, Miho Kitagawa, Nagoya, 29 September 2023.
+
+[^71]: Heckmann, *Japanese Lacquer Technology*, 19.
+
+[^72]: See note 72.
+
+[^73]: Matsuda, *Book of Urushi*, 122–31.
+
+[^74]: Shaney Rivers, “Conservation of Japanese Lacquer in Western Collections: Conserving Meaning and Substance,” in *ICOM Committee for Conservation 14th Triennial Meeting, The Hague, 12–16 September 2005*, 2:1083–86 (published online by James & James/Earthscan, 2005); Shaney Rivers et al., “The Chemistry of East Asian Lacquer: A Review of the Scientific Literature,” *Reviews in Conservation* 8 (2007): 63.
+
+[^75]: See also Thunberg, *Inträdes-Tal*, 8.
+
+[^76]: Carlotta, entry 1900-35-0023.
+
+[^77]: Hirase and Hasegawa, *Nihon sankai 3*.
+
+[^78]: Urushi Nation Joboji (see note 39).
+
+[^79]: *Svensk farmaceutisk tidskrift*, vol. 16 (Stockholm: Svenska Tryckeriaktiebolaget, 1912), 207.
+
+[^80]: Heckmann, *Japanese Lacquer Technology,* 18–20; Michael R. Schilling et al., “Beyond the Basics: A Systematic Approach for Comprehensive Analysis of Organic Materials in Asian Lacquers,” *Studies in Conservation* 61, sup. 3 (2016): 3–27, https://doi.org/10.1080/00393630.2016.1230978.
+
+[^81]: 1 ri = 3.927 km.
+
+[^82]: Hirase and Hasegawa, *Nihon Sankai*, 3: pl. 1.
+
+[^83]: Masaki Hayashi, email correspondence to the authors, 14–17 March 2022.
+
+[^84]: See note 83.
+
+[^85]: Skuncke, *Carl Peter Thunberg*, 37.
+
+[^86]: See also Kijewski, “Japanese Character,” 162.
+
+[^87]: Arlen Heginbotham and Michael Schilling, “New Evidence for the Use of Southeast Asian Raw Materials in Seventeenth-Century Japanese Export Lacquer,” in *East Asian Lacquer: Material Culture, Science and Conservation*, ed. Shayne Rivers, Rupert Faulkner, and Boris Pretzel (London: Archetype, 2011).
+
+[^88]: Single data can be an exceptional case, but many data pointing in the same direction can be interpreted as a tendency. When data from different sources point in the same direction, conclusions are better supported and more thoroughly underpinned. It is analogous to the accuracy and precision of methods with a bigger sample size in chemical analysis compared to a smaller sample. The more minute the sample, the more crucial the sample composition becomes, and the risk for mismatch with the substances in a specimen, since heterogeneous specimens are the rule. With a larger sample, samples collected from the best or several locations, the risk of not covering all substances in a specimen decreases. Thus, a true value is more likely. Precision is high when the sample is analysed twice or more with different methods, and the same result is achieved. Since the manuscript's focus is not method development, further discussion of the issue above is out of scope.
+

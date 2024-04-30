@@ -123,7 +123,19 @@ This research also identified the historical importance of incomplete areas of t
 
 Other aspects have been left open for future research, such as the possibility of prefabricated body linings that were sent by pre-order to local fashion houses before the dresses were put together, shortening the fitting process. This research on the use of prefabrication linings is limited at best, but the KMDH collection holds different examples of dresses with linings like this one, and we hope to explore this topic in greater detail in future research. Finally, the absence of any mordant element confirmed that Liberty, which exclusively used vegetable dyes requiring mordant agents for fixing the color into the fabric, could not have been the manufacturer. However, limited published research into Liberty's fabrics presents an opportunity to delve into Liberty archives and understand if the British fashion house truly worked exclusively with natural dyes or if the focus on natural methods was a marketing strategy following the Arts & Crafts movement.
 
-## Bibliography
+#### Acknowledgments
+
+We would like to thank all those who made this project possible, including Doede Hardeman, head of collections, Kunstmuseum Den Haag; Bernice Morris, textile conservator, Philadelphia Museum of Art; Dr. Naomi Luxford, conservation scientist, English Heritage Centre; Dr. Paul Garside, Kelvin Centre for Conservation and Cultural Heritage Research, University of Glasgow; Keren Protheroe, senior archivist, Liberty Fabrics; Anna Buruma, archivist, St Martin´s School of Art; Ilaria de Palma, head, Costume Conservation Department, Palazzo Morando; and Gemma Contreras Zamorano, director, Institut Valenciá de Conservació, Restauració i Investigacio. Finally, we would like to make a special dedication to Noah Rodriguez Pozo, who was born at the moment this research was completed, as well as to César Rodríguez Salinas's partner, Iciar Pozo Julian, who was tremendously supportive of this project.
+
+#### Author Bios
+
+César Rodríguez Salinas holds an MSc in analytical techniques applied to the preservation of cultural heritage and is a specialist in the conservation and restoration of textiles. He is a fashion and textile conservator at the Kunstmuseum Den Haag in the Netherlands.
+
+Madelief Hohé holds an MA in art history and is a fashion and costume curator at Kunstmuseum Den Haag.
+
+Dr. Livio Ferrazza has a Ph.D. in chemistry and is a conservator scientist at the Institut Valencià de Conservació, Restauració i Investigació (IVCR+i), in Spain.
+
+#### Bibliography
 
 Benington, Jonathan, and Sophia Wilson, eds. *Simply Stunning: The Pre-Raphaelite Art of Dressing*. Exh. cat. Cheltenham: Cheltenham Art Gallery & Museums, 1996.
 
@@ -185,19 +197,7 @@ Veenendaal, Jan. *Asian Art and Dutch Taste*. Edited by Gemeentemuseum Den Haag.
 
 Wilson, Sophia. "Away with the Corsets, on with the Shifts." In *Simply Stunning: The Pre-Raphaelite Art of Dressing*, edited by Jonathan Benington and Sophia Wilson, 20--27. Cheltenham: Cheltenham Art Gallery & Museums, 1996.
 
- ## Acknowledgments ##
-
-We would like to thank all those who made this project possible, including Doede Hardeman, head of collections, Kunstmuseum Den Haag; Bernice Morris, textile conservator, Philadelphia Museum of Art; Dr. Naomi Luxford, conservation scientist, English Heritage Centre; Dr. Paul Garside, Kelvin Centre for Conservation and Cultural Heritage Research, University of Glasgow; Keren Protheroe, senior archivist, Liberty Fabrics; Anna Buruma, archivist, St Martin´s School of Art; Ilaria de Palma, head, Costume Conservation Department, Palazzo Morando; and Gemma Contreras Zamorano, director, Institut Valenciá de Conservació, Restauració i Investigacio. Finally, we would like to make a special dedication to Noah Rodriguez Pozo, who was born at the moment this research was completed, as well as to César Rodríguez Salinas's partner, Iciar Pozo Julian, who was tremendously supportive of this project.
-
-## Contributors
-
-César Rodríguez Salinas holds an MSc in analytical techniques applied to the preservation of cultural heritage and is a specialist in the conservation and restoration of textiles. He is a fashion and textile conservator at the Kunstmuseum Den Haag in the Netherlands.
-
-Madelief Hohé holds an MA in art history and is a fashion and costume curator at Kunstmuseum Den Haag.
-
-Dr. Livio Ferrazza has a Ph.D. in chemistry and is a conservator scientist at the Institut Valencià de Conservació, Restauració i Investigació (IVCR+i), in Spain.
-
-## Notes
+#### Notes
 
 [^1]: This was possible to confirm by the notice in the Dutch newspaper *Rotterdams Nieuwsblad*, 19 January 1909, where the birth of Anne Marie Christien was mentioned.
 

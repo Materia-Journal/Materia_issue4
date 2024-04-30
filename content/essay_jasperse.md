@@ -163,7 +163,7 @@ The main challenge of our project was to establish a common baseline knowledge o
 
 From the technical and material analysis underpinning this article, we have suggested that the seal wrappings were likely added by the monasteries whose privileges the seals authenticate. Clearly, royal grants were among the most important and treasured—literally—muniments held by religious communities. Since seals could be damaged or lost by poor handling or storage and were one of the most visually appealing elements of the document, their wrapping within a beautiful and recognisable purse or bag added lustre. We might speculate that the bags acted both as a means of reference and reverence—note the exquisite mussel-shaped bag housing the surviving seal of the saintly archbishop Thomas Becket that belonged to Holy Trinity Priory—and a visual spectacle to accentuate the value of the contents.[^64] Further research is, of course, needed but early indications suggest that in England the presence of seal bags of such beauty reflect a monastic provenance.
 
-## Bibliography
+#### Bibliography
 
 *A History of the County of Kent*. London: Victoria County History, 1926.
 
@@ -281,6 +281,7 @@ Wild, Benjamin. “The Empress’s New Clothes: A *Rotulus Pannorum* of Isabella
 
 Wyon, Alfred Benjamin, and Allan Wyon. *The Great Seals of England*. London: Elliot Stock, 1887.
 
+#### Notes
 
 [^1]: We are grateful to the editors of *Materia* for their careful reading and insightful comments, as well as to the two anonymous reviewers for their thoughtful and stimulating observations. This article is one of the results of “Out of the Bag: Unravelling Medieval Seal Bags through Cultural Studies and Scientific Analysis,” PIs Jitske Jasperse and Lucía Pereira Pardo, ref. 514–SRF project “Out of the Bag,” funded by the Strategic Research Fund 2022–2023 of the National Archives, Kew, UK.
 
