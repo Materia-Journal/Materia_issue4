@@ -251,6 +251,8 @@ Vanzype, Gustave. *Exposition d’une partie de l’oeuvre d’Alfred-N.*. Bruss
 
 Watteeuw, Lieve, and Hendrik Hameeuw. “Art Technical Research on Manuscript Heritage with the White Light and Multispectral Portable Light Dome System (Multi Light Reflectance Imaging).” In *Immaginare la Commedia*, edited by C. Perna and G. Ferrante, 225–37. Rome: Salerno, 2022.
 
+#### Notes 
+
 [^1]: For an overview of (Belgian) Symbolism, its ethos and aesthetics, see Jean Moréas, “Manifeste du Symbolisme,” *Le Figaro*, 18 September 18, 1886; Michael Botwinick, Sarah Faunce, and Francine-Claire Legrand, *Belgian Art, 1880–1914*, exh. cat., Brooklyn, The Brooklyn Museum, 23.04 1980 - 29.06 1980 (New York: The Brooklyn Museum of Art, 1980); Michel Draguet, *Le Symbolisme en Belgique* (Antwerp: Fonds Mercator, 2004); Vivien Greene, Jean-David Jumeau-Lafond, and Kenneth E. Silver, eds., *Mystical Symbolism: The Salon de La Rose Croix in Paris, 1892–1897* (New York: Guggenheim Museum Publications, 2017); Ralph Gleis, ed., *Decadence and Dark Dreams : Belgian Symbolism* (Berlin: Nationalgalerie SMB and Hirmer, 2020).
 
 [^2]: Sharon L. Hirsh, introduction to *Symbolism and Modern Urban Society* (Cambridge: Cambridge University Press, 2004), 3–6.

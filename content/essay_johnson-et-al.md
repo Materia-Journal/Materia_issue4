@@ -245,13 +245,13 @@ The University Libraries collections are used frequently for teaching, research,
 
 
 
-## Acknowledgements
+#### Acknowledgements
 
 This project received funding from the Mellon Foundation. The authors would like to thank the Preservation Staff at the University of Washington Libraries (Justin Johnson, Stephanie Lamson, Kathryn Leonard, and Judith Johnson), Nicolette Bromberg (Visual Materials Curator, Special Collections), and Yan Ling Choi (Conservation Intern) for collaborating with us on this project. Thank you to the Portland Art Museum and Samantha Springer for providing the orotone samples. We acknowledge Greg Baty, from the Center for Electron Microscopy and Nanofabrication at Portland State University, for analyzing the silvertone sample and Trine Quady for collecting Raman spectra.
 
 
 
-## Bibliography
+#### Bibliography
 
 Alinat, Elodie, Nathalie Delaunay, Xavier Archer, Jean-Maurice Mallet, and Pierre Gareil. "A New Method for the Determination of the Nitrogen Content of Nitrocellulose Based on the Molar Ratio of Nitrite-to-Nitrate Ions Released after Alkaline Hydrolysis." *Journal of hazardous materials* 286 (2015): 92--99.
 

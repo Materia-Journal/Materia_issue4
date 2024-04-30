@@ -189,11 +189,11 @@ The project is also not tied to a specific time-based publication or exhibition,
 
 While the narrative of the *tarocchi* card project holds valuable lessons for colleagues in the cultural heritage field involved in or contemplating collaborative projects, the extent of its applicability to other institutions necessarily hinges on specific circumstances. Our team operated successfully on a non-hierarchical structure, and the noncompetitive and supportive working approach that we enjoy developed naturally. Our experience underscores the significance of allocating time for collaborators to engage with the objects under study and with one another. It emphasizes the need for well-functioning channels of regular communication for data sharing and interpretation of results, as well as a clearly articulated plan for disseminating the study's findings.
 
-## Acknowledgments
+#### Acknowledgments
 
 A collaborative project of this scope would not be possible without the generous contributions of many individuals. The authors would like to thank all the members of Team *Tarocchi* for their expertise, enthusiasm, and collegiality: Anikó Bezur and Marcie Wiggins (Yale IPCH), Lydia Aikenhead, Elena Basso, and Silvia A. Centeno (The Metropolitan Museum of Art), John K. Delaney (National Gallery of Art), Roxanne Radpour (University of Delaware), and Clara Granzotto (The Art Institute of Chicago). We also express our sincere appreciation to the following individuals for their support of the project: Timothy Young (Curator, Rare Books and Manuscripts, Yale Center for British Art, Yale University, formerly Curator, Modern Books & Manuscripts and Cary Collection of Playing Cards, Beinecke Rare Book and Manuscript Library, Yale University), Roger S. Wieck (Melvin R. Seiden Curator and Department Head of Medieval and Renaissance Manuscripts, The Morgan Library & Museum), Colin B. Bailey (Director, The Morgan Library & Museum), Maria Cristina Rodeschini (former director, Accademia Carrara), Paolo Plebani (curator, Accademia Carrara), James Bradburne (Director, Pinacoteca di Brera), Letizia Lodi (Curator, Italian Ministry of Culture, Head of Collections, and Director of the Cabinet of Drawings and Prints, Pinacoteca di Brera), Andrea Carini (Chief Conservator and Coordinator of Conservation Laboratory, Pinacoteca di Brera), Marcello Valenti (Technical Assistant, Pinacoteca di Brera), and Marco Leona (David H. Koch Scientist in Charge, The Metropolitan Museum of Art). We also thank Michele Gironda, Alessandro Tocchio, and their team from Bruker Nano Analytics, as well as Matthew Bloomfield and his colleagues at Renishaw Inc., for the loan of instrumentation and technical assistance. We offer our thanks to Irma Passeri (Yale University Art Gallery) for her contributions to the initial stages of the project and Daniel Kirby (Dan Kirby Analytical Service) who carried out peptide mass fingerprinting analysis of glue samples obtained from the card supports. We extend our sincere appreciation to Lindsey Tyne (Conservation Librarian, Barbara Goldsmith Preservation & Conservation Department, New York University Libraries) for reading an early draft of the paper and for offering constructive suggestions for improvement. We also wish to thank the peer reviewers and editors at *Materia* for their constructive recommendations that helped us improve the paper.
 
-## Contributors
+#### Author Bios
 
 Francisco H. Trujillo, Drue Heinz Book Conservator, The Morgan Library & Museum, New York, NY, USA 
 
@@ -205,7 +205,7 @@ Richard R. Hark*, Conservation Scientist, Institute for the Preservation of Cult
 
 *Corresponding author
 
-## Bibliography
+#### Bibliography
 
 Aceto, Maurizio, et al. "On the Identification of Folium and Orchil on Illuminated Manuscripts." *Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy* 171 (2017): 461--69. [https://doi.org/10.1016/j.saa.2016.08.046](https://doi.org/10.1016/j.saa.2016.08.046).
 
@@ -262,6 +262,7 @@ Richter, Ernst-Ludwig, and Heide Härlin. "The 'Stuttgarter Kartenspiel': Scient
 
 Turner, Nancy K. "Surface Effect and Substance: Precious Metals in Illuminated Manuscripts." In *Illuminating Metalwork: Metal, Object, and Image in Medieval Manuscripts*, edited by Joseph Salvatore Ackley and Shannon L. Wearing, 51--110. Berlin: De Gruyter, 2022. [https://doi.org/10.1515/9783110637526-002](https://doi.org/10.1515/9783110637526-002).
 
+#### Notes 
 
 [^1]: *Tarocchi* cards were originally referred to as *carte da trionfi*, possibly a reference to Petrarch's poem *I Trionfi* dating from the mid-fourteenth century. Thierry Depaulis, introduction to *Tarots enluminés: Chefs-d'oeuvre de la Renaissance italienne*, ed. Thierry Depaulis (Paris, Issy-les-Moulineaux: Musée Français de la Carte à Jouer and LienArt, 2021), 19--20. See also Gertrud Moakley, *The Tarot Cards Painted by Bonifacio Bembo for the Visconti-Sforza Family: An Iconographic and Historical Study* (New York: New York Public Library, 1966).
 
