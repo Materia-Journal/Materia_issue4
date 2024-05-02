@@ -190,7 +190,7 @@ Following the conclusion of this discussion, the participants learned that STITA
 
 The participants sincerely hope that this discussion emphasizing the benefits of their collective introduction, applied to three very different contexts, serves as a call for action to create more opportunities to learn technical art history. Collaborative teaching institutes such as STITAH are critical in providing professional development opportunities to teach faculty who in turn enable students, colleagues, and wider communities to experience the insights gained from technical art history in practice.
 
-
+#### Notes
 
 [^1]: The discussants [wish to thank Jessica David, Richard Hark, Irma Passeri, the generosity of the Kress Foundation, and our STITAH cohort for a transformative introduction to technical art history. They would also especially like to thank the *Materia* team and the reviewers for their perceptive comments and suggestions.]{.mark}
 
