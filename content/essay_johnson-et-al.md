@@ -244,12 +244,9 @@ A greater variety of production techniques than previously published was implied
 The University Libraries collections are used frequently for teaching, research, and exhibition; the results from this work will be integrated into those scholarly activities. Further studies of orotones could expand upon and illuminate the relationships between photographers implied by this study and encourage interest in the medium and its history.
 
 
-
 #### Acknowledgements
 
 This project received funding from the Mellon Foundation. The authors would like to thank the Preservation Staff at the University of Washington Libraries (Justin Johnson, Stephanie Lamson, Kathryn Leonard, and Judith Johnson), Nicolette Bromberg (Visual Materials Curator, Special Collections), and Yan Ling Choi (Conservation Intern) for collaborating with us on this project. Thank you to the Portland Art Museum and Samantha Springer for providing the orotone samples. We acknowledge Greg Baty, from the Center for Electron Microscopy and Nanofabrication at Portland State University, for analyzing the silvertone sample and Trine Quady for collecting Raman spectra.
-
-
 
 #### Bibliography
 
@@ -356,6 +353,7 @@ Whitten, Jill, Barbara A. Buckley, Helen Houp, Lydia Vagts, Harriet Irgang, Mark
 
 Yates, Kerry, Shingo Ishikawa, and Mick Newnham. "Crystalline Deterioration of Glass\ Cinema Slides." *Topics in Photographic Conservation* 15 (2013): 209--21.
 
+#### Notes 
 
 [^1]: "Archiving History," University of Washington, accessed June 14, 2021, https://www.washington.edu/boundless/archiving-history/.
 

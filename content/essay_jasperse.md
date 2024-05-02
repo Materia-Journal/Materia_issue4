@@ -18,7 +18,7 @@ contributor:
     last_name: Jasperse
     sort_as: "1"
   - first_name: Lucía
-    last_name: Pereira Pardo
+    last_name: Pereira-Pardo
     sort_as: "2"
   - first_name: Ana
     last_name: Cabrera Lafuente
@@ -61,9 +61,9 @@ Henry III’s seal is an impression from his first great seal matrix, the engrav
 
 {% figuregroup '2', '3-3, 3-3.2' %}
 
-[Our second charter is a more straightforward document wherein Henry III confirms the numerous privileges and grants awarded to the Holy Trinity Priory in Aldgate by previous monarchs and multifarious donors.]{.mark}[^12] [It dates to 8 February 1227, and probably represents the priory’s desire to have their privileges confirmed by Henry, as he assumed full regal powers in January 1227, aged nineteen.]{.mark}[^13] [As with the Lewisham charter, it is sealed using Henry’s first great seal matrix, but this time it was impressed into wax with a reddish-brown appearance. This may indicate the presence of either vermilion or red lead, which before degradation and darkening would have given a sparkling appearance. Like the Lewisham charter, the seal, of which a large central fragment survives, is appended on laces through the parchment plica.
+[Our second charter is a more straightforward document wherein Henry III confirms the numerous privileges and grants awarded to the Holy Trinity Priory in Aldgate by previous monarchs and multifarious donors.]{.mark}[^12] [It dates to 8 February 1227, and probably represents the priory’s desire to have their privileges confirmed by Henry, as he assumed full regal powers in January 1227, aged nineteen.]{.mark}[^13] As with the Lewisham charter, it is sealed using Henry’s first great seal matrix, but this time it was impressed into wax with a reddish-brown appearance. This may indicate the presence of either vermilion or red lead, which before degradation and darkening would have given a sparkling appearance. Like the Lewisham charter, the seal, of which a large central fragment survives, is appended on laces through the parchment plica.
 
-How and where exactly the documents were stored within the muniment rooms of the priory of Lewisham and the priory of Holy Trinity remain unclear due to the confiscation of the first in 1415 by King Henry V and the dissolution of the latter in the 1530s by King Henry VIII.[^14] In terms of their later archival and custodial history, both charters belong to the same archival series at the National Archives, E 42. This indicates that they are classified as “Ancient Deeds,” referring to land and property transactions recorded before ca. 1603, differentiated by the fine seals attached to them. They are two of the highest-status examples among over twenty thousand deeds stored for three centuries, from approximately 1540 to 1840, in the Chapter House of Westminster Abbey, as they are associated with royalty while the majority of these deeds series contain transactions between parties at lower levels of society. The Chapter House was one of the repositories of the English royal Treasury of Receipt and essentially the preferred location for secure storage of records and regalia of particular value to the crown. It was here, for example, where the iconic Domesday Book was once stored[.]{.mark}[^15] [Assigned the alphabetical series reference “AS” in ca. 1840/41 during a sort and indexing exercise led by the Assistant Keeper of Public Records Frederick Devon, the deeds were]{.mark} formally transferred to the Rolls House of the newly formed Public Record Office in 1859.[^16] They remained there until the 1990s before transfer to the new record office in Kew, which became the National Archives in 2003. The material importance of the Holy Trinity charter caused it to be flattened and moved to a conservation-grade acid-free envelope for storage in early 2010; access is now permitted only under invigilation at the archives. This contrasts to the Lewisham charter, which is folded into a small, white archive box likely created in the 1920s.[^17] Despite the flattening of the Holy Trinity charter, its original folds are still visible and part of its back is “dirty,” suggesting that this was the part that was touched the most, either by hands, other documents, or the wood of drawers and chests.
+How and where exactly the documents were stored within the muniment rooms of the priory of Lewisham and the priory of Holy Trinity remains unclear due to the confiscation of the first in 1415 by King Henry V and the dissolution of the latter in the 1530s by King Henry VIII.[^14] In terms of their later archival and custodial history, both charters belong to the same archival series at the National Archives, E 42. This indicates that they are classified as “Ancient Deeds,” referring to land and property transactions recorded before ca. 1603, differentiated by the fine seals attached to them. They are two of the highest-status examples among over twenty thousand deeds stored for three centuries, from approximately 1540 to 1840, in the Chapter House of Westminster Abbey, as they are associated with royalty while the majority of these deeds series contain transactions between parties at lower levels of society. The Chapter House was one of the repositories of the English royal Treasury of Receipt and essentially the preferred location for secure storage of records and regalia of particular value to the crown. It was here, for example, where the iconic Domesday Book was once stored[.]{.mark}[^15] [Assigned the alphabetical series reference “AS” in ca. 1840/41 during a sort and indexing exercise led by the Assistant Keeper of Public Records Frederick Devon, the deeds were]{.mark} formally transferred to the Rolls House of the newly formed Public Record Office in 1859.[^16] They remained there until the 1990s before transfer to the new record office in Kew, which became the National Archives in 2003. The material importance of the Holy Trinity charter caused it to be flattened and moved to a conservation-grade acid-free envelope for storage in early 2010; access is now permitted only under invigilation at the archives. This contrasts to the Lewisham charter, which is folded into a small, white archive box likely created in the 1920s.[^17] Despite the flattening of the Holy Trinity charter, its original folds are still visible and part of its back is “dirty,” suggesting that this was the part that was touched the most, either by hands, other documents, or the wood of drawers and chests.
 
 ## Beautifully Wrapped in Silk
 
@@ -77,9 +77,9 @@ The textile used for the outside layer of this bag is a samite, which is a compo
 
 {% figure '3-5', 'is-pulled-left' %}
 
-Our Lewisham seal wrapping preserves one of the fabric’s selvedges, composed of three linen cords in plain weave or tabby (Figs. 4A and 4G). Running the weft thread through the warp creates “self-finished” edges (or selvedges) on the left and right, which keeps the fabric from unravelling and fraying. These edges of the cloth were rarely cut away, but were usually sewn together or folded in connecting areas of the garment. As a result, selvedges are often in good material condition (little discolouring, intact weave) and were therefore attractive pieces to repurpose. Interestingly, several bags and purses have the selvedges preserved as ways of reinforcing smaller pieces of fabric. It seems unlikely that this silk wrapping would have been a piece fresh from the loom. Due to its costly material (silk, multicoloured, metal thread) and its labour-intensive technique, this cover is more likely to be a leftover fabric or refashioned piece that no longer served its original purpose and belonged to an expensive garment or furnishing.
+Our Lewisham seal wrapping preserves one of the fabric’s selvedges, composed of three linen cords in plain weave or tabby (Fig. 4E). Running the weft thread through the warp creates “self-finished” edges (or selvedges) on the left and right, which keeps the fabric from unravelling and fraying. These edges of the cloth were rarely cut away, but were usually sewn together or folded in connecting areas of the garment. As a result, selvedges are often in good material condition (little discolouring, intact weave) and were therefore attractive pieces to repurpose. Interestingly, several bags and purses have the selvedges preserved as ways of reinforcing smaller pieces of fabric. It seems unlikely that this silk wrapping would have been a piece fresh from the loom. Due to its costly material (silk, multicoloured, metal thread) and its labour-intensive technique, this cover is more likely to be a leftover fabric or refashioned piece that no longer served its original purpose and belonged to an expensive garment or furnishing.
 
-The bag is lined with a linen tabby and padded with yellow felt (Figs. 6A–6C). The padding, which provided an extra level of protection, may have been influenced by the contents of the charter, confirming an earlier document that had lost its seal due to careless handling. This example demonstrates the fragile nature of seals that were attached to important documents using tags. The padding is held in place by a tablet-woven band along the edge, stitched to the colourful silk outside and the plain linen inside with a plait of green and gilded silver thread (Fig. 4G).
+The bag is lined with a linen tabby and padded with yellow felt (Figs. 6A–6C). The choice for padding, which provided an extra level of protection, may have been influenced by the contents of the charter, confirming an earlier document that had lost its seal due to careless handling. This example demonstrates the fragile nature of seals that were attached to important documents using tags. The padding is held in place by a tablet-woven band along the edge, stitched to the colourful silk outside and the plain linen inside with a plait of green and gilded silver thread (Fig. 4G).
 
 {% figuregroup '3', '3-6, 3-6.2, 3-6.3' %}
 
@@ -163,15 +163,29 @@ The main challenge of our project was to establish a common baseline knowledge o
 
 From the technical and material analysis underpinning this article, we have suggested that the seal wrappings were likely added by the monasteries whose privileges the seals authenticate. Clearly, royal grants were among the most important and treasured—literally—muniments held by religious communities. Since seals could be damaged or lost by poor handling or storage and were one of the most visually appealing elements of the document, their wrapping within a beautiful and recognisable purse or bag added lustre. We might speculate that the bags acted both as a means of reference and reverence—note the exquisite mussel-shaped bag housing the surviving seal of the saintly archbishop Thomas Becket that belonged to Holy Trinity Priory—and a visual spectacle to accentuate the value of the contents.[^64] Further research is, of course, needed but early indications suggest that in England the presence of seal bags of such beauty reflect a monastic provenance.
 
+#### Additional information
+
+Research for this article was carried out by Jitske Jasperse, Instituto de Historia, CSIC  (RyC2021-033251-I) and Lucía Pereira-Pardo, Instituto de Ciencias del Patrimonio, CSIC (RYC2021-034643-I) within the Ramón y Cajal Program, funded by MCIN/AEI/10.13039/501100011033 and European Union NextGenerationEU/PRTR.
+
+Jitske Jasperse, Het vrouwelijk oog wil ook wat. Vrouwen als opdrachtgevers, verzamelaars en kunstenaars (Sterck & De Vreese, 2021), [https://www.bornmeer.nl/winkel/het-vrouwelijk-oog-wil-ook-wat/](https://www.bornmeer.nl/winkel/het-vrouwelijk-oog-wil-ook-wat/)
+
+Jitske Jasperse, “Of Seals and Siblings: Teresa/Matilda (d. 1218), Queen of Portugal and Countess of Flanders,” Journal of Medieval Iberian Studies 12.3 (2020), available in Open Access [https://doi.org/10.1080/17546559.2020.1805120](https://doi.org/10.1080/17546559.2020.1805120)
+
+Jitske Jasperse, Medieval Women, Material Culture, and Power: Matilda Plantagenet and her Sisters (Leeds: Arc Humanities Press, 2020). Also in Open Access, [https://library.oapen.org/handle/20.500.12657/37333](https://library.oapen.org/handle/20.500.12657/37333)
+ 
+Series Editor of [CARMEN Visual and Material Cultures (Arc Humanities Press)](https://www.arc-humanities.org/)
+
+[Here](https://www.youtube.com/watch?v=nV_I96GE1sY) you find a short video about the series
+
 #### Bibliography
 
 *A History of the County of Kent*. London: Victoria County History, 1926.
 
-Aceto, Maurizio, Angelo Agostino, Gaia Fenoglio, Ambra Idone, Monica Gulmini, Marcello Picollo, Paola Ricciardi, and John K. Delaney. “Characterisation of Colourants on Illuminated Manuscripts by Portable Fibre Optic UV-Visible-NIR Reflectance Spectrophotometry.” *Analytical Methods* 6, no. 5 (2014): 1488–1500. [[https://doi.org/10.1039/c3ay41904e]{.underline}](https://doi.org/10.1039/c3ay41904e).
+Aceto, Maurizio, Angelo Agostino, Gaia Fenoglio, Ambra Idone, Monica Gulmini, Marcello Picollo, Paola Ricciardi, and John K. Delaney. “Characterisation of Colourants on Illuminated Manuscripts by Portable Fibre Optic UV-Visible-NIR Reflectance Spectrophotometry.” *Analytical Methods* 6, no. 5 (2014): 1488–1500. [https://doi.org/10.1039/c3ay41904e](https://doi.org/10.1039/c3ay41904e).
 
 Baudin, Arnaud. “Conserver la mémoire dans la filiation de Clairvaux: Usages et pratiques archivistiques dans cinq abbayes de Champagne (XIIe–XVe siècle).” In *Les pratiques de l'écrit dans les abbayes cisterciennes (XIIe–milieu du XVIe siècle): Produire, échanger, contrôler, conserver.* Actes du colloque international, Troyes-Abbaye de Clairvaux, 28–30 October 2015, edited by Arnaud Baudin and Laurent Morelle, 187–212. Paris: Somogy éditions d’art Aube en Champagne, 2016.
 
-Beltran, Vincent Laudato, Christel Pesme, Sarah K. Freeman, and Mark Benson. “Microfading Tester: Light Sensitivity Assessment and Role in Lighting Policy.” *Guidelines* (Los Angeles: Getty Conservation Institute, 2021). [[http://hdl.handle.net/10020/gci_pubs_microfading_tester]{.underline}](http://hdl.handle.net/10020/gci_pubs_microfading_tester)
+Beltran, Vincent Laudato, Christel Pesme, Sarah K. Freeman, and Mark Benson. “Microfading Tester: Light Sensitivity Assessment and Role in Lighting Policy.” *Guidelines* (Los Angeles: Getty Conservation Institute, 2021). [http://hdl.handle.net/10020/gci_pubs_microfading_tester](http://hdl.handle.net/10020/gci_pubs_microfading_tester)
 
 Berkhofer, Robert. *Forgeries and Historical Writing in England, France and Flanders, 900–1200*. Woodbridge: Boydell & Brewer, 2022.
 
@@ -261,7 +275,7 @@ Pritchard, Frances. “Two Royal Seal Bags from Westminster Abbey.” *Textile H
 
 Schorta, Regula. “Textilreliquien und textile Reliquienhüllen.” In “Kunst und Liturgie im Mittelalter, ” *Kunst + Architektur in der Schweiz* 56, no. 1 (2005): 12–19.
 
-Quye, Anita, and Matija Strlič. “Ethical Sampling Guidance.” The Institute of Conservation (Icon)–Heritage Science Group, January 2019. [[https://icon.org.uk/groups/heritage-science/guidance-documents]{.underline}](https://icon.org.uk/groups/heritage-science/guidance-documents)
+Quye, Anita, and Matija Strlič. “Ethical Sampling Guidance.” The Institute of Conservation (Icon)–Heritage Science Group, January 2019. [https://icon.org.uk/groups/heritage-science/guidance-documents](https://icon.org.uk/groups/heritage-science/guidance-documents)
 
 Reimer, Paula J., et al. “The IntCal20 Northern Hemisphere Radiocarbon Age Calibration Curve (0–55 cal kBP).” *Radiocarbon* 62, no. 4 (2020): 725–57.
 
@@ -269,7 +283,7 @@ Robinson, Gertrude, H. Urquhart, and Alice Hindson. “Seal Bags in the Treasury
 
 Schofield, John, and Richard Lee. *Holy Trinity Priory, Aldgate, City of London: An Archaeological Reconstruction and History*. Museum of London Monograph Series 24. London: Museum of London Archaeology Service, 2005.
 
-Sharpe, Richard. *Charters of William II and Henry I Project*. Accessed January 2, 2024. [[https://actswilliam2henry1.files.wordpress.com/2016/10/h1-gent-2016-1.pdf]{.underline}](https://actswilliam2henry1.files.wordpress.com/2016/10/h1-gent-2016-1.pdf)
+Sharpe, Richard. *Charters of William II and Henry I Project*. Accessed January 2, 2024. [https://actswilliam2henry1.files.wordpress.com/2016/10/h1-gent-2016-1.pdf](https://actswilliam2henry1.files.wordpress.com/2016/10/h1-gent-2016-1.pdf)
 
 Tudor-Craig, Pamela, and Lisa Monnas. “A Seal Bag of 1400 at Burghley House.” In *England and the Continent in the Middle Ages: Studies in Memory of Andrew Martindale*, Harlaxton Medieval Studies 8, edited by John. G. Mitchell, 238–48. Stamford: Shaun Tyas, 2000.
 
@@ -295,9 +309,9 @@ Wyon, Alfred Benjamin, and Allan Wyon. *The Great Seals of England*. London: Ell
 
 [^5]: See, for example, Roberta Gilchrist, “The Materiality of Medieval Heirlooms: From Sacred to Biographical Objects,” in *Mobility, Meaning and Transformation of Things: Shifting Contexts of Material Culture through Time and Space*, ed. Hans P. Hahn and Hadas Weiss (Oxford: Oxbow, 2013), 170–82; Elina Gertsman, “Matter Matters,” in *Feeling Things: Objects and Emotions Through History*, ed. Stephanie Downes, Sally Holloway, and Sarah Randles (Oxford: Oxford University Press, 2018), 27–42; Amanda Luyster, “Reassembling Textile Networks: Treasuries and Re-collecting Practices in Thirteenth-Century England,” *Speculum: A Journal of Medieval Studies* 96, no. 4 (2021): 1039–78.
 
-[^6]: TNA, E 42/524 ([[https://discovery.nationalarchives.gov.uk/details/r/C4853045]{.underline}](https://discovery.nationalarchives.gov.uk/details/r/C4853045)); TNA, E 42/529 ([[https://discovery.nationalarchives.gov.uk/details/r/C4853050]{.underline}](https://discovery.nationalarchives.gov.uk/details/r/C4853050)).
+[^6]: TNA, E 42/524 [https://discovery.nationalarchives.gov.uk/details/r/C4853045](https://discovery.nationalarchives.gov.uk/details/r/C4853045); TNA, E 42/529 [https://discovery.nationalarchives.gov.uk/details/r/C4853050](https://discovery.nationalarchives.gov.uk/details/r/C4853050).
 
-[^7]: The charter is printed in transcript and analysed by Professor Richard Sharpe: Charters of William II and Henry I Project, accessed January 2, 2024, [[https://actswilliam2henry1.files.wordpress.com/2016/10/h1-gent-2016-1.pdf]{.underline}](https://actswilliam2henry1.files.wordpress.com/2016/10/h1-gent-2016-1.pdf), no. 2. A summary of the original copy made in the Charter Roll of Henry’s Chancery (TNA, C 53/21, m. 12) is also printed in *Calendar of Charter Rolls Preserved in the Public Record Office,* vol. 1, *1226–1257* (London: His Majesty’s Stationery Office, 1903), 91; *Monasticon Anglicanum: A history of the abbies and other monasteries, hospitals, friaries, and cathedral and collegiate churches, with their dependencies, in England and Wales* … originally published in Latin by William Dugdale, 6 vols. in 8, ed. John Caley, Henry Ellis, and Bulkeley Bandinel (London: Harding and Lepard, 1817–30), 6:987–88.
+[^7]: The charter is printed in transcript and analysed by Professor Richard Sharpe: Charters of William II and Henry I Project, accessed January 2, 2024, [https://actswilliam2henry1.files.wordpress.com/2016/10/h1-gent-2016-1.pdf](https://actswilliam2henry1.files.wordpress.com/2016/10/h1-gent-2016-1.pdf), no. 2. A summary of the original copy made in the Charter Roll of Henry’s Chancery (TNA, C 53/21, m. 12) is also printed in *Calendar of Charter Rolls Preserved in the Public Record Office,* vol. 1, *1226–1257* (London: His Majesty’s Stationery Office, 1903), 91; *Monasticon Anglicanum: A history of the abbies and other monasteries, hospitals, friaries, and cathedral and collegiate churches, with their dependencies, in England and Wales* … originally published in Latin by William Dugdale, 6 vols. in 8, ed. John Caley, Henry Ellis, and Bulkeley Bandinel (London: Harding and Lepard, 1817–30), 6:987–88.
 
 [^8]: Paul Brand, “Seals and the Law in the Thirteenth Century,” in *Seals and Their Context in the Middle Ages*, ed. Phillipp R. Schofield (Oxford: Oxbow, 2015), 111–19, esp. 111–13; New, *Seals and Sealing Practices*; Harvey and McGuinness, *Guide to British Medieval Seals*.
 
@@ -319,7 +333,7 @@ Wyon, Alfred Benjamin, and Allan Wyon. *The Great Seals of England*. London: Ell
 
 [^17]: No specific note or date of repair is available, but the boxing is similar to that of similar deeds within the series from the same decade.
 
-[^18]: TNA, E 41/494, [[https://discovery.nationalarchives.gov.uk/details/r/C5877793]{.underline}](https://discovery.nationalarchives.gov.uk/details/r/C5877793).
+[^18]: TNA, E 41/494, [https://discovery.nationalarchives.gov.uk/details/r/C5877793](https://discovery.nationalarchives.gov.uk/details/r/C5877793).
 
 [^19]: Due to limited physical access to the Lewisham and Holy Trinity seal wrappings, the textile expert could not carry out an in-depth analysis of the fabrics’ thread count and weave structure. The type of weave was determined on high-resolution photographs and microscopy images.
 
@@ -345,13 +359,13 @@ Wyon, Alfred Benjamin, and Allan Wyon. *The Great Seals of England*. London: Ell
 
 [^30]: More details about the instruments and experimental conditions used can be found in L. Pereira-Pardo, N. Johnston, R. Mitchell, and A. Margey, “The Materiality of the Early Modern Maps of Ireland at the National Archives: Bridging History of Cartography and Heritage Science,” in *Maps and Colours: A Complex Relationship*, ed. Diana Lange and Benjamin van der Linden, Mapping the Past 3, ed. Bram Van Nieuwenhuyze and Iason Jongepier (Leiden: Brill, 2023), 199–216.
 
-[^31]: Anita Quye and Matija Strlič, “Ethical Sampling Guidance,” The Institute of Conservation (Icon)–Heritage Science Group, January 2019, [[https://icon.org.uk/groups/heritage-science/guidance-documents]{.underline}](https://icon.org.uk/groups/heritage-science/guidance-documents).
+[^31]: Anita Quye and Matija Strlič, “Ethical Sampling Guidance,” The Institute of Conservation (Icon)–Heritage Science Group, January 2019, [https://icon.org.uk/groups/heritage-science/guidance-documents](https://icon.org.uk/groups/heritage-science/guidance-documents).
 
 [^32]: Ina Vanden Berghe and M. Vandorpe, “KIK-IRPA Dye Analysis Report of Medieval Seal Bags from the Collection of the National Archives,” DI 2023.15086, received 28.03.2023, unpublished.
 
 [^33]: Ina Vanden Berghe, M. Gleba, and U. Mannering, “Towards the Identification of Dyestuffs in Early Iron Age Scandinavian Peat Bog Textiles,” *Journal of Archaeological Science* 36 (2009): 1910–21.
 
-[^34]: Maurizio Aceto et al., “Characterisation of Colourants on Illuminated Manuscripts by Portable Fibre Optic UV-Visible-NIR Reflectance Spectrophotometry,” *Analytical Methods* 6, no. 5 (2014): 1488, [[https://doi.org/10.1039/c3ay41904e]{.underline}](https://doi.org/10.1039/c3ay41904e).
+[^34]: Maurizio Aceto et al., “Characterisation of Colourants on Illuminated Manuscripts by Portable Fibre Optic UV-Visible-NIR Reflectance Spectrophotometry,” *Analytical Methods* 6, no. 5 (2014): 1488, [https://doi.org/10.1039/c3ay41904e](https://doi.org/10.1039/c3ay41904e).
 
 [^35]: D. A. Peggie et al., “Historical Mystery Solved: A Multi-Analytical Approach to the Identification of a Key Marker for the Historical Use of Brazilwood (Caesalpinia spp.) in Paintings and Textiles,” *Analytical Methods* 10 (2018): 617–23.
 
@@ -387,9 +401,9 @@ Wyon, Alfred Benjamin, and Allan Wyon. *The Great Seals of England*. London: Ell
 
 [^51]: Laurence Douny and Susanna Harris, “Wrapping and Unwrapping, Concepts and Approaches,” in *Wrapping and Unwrapping Material Culture: Archaeological and Anthropological Perspectives*, ed. Douny and Harris (Walnut Creek, CA: Left Coast, 2014), 16.
 
-[^52]: *A History of the County of Kent* (London: Victoria County History, 1926), II, 238, *British History Online* ([[https://www.british-history.ac.uk/vch/kent/vol2/p238]{.underline}](https://www.british-history.ac.uk/vch/kent/vol2/p238)
+[^52]: *A History of the County of Kent* (London: Victoria County History, 1926), II, 238, *British History Online* [https://www.british-history.ac.uk/vch/kent/vol2/p238](https://www.british-history.ac.uk/vch/kent/vol2/p238)
 
-[^53]: See Vincent Laudato Beltran, Christel Pesme, Sarah K. Freeman, and Mark Benson, “Microfading Tester: Light Sensitivity Assessment and Role in Lighting Policy,” *Guidelines* (Los Angeles: Getty Conservation Institute, 2021), [[http://hdl.handle.net/10020/gci_pubs_microfading_tester]{.underline}](http://hdl.handle.net/10020/gci_pubs_microfading_tester). This technique consists in shining a small spot (300 microns in diameter) of intense light on the object for 10 minutes, and recording any changes in the visible reflectance spectrum during the test. The results are expressed as colour change (delta E, 1976 and 2000 formulae) and equivalence to blue wool (BW) standards of known light sensitivity. If colour change approaches the limit that is perceivable to the eye (1 Just Noticeable Difference (JND) of dE00=1.5) the test is immediately stopped; therefore, it can be considered a non-invasive technique. Extrapolating these experimental results to common museum lighting conditions over longer periods of time is helpful to inform lighting policies for exhibitions, establishing a conventional preservation target of not more than 1 JND over fifty years.
+[^53]: See Vincent Laudato Beltran, Christel Pesme, Sarah K. Freeman, and Mark Benson, “Microfading Tester: Light Sensitivity Assessment and Role in Lighting Policy,” *Guidelines* (Los Angeles: Getty Conservation Institute, 2021), [http://hdl.handle.net/10020/gci_pubs_microfading_tester](http://hdl.handle.net/10020/gci_pubs_microfading_tester). This technique consists in shining a small spot (300 microns in diameter) of intense light on the object for 10 minutes, and recording any changes in the visible reflectance spectrum during the test. The results are expressed as colour change (delta E, 1976 and 2000 formulae) and equivalence to blue wool (BW) standards of known light sensitivity. If colour change approaches the limit that is perceivable to the eye (1 Just Noticeable Difference (JND) of dE00=1.5) the test is immediately stopped; therefore, it can be considered a non-invasive technique. Extrapolating these experimental results to common museum lighting conditions over longer periods of time is helpful to inform lighting policies for exhibitions, establishing a conventional preservation target of not more than 1 JND over fifty years.
 
 [^54]: dE76=1.29 (standard deviation (SD)=0.06) and dE00=1.03 (SD=0.07), which in both cases is equivalent to a light sensitivity between that of BW2 and BW3 standards and less than 1 JND (0.76 and 0.69, respectively).
 
@@ -399,7 +413,7 @@ Wyon, Alfred Benjamin, and Allan Wyon. *The Great Seals of England*. London: Ell
 
 [^57]: Robinson, Urquhart, and Hindson, “Seal Bags in the Treasury”; Anna Muthesius, “The Exotic Near-Eastern Silks at Canterbury Cathedral,” in *Studies in Byzantine, Islamic and Near Eastern Silk Weaving*, ed. Anna Muthesius (London, 2008), 98–115. A new study on the seal bags in Canterbury is in progress.
 
-[^58]: [[https://ims.canterbury-cathedral.org/viewcontainer.tlx?containerid=1476]{.underline}](https://ims.canterbury-cathedral.org/viewcontainer.tlx?containerid=1476), accessed 15 February 2023.
+[^58]: [https://ims.canterbury-cathedral.org/viewcontainer.tlx?containerid=1476](https://ims.canterbury-cathedral.org/viewcontainer.tlx?containerid=1476), accessed 15 February 2023.
 
 [^59]: These are bags no. 6 (document ChAnt/C/54, dated 1316), no. 13 (document ChAnt7C/49, dated 1193), and no. 14 (document ChAnt/E/121, dated 1313). The two fourteenth-century charters still have their seals on silk cords, but the twelfth-century seal has disappeared from the document together with its leather tag. These documents can all be found in the Canterbury Cathedral Archives Online Catalogue. <https://ims.canterbury-cathedral.org/viewcontainer.tlx?containerid=23825591351>.
 
