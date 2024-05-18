@@ -1093,7 +1093,7 @@ figure_list:
   - id: "7-1"
     label: "Fig. 1"
     src: figures/johnson-et-al/Fig-1-Johnson_et_al.jpg
-    caption: "A collection of orotones and silvertones from the University of Washington Libraries Special Collections. a) Asahel Curtis, Mt. Rainier and Mirror Lake, ca. 1910–1940, orotone photograph, 49.5 x 41.9 cm frame size, Dan Davis Mountain Photograph Collection, PH 1238.11, PNWCSC #O2. b) Norman Edson, South Side of Mt. Rainier, ca. 1911-1940, orotone photograph, 45.1 x 37.1 cm frame size, Dan Davis Mountain Photograph Collection, PH 1238.53, PNWCSC #O7. (C) Arthur C. Pillsbury, Snow Arched Way, date unknown, silvertone photograph, 17.8 x 12.1 cm frame size, Dan Davis Mountain Photograph Collections, PH 1135, PNWCSC #O27."
+    caption: "A collection of orotones and silvertones from the University of Washington Libraries Special Collections. a) Asahel Curtis, Mt. Rainier and Mirror Lake, ca. 1910–1940, orotone photograph, 49.5 x 41.9 cm frame size, Dan Davis Mountain Photograph Collection, PH 1238.11, PNWCSC #O2. b) Norman Edson, South Side of Mt. Rainier, ca. 1911-1940, orotone photograph, 45.1 x 37.1 cm frame size, Dan Davis Mountain Photograph Collection, PH 1238.53, PNWCSC #O7. &#40;c) Arthur C. Pillsbury, Snow Arched Way, date unknown, silvertone photograph, 17.8 x 12.1 cm frame size, Dan Davis Mountain Photograph Collections, PH 1135, PNWCSC #O27."
     alt: "Two framed orotone photographs in art-nouveau style frames and one silvertone photograph in a plain wooden frame."
 
   - id: "7-2"
@@ -1129,13 +1129,13 @@ figure_list:
   - id: "7-7"
     label: "Fig. 7"
     src: figures/johnson-et-al/Fig-7-Johnson_et_al.jpg
-    caption: a) FTIR spectrum of PNWCSC #O3 blue pigment sample with emulsion layer b) reference protein spectrum (IRUG entry number IPR00016), and &#40;c) reference Prussian blue spectrum (IRUG entry number IMP00077). Amide I and Amide II bands, from the gelatin protein, are visible at 1645cm^-1^ and 1543 cm^-1^, respectively, while the nitrile peak, from Prussian blue, is visible at ~2085 cm^-1^.
+    caption: "a) FTIR spectrum of PNWCSC #O3 blue pigment sample with emulsion layer b) reference protein spectrum (IRUG entry number IPR00016), and &#40;c) reference Prussian blue spectrum (IRUG entry number IMP00077). Amide I and Amide II bands, from the gelatin protein, are visible at 1645cm and 1543 cm<sup>-1</sup>, respectively, while the nitrile peak, from Prussian blue, is visible at ~2085 cmμFTIR spectra of a) reference spectra for cellulose nitrate (from IRUG database, entry number ISR00065), poly-diallyl phthalate (IRUG entry number ISR00100), an ethyl/methyl methacrylate copolymer (IRUG entry number ISR00142) and isobutyl methacrylate (IRUG entry number ISR00057) b) spectra collected from the varnish layer of four orotones. The top two varnishes consist only of cellulose nitrate. The spectrum for PNWCSC #O2 contains cellulose nitrate as well as methacrylates and phthalates. PAM 2001.122 contains only peaks associated with phthalates and methacrylate polymers."
     alt: Three FTIR spectra stacked with peaks labelled with their position on the x-axis.
 
   - id: "7-8"
     label: "Fig. 8"
     src: figures/johnson-et-al/Fig-8-Johnson_et_al.jpg
-    caption: Raman spectrum collected from PNWCSC #O3 blue pigment sample. The strong peak at 1330.4 cm^-1^ is attributed to the diamond slide (Dychalska et al. 2015).
+    caption: "Raman spectrum collected from PNWCSC #O3 blue pigment sample. The strong peak at 1330.4 cm<sup>-1</sup> is attributed to the diamond slide (Dychalska et al. 2015)."
     alt: A Raman spectrum with important peaks labeled with their position on the x-axis and bond vibrations.
 
   - id: "7-9"
@@ -1147,7 +1147,7 @@ figure_list:
   - id: "7-10"
     label: "Fig. 10"
     src: figures/johnson-et-al/Fig-10-Johnson_et_al.jpg
-    caption: µFTIR spectra of a) reference spectra for cellulose nitrate (from IRUG database, entry number ISR00065), poly-diallyl phthalate (IRUG entry number ISR00100), an ethyl/methyl methacrylate copolymer (IRUG entry number ISR00142) and isobutyl methacrylate (IRUG entry number ISR00057) b) spectra collected from the varnish layer of four orotones. The top two varnishes consist only of cellulose nitrate. The spectrum for PNWCSC #O2 contains cellulose nitrate as well as methacrylates and phthalates. PAM 2001.122 contains only peaks associated with phthalates and methacrylate polymers. Arrows indicate which references can be found in the sample spectra, with lines on the left indicating those references contained in the spectra indicated by arrows on the right.
+    caption: "µFTIR spectra of a) reference spectra for cellulose nitrate (from IRUG database, entry number ISR00065), poly-diallyl phthalate (IRUG entry number ISR00100), an ethyl/methyl methacrylate copolymer (IRUG entry number ISR00142) and isobutyl methacrylate (IRUG entry number ISR00057) b) spectra collected from the varnish layer of four orotones. The top two varnishes consist only of cellulose nitrate. The spectrum for PNWCSC #O2 contains cellulose nitrate as well as methacrylates and phthalates. PAM 2001.122 contains only peaks associated with phthalates and methacrylate polymers. Arrows indicate which references can be found in the sample spectra, with lines on the left indicating those references contained in the spectra indicated by arrows on the right."
     alt: FTIR reference spectra stacked on the left with arrows pointing to stacked spectra on the right from orotone samples. 
 
   - id: "7-11"
