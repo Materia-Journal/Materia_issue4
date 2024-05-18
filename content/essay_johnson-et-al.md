@@ -250,34 +250,50 @@ This project received funding from the Mellon Foundation. The authors would like
 
 #### Author Bios
 
-Vanessa M. Johnson is a post-doctoral researcher in the Lasseter Clare Lab at Portland State University, part of the Pacific Northwest Conservation Science Consortium. Her research has involved analysis of organic paint binders and determination of photoactivity in zinc oxide pigments via visible fluorescence analysis. She received an MA in the Conservation of Fine Art with a specialization in paper conservation and a PhD in Conservation Science from Northumbria University, UK. 
+Vanessa M. Johnson is a post-doctoral researcher in the Lasseter Clare Lab at Portland State
+University, part of the Pacific Northwest Conservation Science Consortium. Her research has
+involved analysis of organic paint binders and determination of photoactivity in zinc oxide
+pigments via visible fluorescence analysis. She received an MA in the Conservation of Fine Art
+with a specialization in paper conservation and a PhD in Conservation Science from
+Northumbria University, UK.
 
-Department of Chemistry, Portland State University, Portland, USA 
-Mailing address: Department of Chemistry, Portland State University, PO Box 751, Portland, Oregon 97207, United States
+Department of Chemistry, Portland State University, Portland, USA
+Mailing address: Department of Chemistry, Portland State University, PO Box 751, Portland,
+Oregon 97207, United States
 E-mail address: vanessa8@pdx.edu
 
 
-Ivanny Jácome-Valladares received a BS in chemistry from Millersville University and an MS in chemistry from Portland State University. At Portland State University, her research focused on analytical chemistry and conservation science. She is interested in the application of analytical techniques for the conservation and preservation of cultural heritage.
+Ivanny Jácome-Valladares received a BS in chemistry from Millersville University and an MS in
+chemistry from Portland State University. At Portland State University, her research focused on
+analytical chemistry and conservation science. She is interested in the application of analytical techniques for the conservation and preservation of cultural heritage.
 
 Department of Chemistry, Portland State University, Portland, USA
-Mailing address: Department of Chemistry, Portland State University, PO Box 751, Portland, Oregon 97207, United States
+Mailing address: Department of Chemistry, Portland State University, PO Box 751, Portland,
+Oregon 97207, United States
 E-mail address: ivanny.jacome@gmail.com
 
 
-Claire Kenny is the Associate Conservator for Paper and Photographs at the University of Washington, where she works to conserve collections at the UW Libraries, Henry Art Gallery, and Burke Museum of Natural History and Culture. She received an MA in the Conservation of Fine Art, with a specialization in paper conservation, from Northumbria University, UK.
+Claire Kenny is the Associate Conservator for Paper and Photographs at the University of
+Washington, where she works to conserve collections at the UW Libraries, Henry Art Gallery,
+and Burke Museum of Natural History and Culture. She received an MA in the Conservation of
+Fine Art, with a specialization in paper conservation, from Northumbria University, UK.
 
 University of Washington Libraries, University of Washington, Seattle, Washington, USA
-Mailing address: Preservation Services, University of Washington Libraries, Box 352900, Seattle, WA 98195-2900
-E-mail address: ck58@uw.edu
+Mailing address: Preservation Services, University of Washington Libraries, Box 352900,
+Seattle, WA 98195-2900
+Email address: ck58@uw.edu
 
 
-Corresponding author:
+Tami Lasseter Clare is Professor of Chemistry at Portland State University where she teaches a
+range of undergraduate and graduate courses and is the Director of the Pacific Northwest
+Conservation Science Consortium, in partnership with major museums in the region. With her
+undergraduate, graduate and postdoctoral trainees, her research efforts center on developing new materials and diagnostic tools to understand and prevent the degradation of material cultural heritage, such as artwork and ethnographic materials.
 
-Tami Lasseter Clare is Professor of Chemistry at Portland State University where she teaches a range of undergraduate and graduate courses and is the Director of the Pacific Northwest Conservation Science Consortium, in partnership with major museums in the region. With her undergraduate, graduate and postdoctoral trainees, her research efforts center on developing new materials and diagnostic tools to understand and prevent the degradation of material cultural heritage, such as artwork and ethnographic materials.
-
-Department of Chemistry, Portland State University, Portland, USA 
-Mailing address: Department of Chemistry, Portland State University, PO Box 751, Portland, Oregon 97207, United States
+Department of Chemistry, Portland State University, Portland, USA
+Mailing address: Department of Chemistry, Portland State University, PO Box 751, Portland,
+Oregon 97207, United States 
 E-mail address: claret@pdx.edu
+
 
 #### Bibliography
 

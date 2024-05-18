@@ -163,6 +163,20 @@ The main challenge of our project was to establish a common baseline knowledge o
 
 From the technical and material analysis underpinning this article, we have suggested that the seal wrappings were likely added by the monasteries whose privileges the seals authenticate. Clearly, royal grants were among the most important and treasured—literally—muniments held by religious communities. Since seals could be damaged or lost by poor handling or storage and were one of the most visually appealing elements of the document, their wrapping within a beautiful and recognisable purse or bag added lustre. We might speculate that the bags acted both as a means of reference and reverence—note the exquisite mussel-shaped bag housing the surviving seal of the saintly archbishop Thomas Becket that belonged to Holy Trinity Priory—and a visual spectacle to accentuate the value of the contents.[^64] Further research is, of course, needed but early indications suggest that in England the presence of seal bags of such beauty reflect a monastic provenance.
 
+#### Author Bios
+
+Jitske Jasperse, Instituto de Historia, CSIC, Madrid. jitske.jasperse@cchs.csic.es
+
+Lucía Pereira-Pardo, Instituto de Ciencias del Patrimonio (INCIPIT), CSIC, Santiago. lucia.pereira-pardo@incipit.csic.es
+
+Ana Cabrera Lafuente, Turespaña, Ministerio de Industria y Turismo. acablaf@gmail.com
+
+Paul Dryburgh, The National Archives, London. paul.dryburgh@nationalarchives.gov.uk
+
+Elizabeth New, Department of History and Welsh History, Aberystwyth University, Wales. ean@aber.ac.uk
+
+Ina Vanden Berghe, The Royal Institute for Cultural Heritage (KIK-IRPA), Brussels. ina.vandenberghe@kikirpa.be
+
 #### Additional information
 
 Research for this article was carried out by Jitske Jasperse, Instituto de Historia, CSIC  (RyC2021-033251-I) and Lucía Pereira-Pardo, Instituto de Ciencias del Patrimonio, CSIC (RYC2021-034643-I) within the Ramón y Cajal Program, funded by MCIN/AEI/10.13039/501100011033 and European Union NextGenerationEU/PRTR.

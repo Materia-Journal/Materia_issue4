@@ -149,9 +149,9 @@ Evans, Caroline. *The Mechanical Smile: Modernism and the First Fashion Shows in
 
 Garside, Paul. "Investigations of Analytical Techniques for the Characterisation of Natural Textile Fibres Towards Informed Conservation." PhD diss., University of Southampton, 2002.
 
----------, Graham A. Mills, James R. Smith, and Paul Wyeth. "An Investigation of Weighted and Degraded Silks by Complementary Microscopy Techniques." *ePreservation Science* 11 (2014): 15--21.
+⸻, Graham A. Mills, James R. Smith, and Paul Wyeth. "An Investigation of Weighted and Degraded Silks by Complementary Microscopy Techniques." *ePreservation Science* 11 (2014): 15--21.
 
----------, Paul Wyeth, and Xiaomei Zhang. "Understanding the Ageing Behaviour of Nineteenth and Twentieth Century Tin‐weighted Silks." *Journal of the Institute of Conservation* 33, no. 2 (2010): 179--93.
+⸻, Paul Wyeth, and Xiaomei Zhang. "Understanding the Ageing Behaviour of Nineteenth and Twentieth Century Tin‐weighted Silks." *Journal of the Institute of Conservation* 33, no. 2 (2010): 179--93.
 
 Hacke, Marei. "Weighted Silk: History, Analysis and Conservation." *Studies in Conservation* 53 (2008): 3--15.
 
@@ -159,23 +159,23 @@ Higgins, Sydney Herbert. *Historic Bleaching*. London: Longs, Green, 1924.
 
 Hohé, Madelief. "Esthetisch en elegant: Art nouveau en reformkleding." In *Art Nouveau in Nederland*, by Jan de Bruijn, Frouke van Dijke, and Madelief Hohé, 144--63. Exh. cat., Kunstmuseum Den Haag. Zwolle: WBooks, 2018.
 
----------. *Global Wardrobe*. Edited by Kunstmuseum Den Haag. Zwolle: Waanders Uitgevers, 2022.
+⸻. *Global Wardrobe*. Edited by Kunstmuseum Den Haag. Zwolle: Waanders Uitgevers, 2022.
 
----------. "Paul Poiret: Mode door Le Magnifique." In: *Art Deco*, 184--203. Exh. cat., Gemeentemuseum Den Haag. Zwolle: WBooks, 2017.
+⸻. "Paul Poiret: Mode door Le Magnifique." In: *Art Deco*, 184--203. Exh. cat., Gemeentemuseum Den Haag. Zwolle: WBooks, 2017.
 
----------. *Mode \[Loves\] Kunst*. Exh.cat., Gemeentemuseum Den Haag. Zwolle: Waanders Uitgevers, 2011.
+⸻. *Mode \[Loves\] Kunst*. Exh.cat., Gemeentemuseum Den Haag. Zwolle: Waanders Uitgevers, 2011.
 
----------, and Daan van Dartel. "Mode, musea en dekolonisering." In *Global Wardrobe*, edited by Kunstmuseum Den Haag, 80--88. Zwolle: Waanders uitgevers, 2022.
+⸻, and Daan van Dartel. "Mode, musea en dekolonisering." In *Global Wardrobe*, edited by Kunstmuseum Den Haag, 80--88. Zwolle: Waanders uitgevers, 2022.
 
 Luxford, Naomi. "Reducing the Risk of Open Display: Optimising the Preventive Conservation of Historic Silks. PhD diss., University of Southampton, 2009.
 
 Meij, Ietse. "Kunstenaars en vrouwenkleding omstreeks 1900." *Kunstlicht*, no. 8 (Winter 1982/83): 24--33.
 
----------. "Mode en Reform." In *Den Haag rond 1900: Een bloeiend kunstleven*, by Titus M. Eliëns, M. Josephus Jitta, and Ietse Meij, 40--53. Exh. cat., Gemeentemuseum Den Haag. Blaricum: Museum Het Paleis/V+K, 1998.
+⸻. "Mode en Reform." In *Den Haag rond 1900: Een bloeiend kunstleven*, by Titus M. Eliëns, M. Josephus Jitta, and Ietse Meij, 40--53. Exh. cat., Gemeentemuseum Den Haag. Blaricum: Museum Het Paleis/V+K, 1998.
 
 Meijer, Suzan. "Bonding issues? Adhesive Treatments Past and Present in the Rijksmuseum." ICOM Committee for Conservation preprints. 17th Triennial Meeting, Melbourne. Paris: ICOM 2014.
 
----------, and Marjolein Koek. "Learning from a Treatment that Did Not Go As Planned: The Use of an Adhesive Support Technique on an 1860s Dress." In *The Textile Specialty Group Postprints*, American Institute for Conservation 45th Annual Meeting (Chicago, 2017), 111--24.
+⸻, and Marjolein Koek. "Learning from a Treatment that Did Not Go As Planned: The Use of an Adhesive Support Technique on an 1860s Dress." In *The Textile Specialty Group Postprints*, American Institute for Conservation 45th Annual Meeting (Chicago, 2017), 111--24.
 
 Odabasi, Sanem. "Repair of Fashion Objects: An Interview with Sarah Scaturro." *Fashion Practice* 15, no. 1 (2021): 1--15.
 
