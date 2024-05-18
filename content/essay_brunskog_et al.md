@@ -188,9 +188,11 @@ One of the most convincing motives for scientific analyses of tangible materials
 
 We hope this work contributes to the more recent and relatively abundant scholarly research on identifying complex coatings made from anacard sap and to curating and preserving historical urushi objects. Any informed decision about their care and restoration must consider the intrinsic information and intangible qualities the tangible artefacts might convey. The tangible and intangible heritages might be equally essential and cross-fertilise each other.
 
-#### Author Bio
+#### Author Bios
 
 Maria Brunskog studied arts and crafts and is a trained cabinet maker. Graduated from the Royal Danish Academy of Fine Arts as a conservator-restorer and in 2003 awarded a PhD in conservation by the University of Gothenburg. She has been involved in conservation at various museums and as a private consultant for over four decades. Her research areas include archaeometry issues, the technology of Swedish furniture and decorative surface finishes in historical contexts, climate impact on polychromy and the visual evaluation of paint on wood. She is a senior researcher affiliated with Uppsala University, where she acted as head of the programme in Integrated Conservation.
+
+
 
 #### Bibliography
 

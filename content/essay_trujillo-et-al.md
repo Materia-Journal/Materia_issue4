@@ -211,9 +211,9 @@ Aceto, Maurizio, et al. "On the Identification of Folium and Orchil on Illuminat
 
 Bandera Bistoletti, Sandrina. *Visconti Tarots of the Brera Gallery*. Milan: Martello Libreria, 1991.
 
----------, and Pinacoteca di Brera. *I tarocchi: Il caso e la fortuna: Bonifacio Bembo e la cultura cortese tardogotica*. Milan: Electa, 1999.
+⸻, and Pinacoteca di Brera. *I tarocchi: Il caso e la fortuna: Bonifacio Bembo e la cultura cortese tardogotica*. Milan: Electa, 1999.
 
----------, Tanzi Marco, and Pinacoteca di Brera. *Quelle carte de triumphi che se fanno a Cremona: I tarocchi dei Bembo: Dal cuore del Ducato di Milano alle corti della valle del Po*. Milan: Skira, 2013.
+⸻, Tanzi Marco, and Pinacoteca di Brera. *Quelle carte de triumphi che se fanno a Cremona: I tarocchi dei Bembo: Dal cuore del Ducato di Milano alle corti della valle del Po*. Milan: Skira, 2013.
 
 Briquet, Charles-Moïse. *Les filigranes: Dictionnaire historique des marques du papier dès leur apparition vers 1282 jusqu'en 1600 avec 39 figures dans le texte et 16,112 fac-similés de filigranes*. Leipzig: K.W. Hiersemann, 1907.
 
@@ -225,11 +225,11 @@ Depaulis, Thierry, André Santini, and Musée français de la carte à jouer
 
 Depaulis, Thierry. "Imprimait-on des cartes à jouer à Ferrare en 1436?" *Playing-Card Journal* 40, no. 4 (2012): 252--56.
 
----------. "L'apparition de la xylographie et l'arrivée des cartes à jouer en Europe." *Nouvelles de l'Estampe* 185, no. 6 (2002--3): 7--19.
+⸻. "L'apparition de la xylographie et l'arrivée des cartes à jouer en Europe." *Nouvelles de l'Estampe* 185, no. 6 (2002--3): 7--19.
 
----------, and Bibliothèque nationale de France. *Tarot, jeu et magie*. Paris: Bibliothèque nationale, 1984.
+⸻, and Bibliothèque nationale de France. *Tarot, jeu et magie*. Paris: Bibliothèque nationale, 1984.
 
----------, and Stuart R Kaplan. *Cary-Yale Visconti Tarocchi Deck*. Stamford, CT: U.S. Games Systems, 1984.
+⸻, and Stuart R Kaplan. *Cary-Yale Visconti Tarocchi Deck*. Stamford, CT: U.S. Games Systems, 1984.
 
 Dummett, Michael. *The Visconti-Sforza Tarot Cards*. New York: George Braziller, 1986.
 
@@ -239,7 +239,7 @@ Kaplan Stuart R. *The Encyclopedia of Tarot*. New York: U.S. Game Systems, 1978.
 
 Kühn, Hermann. "Lead-Tin Yellow." In *Artists' Pigments: A Handbook of Their History and Characteristics. Volume 2*, edited by Ashok Roy, 83--112. Washington, DC: National Gallery of Art, 1993.
 
----------. "Verdigris and Copper Resinate." In *Artists' Pigments: A Handbook of Their History and Characteristics. Volume 2*, edited by Ashok Roy, 131--158. Washington, DC: National Gallery of Art, 1993.
+⸻. "Verdigris and Copper Resinate." In *Artists' Pigments: A Handbook of Their History and Characteristics. Volume 2*, edited by Ashok Roy, 131--158. Washington, DC: National Gallery of Art, 1993.
 
 Liu, Yun, Tom Fearn, and Matija Strlič. "Photodegradation of Iron Gall Ink Affected by Oxygen, Humidity and Visible Radiation." *Dyes and Pigments* 198 (2022). [https://doi.org/10.1016/j.dyepig.2021.109947](https://doi.org/10.1016/j.dyepig.2021.109947).
 

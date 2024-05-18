@@ -371,63 +371,63 @@ figure_list:
     alt: "Parchment charter (Holy Trinity) of which the seal is wrapped in a multi-coloured stripedsilk bag."
   
   - id: "3-3"
-    label: "Fig. 3"
+    label: "Fig. 3A"
     src: figures/jasperse/fig-3-jasperse_et_al.jpg
-    caption: "First Great Seal of Henry III (ca. 98 mm), obverse (A) on a grant to Stanley Abbey, 11 Hen III, 28 October 1226-27 October 1227. The National Archives, Kew, E 42/315."
+    caption: "First Great Seal of Henry III (ca. 98 mm), obverse on a grant to Stanley Abbey, 11 Hen III, 28 October 1226-27 October 1227. The National Archives, Kew, E 42/315."
     alt: "Obverse of the wax seal of King Henry III of England showing the king seated in majesty on a throne without a back."
 
   - id: "3-3.2"
-    label: "Fig. 3"
+    label: "Fig. 3B"
     src: figures/jasperse/fig-3.2-jasperse_et_al.jpg
-    caption: "(B) Reverse."
+    caption: "Reverse."
     alt: "Reverse of the wax seal of King Henry III of England showing the king depicted as a royal warrior, riding his warhorse and brandishing his sword in one hand while holding a heraldic shield of the three leopards of England in the other."
 
   - id: "3-4"
-    label: "Fig. 4"
+    label: "Fig. 4A"
     src: figures/jasperse/fig-4-jasperse_et_al.jpg
-    caption: "Detail of the red-pinkish seal bag of the Lewisham charter, The National Archives, Richmond, E 42/524. (A) Front."
+    caption: "Detail of the red-pinkish seal bag of the Lewisham charter, The National Archives, Richmond, E 42/524. Front."
     alt: "Front of the red-pinkish silk seal bag decorated with white flower medallions."
 
   - id: "3-4.2"
-    label: "Fig. 4"
+    label: "Fig. 4B"
     src: figures/jasperse/fig-4.2-jasperse_et_al.jpg
-    caption: "(B) Back."
+    caption: "Back."
     alt: "Back of the red-pinkish silk seal bag where tears and losses are visible in the white weft."
 
   - id: "3-4.3"
-    label: "Fig. 4"
+    label: "Fig. 4C"
     src: figures/jasperse/fig-4.3-jasperse_et_al.jpg
-    caption: "&#40;C) Microphotograph of the area of damage and loss of the white weft on the back."
+    caption: "Microphotograph of the area of damage and loss of the white weft on the back."
     alt: "Microscopy detail of the back of the red-pinkish silk seal bag showing the damage and loss of the white weft at higher magnification."
 
   - id: "3-4.4"
-    label: "Fig. 4"
+    label: "Fig. 4D"
     src: figures/jasperse/fig-4.4-jasperse_et_al.jpg
-    caption: "(D) Detail of staining in the lining."
+    caption: "Detail of staining in the lining."
     alt: "Partly opened seal wrapping revealing the damaged wax seal and staining on the inside of the lining."
 
   - id: "3-4.5"
-    label: "Fig. 4"
+    label: "Fig. 4E"
     src: figures/jasperse/fig-4.5-jasperse_et_al.jpg
-    caption: "(E) Microphotograph of the red band and the green plait, showing silver leaf loss."
+    caption: "Microphotograph of the red band and the green plait, showing silver leaf loss."
     alt: "Microscopy detail showing the red-pinkish fabric’s selvedges, composed of three linen cords in plain weave or tabby."
 
   - id: "3-4.6"
-    label: "Fig. 4"
+    label: "Fig. 4F"
     src: figures/jasperse/fig-4.6-jasperse_et_al.jpg
-    caption: "(F) Remnants of gilding."
+    caption: "Remnants of gilding."
     alt: "Microscopy detail of the green and silver plait, with much of the silver lost or tarnished (now grey), but also showing some traces of gilding."
 
   - id: "3-4.7"
-    label: "Fig. 4"
+    label: "Fig. 4G"
     src: figures/jasperse/fig-4.7-jasperse_et_al.jpg
-    caption: "(G) Detail of the red band framing the bag on the outside."
+    caption: "Detail of the red band framing the bag on the outside."
     alt: "Red tablet woven band connecting the outer and inner layer of the seal bag. Its colour matches the red silk."
 
   - id: "3-4.8"
-    label: "Fig. 4"
+    label: "Fig. 4H"
     src: figures/jasperse/fig-4.8-jasperse_et_al.jpg
-    caption: "(H) Inside, showing the difference in colour due to fading."
+    caption: "Inside, showing the difference in colour due to fading."
     alt: "4H Inside of the red-pinkish seal wrapper where the colours red and green are more intense and less faded."
 
   - id: "3-5"
@@ -437,63 +437,63 @@ figure_list:
     alt: "Silk fragment with white geometrical and floral patterns against a purple background, for comparison with the seal bag."
 
   - id: "3-6"
-    label: "Fig. 6"
+    label: "Fig. 6A"
     src: figures/jasperse/fig-6-jasperse_et_al.jpg
-    caption: "(A) Detail of the yellow felt padding visible through a tear at the edge of the red-pinkish bag."
+    caption: "Detail of the yellow felt padding visible through a tear at the edge of the red-pinkish bag."
     alt: "Microscopy detail of the yellow felt padding of the red-pinkish seal bag."
 
   - id: "3-6.2"
-    label: "Fig. 6"
+    label: "Fig. 6B"
     src: figures/jasperse/fig-6.2-jasperse_et_al.jpg
-    caption: "(B) Microphotograph of the plain lining."
+    caption: "Microphotograph of the plain lining."
     alt: "Microscopy detail of the lining of the seal bag made of plain linen tabby."
 
   - id: "3-6.3"
-    label: "Fig. 6"
+    label: "Fig. 6C"
     src: figures/jasperse/fig-6.3-jasperse_et_al.jpg
-    caption: "&#40;C) Microphotograph of the yellow padding. Lewisham charter, The National Archives, Kew, E 42/524."
+    caption: "Microphotograph of the yellow padding. Lewisham charter, The National Archives, Kew, E 42/524."
     alt: "Microscopy detail of the yellow felt padding, showing the hair fibres of the material."
 
   - id: "3-7"
-    label: "Fig. 7"
+    label: "Fig. 7A"
     src: figures/jasperse/fig-7-jasperse_et_al.jpg
-    caption: "Multicoloured seal bag on the Holy Trinity Charter, The National Archives, Kew, E 42/529. (A) Front."
+    caption: "Multicoloured seal bag on the Holy Trinity Charter, The National Archives, Kew, E 42/529. Front."
     alt: "Front of the Holy Trinity pouch made of a multicoloured striped silk cloth of Arista."
 
   - id: "3-7.2"
     label: "Fig. 7"
     src: figures/jasperse/fig-7.2-jasperse_et_al.jpg
-    caption: "(B) Back."
+    caption: "Back."
     alt: "Back of the Holy Trinity pouch made of a multicoloured striped silk cloth of Arista."
 
   - id: "3-7.3"
     label: "Fig. 7"
     src: figures/jasperse/fig-7.3-jasperse_et_al.jpg
-    caption: "&#40;C) Detail of the herringbone weave of the cloth of arista (the image has been rotated to show the direction of warp and weft)."
+    caption: "Detail of the herringbone weave of the cloth of arista (the image has been rotated to show the direction of warp and weft)."
     alt: "Front of the Holy Trinity pouch rotated showing the weft of the fabric creating horizontal, parallel bands with a herringbone patterned weave (cloth of Arista)."
 
   - id: "3-8"
-    label: "Fig. 8"
+    label: "Fig. 8A"
     src: figures/jasperse/fig-8-jasperse_et_al.jpg
-    caption: "Details of the seal bag of the Holy Trinity charter, The National Archives, Kew, E 42/529. (A) Untidy stitching."
+    caption: "Details of the seal bag of the Holy Trinity charter, The National Archives, Kew, E 42/529. Untidy stitching."
     alt: "Close-up detail of the edge of the seal bag showing untidy stitching."
 
   - id: "3-8.2"
-    label: "Fig. 8"
+    label: "Fig. 8B"
     src: figures/jasperse/fig-8.2-jasperse_et_al.jpg
-    caption: "(B) Untidy stitching."
+    caption: "Untidy stitching."
     alt: "Close-up detail of the inside of the bag where an undyed thread was sewn straight across the fabric."
 
   - id: "3-8.3"
-    label: "Fig. 8"
+    label: "Fig. 8C"
     src: figures/jasperse/fig-8.3-jasperse_et_al.jpg
-    caption: "&#40;C) Untidy stitching."
+    caption: "Untidy stitching."
     alt: "Close-up detail of a band with orange lozenge medallions on a dark blue background, showing an undyed thread sewn across the fabric."
 
   - id: "3-8.4"
-    label: "Fig. 8"
+    label: "Fig. 8D"
     src: figures/jasperse/fig-8.4-jasperse_et_al.jpg
-    caption: "(D) Damaged area showing remnants of a coating inside the cloth of arista."
+    caption: "Damaged area showing remnants of a coating inside the cloth of arista."
     alt: "Close-up detail showing the thin and fragile fabric of the seal bag, with the remains of a semi-transparent yellow coating that had been applied to support the cloth."
 
   - id: "3-9"
@@ -509,33 +509,33 @@ figure_list:
     alt: "Graph showing Reflectance (0-1) in the y axis and wavelength (350-2500 nm) in the x axis, with 7 line-plots showing the reflectance spectra of different coloured areas in the Lewisham seal bag."
 
   - id: "3-10"
-    label: "Fig. 10"
+    label: "Fig. 10A"
     src: figures/jasperse/fig-10-jasperse_et_al.jpg
-    caption: "Seal bag of the Holy Trinity charter, The National Archives, Kew, E 42/529. (A) Fibre optics reflectance spectroscopy (FORS) showing the absorption band of indigotin in the green and blue spectra (660 nm)."
+    caption: "Seal bag of the Holy Trinity charter, The National Archives, Kew, E 42/529. Fibre optics reflectance spectroscopy (FORS) showing the absorption band of indigotin in the green and blue spectra (660 nm)."
     alt: "Graph showing Reflectance (0-1) in the y axis and wavelength (350-2500 nm) in the x axis, with 6 line-plots showing the reflectance spectra of different coloured areas in the Holy Trinity seal bag."
 
   - id: "3-10.2"
-    label: "Fig. 10"
+    label: "Fig. 10B"
     src: figures/jasperse/fig-10.2-jasperse_et_al.jpg
-    caption: "(B) UVL image showing strong yellow fluorescence of the yellow stripes, slight yellow fluorescence in the green stripes and bluish fluorescence in the white stripes."
+    caption: "UVL image showing strong yellow fluorescence of the yellow stripes, slight yellow fluorescence in the green stripes and bluish fluorescence in the white stripes."
     alt: "Close-up detail of the textile seal bag of the Holy Trinity charter showing fluorescence of the lighter stripes under UV."
 
   - id: "3-10.3"
-    label: "Fig. 10"
+    label: "Fig. 10C"
     src: figures/jasperse/fig-10.3-jasperse_et_al.jpg
-    caption: "&#40;C) UV microphotograph showing a detail of the bluish fluorescence of the white silk."
+    caption: "UV microphotograph showing a detail of the bluish fluorescence of the white silk."
     alt: "Microscopy detail of the textile seal bag of the Holy Trinity charter showing fluorescence in the white silk under UV."
 
   - id: "3-10.4"
-    label: "Fig. 10"
+    label: "Fig. 10D"
     src: figures/jasperse/fig-10.4-jasperse_et_al.jpg
-    caption: "(D) Microphotograph showing the silver thread combined with the yellow weft."
+    caption: "Microphotograph showing the silver thread combined with the yellow weft."
     alt: "Microscopy detail of the textile seal bag of the Holy Trinity charter showing a weft of silver threads and yellow silk and a beige warp."
 
   - id: "3-10.5"
-    label: "Fig. 10"
+    label: "Fig. 10E"
     src: figures/jasperse/fig-10.5-jasperse_et_al.jpg
-    caption: "(E) Microphotograph of the beige warp."
+    caption: "Microphotograph of the beige warp."
     alt: "Microscopy detail of the textile seal bag of the Holy Trinity charter showing a weft of green and white silk and a beige warp."
 
   - id: "3-11"
@@ -559,73 +559,73 @@ figure_list:
   - id: "4-1"
     label: "Fig. 1"
     src: figures/Meredith/fig-1-Meredith_et_al.jpg
-    caption: "**Fig. 1** (Left to right) Melissa Mednicov, Irma Passeri, and Hallie G. Meredith at Yale University Art Gallery (YUAG). Photo: Andrew Hershberger."
+    caption: "(Left to right) Melissa Mednicov, Irma Passeri, and Hallie G. Meredith at Yale University Art Gallery (YUAG). Photo: Andrew Hershberger."
     alt: "Interior view of a group of standing STITAH participants and leaders examining a gold-framed Medieval painting on a table in YUAG."
 
   - id: "4-2"
     label: "Fig. 2"
     src: figures/Meredith/fig-2-Meredith_et_al.jpg
-    caption: "**Fig. 2** Yale Center for British Art (YCBA) Conservator Jessica David presenting in the YCBA Conservation Studio and pointing to a highly magnified cross-section of layers of oil paint. Andrew Hershberger, in the gray mask, is seated to the right. Photo: Jessica Smolinski."
+    caption: "Yale Center for British Art (YCBA) Conservator Jessica David presenting in the YCBA Conservation Studio and pointing to a highly magnified cross-section of layers of oil paint. Andrew Hershberger, in the gray mask, is seated to the right. Photo: Jessica Smolinski."
     alt: "YCBA office interior showing seated participants listening to a STITAH leader pointing to a close-up photograph on a flat screen TV."
 
   - id: "4-3"
     label: "Fig. 3"
     src: figures/Meredith/fig-3-Meredith_et_al.jpg
-    caption: "**Fig. 3** YUAG Conservator Irma Passeri (right) explaining different gold gilding techniques used in paintings in the YUAG collection. Robert Hamilton is at center. Photo: Andrew Hershberger."
+    caption: "YUAG Conservator Irma Passeri (right) explaining different gold gilding techniques used in paintings in the YUAG collection. Robert Hamilton is at center. Photo: Andrew Hershberger."
     alt: "Group of STITAH participants and leaders looking down at a Medieval painting enclosed inside a golden Gothic-arched frame in YUAG."
 
   - id: "4-4"
     label: "Fig. 4"
     src: figures/Meredith/fig-4-Meredith_et_al.jpg
-    caption: "**Fig. 4** (Left to right) Jennifer Cadero-Gillette, Janet Schrenk, and Hallie G. Meredith at Yale’s Institute for the Preservation of Cultural Heritage (IPCH) Photo: Jessica Smolinski."
+    caption: "(Left to right) Jennifer Cadero-Gillette, Janet Schrenk, and Hallie G. Meredith at Yale’s Institute for the Preservation of Cultural Heritage (IPCH) Photo: Jessica Smolinski."
     alt: "Interior view of Yale’s IPCH with three STITAH participants examining a standing carved wood African figural sculpture on a table."
 
   - id: "4-5"
     label: "Fig. 5"
     src: figures/Meredith/fig-5-Meredith_et_al.jpg
-    caption: "**Fig. 5** (Left to right) Michael Yonan, Robert Hamilton, and Hallie G. Meredith at YUAG. Photo: Jessica Smolinski."
+    caption: "(Left to right) Michael Yonan, Robert Hamilton, and Hallie G. Meredith at YUAG. Photo: Jessica Smolinski."
     alt: " Interior of YUAG study room showing many standing STITAH participants including one examining two transparent images."
 
   - id: "4-6"
     label: "Fig. 6"
     src: figures/Meredith/fig-6-Meredith_et_al.jpg
-    caption: "**Fig. 6** Sir Joshua Reynolds (English, 1723-1792), *Mrs. Robinson*, ca. 1784. Oil on canvas, unframed: 36 7/8 × 28 1/4 inches (93.7 × 71.8 cm). [Yale Center for British Art, Paul Mellon Collection, B1981.25.520](https://collections.britishart.yale.edu/catalog/tms:1004)."
+    caption: "Sir Joshua Reynolds (English, 1723-1792), *Mrs. Robinson*, ca. 1784. Oil on canvas, unframed: 36 7/8 × 28 1/4 inches (93.7 × 71.8 cm). [Yale Center for British Art, Paul Mellon Collection, B1981.25.520](https://collections.britishart.yale.edu/catalog/tms:1004)."
     alt: "Oil painted half-length profile portrait of woman with long gray curly hair and a gray-green dress before a loosely sketched background."
 
   - id: "4-7"
     label: "Fig. 7"
     src: figures/Meredith/fig-7-Meredith_et_al.jpg
-    caption: "**Fig. 7** Irma Passeri (standing) assisting all STITAH participants, including Andrew Hershberger (left), inside the YUAG. Photo: Jessica Smolinski."
+    caption: "Irma Passeri (standing) assisting all STITAH participants, including Andrew Hershberger (left), inside the YUAG. Photo: Jessica Smolinski."
     alt: "YUAG classroom view of one standing STITAH leader assisting seated participants at tables with techniques such as cartoon drawing transfers."
 
   - id: "4-8"
     label: "Fig. 8"
     src: figures/Meredith/fig-8-Meredith_et_al.jpg
-    caption: "**Fig. 8** Andrew Hershberger presenting in the YCBA galleries on Sir Joshua Reynolds’s *Mrs. Robinson*, ca. 1784 (center). At right are some members of the Reynolds group including Robert Hamilton (closest to camera). Photo: Jessica Smolinski."
+    caption: "Andrew Hershberger presenting in the YCBA galleries on Sir Joshua Reynolds’s *Mrs. Robinson*, ca. 1784 (center). At right are some members of the Reynolds group including Robert Hamilton (closest to camera). Photo: Jessica Smolinski."
     alt: "One STITAH participant standing and presenting inside the YCBA next to the original painting in Fig. 6 with other participants listening."
 
   - id: "4-9"
     label: "Fig. 9"
     src: figures/Meredith/fig-9-Meredith_et_al.jpg
-    caption: "**Fig. 9** X-radiograph of *Mrs. Robinson* (Fig. 6). X-radiograph made by the YCBA 20 May 2011. Note the upside-down face at the bottom."
+    caption: "X-radiograph of *Mrs. Robinson* (Fig. 6). X-radiograph made by the YCBA 20 May 2011. Note the upside-down face at the bottom."
     alt: "Black and white x-radiograph of the painting in Fig. 6 showing the earlier and now upside-down portrait in the composition's lower third."
 
   - id: "4-10"
     label: "Fig. 10"
     src: figures/Meredith/fig-10-Meredith_et_al.jpg
-    caption: "**Fig. 10** Infrared reflectogram of *Mrs. Robinson* (Fig. 6) made by the YCBA in 2014. Note that the upside-down head now has no identifiable facial features, and the entire canvas seems not to show any underdrawing."
+    caption: "Infrared reflectogram of *Mrs. Robinson* (Fig. 6) made by the YCBA in 2014. Note that the upside-down head now has no identifiable facial features, and the entire canvas seems not to show any underdrawing."
     alt: 
 
   - id: "4-11"
     label: "Fig. 11"
     src: figures/Meredith/fig-11-Meredith_et_al.jpg
-    caption: "**Fig 11** Demonstration of pigment grinding with walnut oil, a historical method of making paint. (Fig. 11) Photo: Andrew Hershberger."
+    caption: "Demonstration of pigment grinding with walnut oil, a historical method of making paint. (Fig. 11) Photo: Andrew Hershberger."
     alt: 
 
   - id: "4-12"
     label: "Fig. 12"
     src: figures/Meredith/fig-12-Meredith_et_al.jpg
-    caption: "**Fig 12** Demonstration of pigment grinding with walnut oil, a historical method of making paint. (Fig. 12) Photo: Robert Hamilton."
+    caption: "Demonstration of pigment grinding with walnut oil, a historical method of making paint. (Fig. 12) Photo: Robert Hamilton."
     alt: 
 
   - id: "4-13"
@@ -653,15 +653,15 @@ figure_list:
     alt: "Black and white photograph of the painter Alfred-Napoléon Delaunois posing in his studio, with painting materials nearby."
 
   - id: "5-2a"
-    label: "Fig. 2"
+    label: "Fig. 2A"
     src: figures/Grison/fig-2-grison_et_al.jpg
-    caption: "Alfred-Napoléon Delaunois, *Vision de Moine*, 1897, pastel, black and red crayon or chalk, watercolour, gouache, oil paint, and metal leaf, on toned paper, laid down on grey cardboard, 670 x 480 mm; M Leuven, inv. no. G/968/D (even illumination photography; recto and verso)."
+    caption: "Alfred-Napoléon Delaunois, *Vision de Moine*, 1897, pastel, black and red crayon or chalk, watercolour, gouache, oil paint, and metal leaf, on toned paper, laid down on grey cardboard, 670 x 480 mm; M Leuven, inv. no. G/968/D (even illumination photography; recto)."
     alt: "An artwork in pastel, watercolour and gouache, with a monk in profile holding a white lily, a golden halo around his head"
 
   - id: "5-2b"
-    label: "Fig. 2"
+    label: "Fig. 2B"
     src: figures/Grison/fig-2.2-grison_et_al.jpg
-    caption: "Alfred-Napoléon Delaunois, *Vision de Moine*, 1897, pastel, black and red crayon or chalk, watercolour, gouache, oil paint, and metal leaf, on toned paper, laid down on grey cardboard, 670 x 480 mm; M Leuven, inv. no. G/968/D (even illumination photography; recto and verso)."
+    caption: "Verso."
     alt: "An artwork in pastel, watercolour and gouache, with a monk in profile holding a white lily, a golden halo around his head"
 
   - id: "5-3"
@@ -701,13 +701,13 @@ figure_list:
     alt: "Chemical imaging with MA-XRF mapping the presence of calcium in a detail of the monk's veil"
 
   - id: "5-8a"
-    label: "Fig. 8"
+    label: "Fig. 8A"
     src: figures/Grison/fig-8-grison_et_al.jpg
     caption: "Microphotographs (Hirox, with the x100 objective) of two lacunas situated in the central lily."
     alt: "Two photographs taken with a microscope showing traces of pigments visible in areas where the paint has flaked off"
 
   - id: "5-8b"
-    label: "Fig. 8"
+    label: "Fig. 8B"
     src: figures/Grison/fig-8.2-grison_et_al.jpg
     caption: "Microphotographs (Hirox, with the x100 objective) of two lacunas situated in the central lily."
     alt: "Two photographs taken with a microscope showing traces of pigments visible in areas where the paint has flaked off"
@@ -719,13 +719,13 @@ figure_list:
     alt: "A photograph taken with a microscope traces of a pastel layer visible in areas where the paint has flaked off"
 
   - id: "5-10a"
-    label: "Fig. 10"
+    label: "Fig. 10A"
     src: figures/Grison/fig-10-grison_et_al.jpg
     caption: "White-light Microdome captures revealing the incised lines; left, with colour information retained; right, normal map (i.e., topography) of the surface of the same area."
     alt: "A computed image taken with a photometric stereo imaging device showing faint details of the work's relief, such as incisions."
 
   - id: "5-10b"
-    label: "Fig. 10"
+    label: "Fig. 10B"
     src: figures/Grison/fig-10.2-grison_et_al.jpg
     caption: "White-light Microdome captures revealing the incised lines; left, with colour information retained; right, normal map (i.e., topography) of the surface of the same area."
     alt: "A computed image taken with a photometric stereo imaging device showing faint details of the work's relief, such as incisions."
@@ -743,13 +743,13 @@ figure_list:
     alt: "Another artwork by Delaunois showing a three-quarter view of a monk's head, from the back, against a gold paint background"
   
   - id: "5-13a"
-    label: "Fig. 13"
+    label: "Fig. 13A"
     src: figures/Grison/fig-13-grison_et_al.jpg
     caption: "Three details of the head and hand showing scratched-out lines in *Vision de Moine*."
     alt: "Three details of the monk's head and hand showing lines the artist scratched out in the pastel layer to create contrasts and relief"
 
   - id: "5-13b"
-    label: "Fig. 13"
+    label: "Fig. 13B"
     src: figures/Grison/fig-13.2-grison_et_al.jpg
     caption: "Three details of the head and hand showing scratched-out lines in *Vision de Moine*."
     alt: "Three details of the monk's head and hand showing lines the artist scratched out in the pastel layer to create contrasts and relief"
