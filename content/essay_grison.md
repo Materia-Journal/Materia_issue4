@@ -161,9 +161,11 @@ As such, the technical imaging workflow performed on this artwork was deemed sat
 
 The research took place at the KU Leuven [Core Facility VIEW](https://view.kuleuven.be/): Imaging Lab (KU Leuven Libraries) and Book Heritage Lab (Faculty of Theology and Religious Studies). MA-XRF scans were performed at IPARC, Kampenhout, Belgium.
 
-#### Author Bio
+#### Author Bios
 
 Marie-Noëlle Grison holds a Master's degree in art history from the Sorbonne university. She then specialized in drawings and prints through her work experience as a curatorial assistant and researcher in various graphic arts collections in France. In 2016-2017, she held the position of junior curator of drawings and prints split between the Fondation Custodia in Paris and the Rijksmuseum Amsterdam.  Committed to the advancement of knowledge in art technical research, she recently co-authored publications on the application of AI-based technologies for the study of historical paper, and on the manufacture of early-modern blue paper. Her PhD started in 2022 at the KU Leuven (Belgium) is focused on Léon Spilliaert's unique use of drawing materials such as pastel. She is also a practicing printmaker.
+
+
 
 #### Bibliography
 
