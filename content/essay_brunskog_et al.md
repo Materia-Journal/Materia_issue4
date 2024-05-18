@@ -192,7 +192,7 @@ We hope this work contributes to the more recent and relatively abundant scholar
 
 Maria Brunskog studied arts and crafts and is a trained cabinet maker. Graduated from the Royal Danish Academy of Fine Arts as a conservator-restorer and in 2003 awarded a PhD in conservation by the University of Gothenburg. She has been involved in conservation at various museums and as a private consultant for over four decades. Her research areas include archaeometry issues, the technology of Swedish furniture and decorative surface finishes in historical contexts, climate impact on polychromy and the visual evaluation of paint on wood. She is a senior researcher affiliated with Uppsala University, where she acted as head of the programme in Integrated Conservation.
 
-
+Professor Tetsuo Miyakoshi holds a doctorate in engineering from Meiji University in Tokyo, Japan. Since completing his doctorate, Miyakoshi has also held positions in engineering and applied chemistry at various institutions such as North Carolina State University in the United States, as well as Meiji University, where he is currently a professor emeritus. His research interests include urushi chemistry, organic synthetic chemistry and natural product chemistry.
 
 #### Bibliography
 

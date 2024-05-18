@@ -2,359 +2,359 @@ figure_list:
 
   - id: "1-1"
     label: "Fig. 1"
-    src: figures/trujillo-et-al/Fig-1-Trujillo_et_al.jpg
+    src: figures/trujillo-et-al/fig-1-trujillo_et_al.jpg
     caption: "Examples of *tarocchi* cards from the Visconti-Sforza decks. Top row, left to right: Yale *Judgment*; Brera *Knight of Coins*; Morgan *Death* and *Temperance*; Carrara *Emperor*. Bottom row, left to right: Yale *Ace of Batons*; Brera *Ace of Staves*; Morgan *Ace of Staves*; and Carrara *Three of Staves*."
     credit: 
     alt: ""
 
   - id: "1-2"
     label: "Fig. 2"
-    src: figures/trujillo-et-al/Fig-2-Trujillo_et_al.jpg
+    src: figures/trujillo-et-al/fig-2-trujillo_et_al.jpg
     caption: "Map showing the location of current project partners. At the onset of this research, Lydia Aikenhead was the Pine Tree Book Conservation Fellow at the Morgan Library & Museum; Federica Pozzi was an Associate Research Scientist at the Metropolitan Museum of Art, leading the NICS program; and Roxanne Radpour was the Andrew W. Mellon Fellow at the Metropolitan Museum of Art, Department of Scientific Research, subsequently holding a position as Charles E. Culpeper Fellow at the National Gallery of Art."
     credit: 
     alt: ""
 
   - id: "1-3"
     label: "Fig. 3"
-    src: figures/trujillo-et-al/Fig-3-Trujillo_et_al.jpg
+    src: figures/trujillo-et-al/fig-3-trujillo_et_al.jpg
     caption: "A timeline graphically illustrating the international and collaborative nature of the *tarocchi* project. The collections that are caretakers of the three *tarocchi* decks and the institutions that are providing scientific analysis of the cards are shown along with seminal events that highlight the complex nature of the research program."
     credit: 
     alt: ""
 
   - id: "1-4"
     label: "Fig. 4"
-    src: figures/trujillo-et-al/Fig-4-Trujillo_et_al.jpg
+    src: figures/trujillo-et-al/fig-4-trujillo_et_al.jpg
     caption: "Photos showing Team *Tarocchi* in action. Top left: Federica Pozzi, Frank Trujillo, Lydia Aikenhead, and Marie-France Lemay discussing the analytical campaign during a visit to the CCR “La Venaria Reale” in April 2022. Bottom left: Frank positions a Morgan *tarocchi* card for analysis using the M6 scanning XRF instrument at IPCH in April 2021. Right: Federica, Lydia, Marie-France, Elena Basso, Michele Gironda, and Alessandro Tocchio set up the Bruker IRIS system in the CCR laboratories for scanning a group of cards from the Accademia Carrara."
     credit: 
     alt: ""
 
   - id: "1-5"
     label: "Fig. 5"
-    src: figures/trujillo-et-al/Fig-5-Trujillo_et_al.jpg
+    src: figures/trujillo-et-al/fig-5-trujillo_et_al.jpg
     caption: "[A] Yale *Male Page of Cups*: bare paper on verso of card. [B] Carrara *Page of Swords*: verso of card painted with sappanwood pigment. [C] Yale *Ace of Batons*: micrograph of the edge of the card showing the layered structure. [D] Morgan *Ace of Staves*: micrograph of the edge of the card showing the layered structure."
     credit: 
     alt: ""
 
   - id: "1-6"
     label: "Fig. 6"
-    src: figures/trujillo-et-al/Fig-6-Trujillo_et_al.jpg
+    src: figures/trujillo-et-al/fig-6-trujillo_et_al.jpg
     caption: "Recto and verso views of the Yale *Charity* card showing the location of the watermark. [A] Digital tracing of the *Charity* card watermark. [B] Watermark 2642, Reggio Emilia, 1439, from Charles-Moïse Briquet, *Les Filigranes: Dictionnaire historique des marques du papier* . . . (Leipzig: K.W. Hiersemann, 1907), 191, 2636-2647.  [C], [D], [E], [F] Watermark 520, Ferrara, 1441; watermark 521, Udine, 1437; watermark 590, Ferrara, 1441; watermark 591, Ferrara/Venezia, 1440/1441; from Piccard’s *Wasserzeichen Fabeltiere: Greif, Drache, Einhorn*. [G], [H] Twin watermarks: watermark G (AT4000-636_235, https://www.wzma.at/1663); watermark H (AT4000-636_239, https://www.wzma.at/1664), 1441–1442; folios 235 and 239 of Codex 636 (University and State Library, Innsbruck)."
     credit: 
     alt: ""
 
   - id: "1-7"
     label: "Fig. 7"
-    src: figures/trujillo-et-al/Fig-7-Trujillo_et_al.jpg
+    src: figures/trujillo-et-al/fig-7-trujillo_et_al.jpg
     caption: "Top row: Morgan *King of Coins*. Bottom row: Morgan *The Last Judgment*. From left to right: visible light photography, gamma enhanced scanning XRF elemental maps showing the distribution of lead (Pb Lα) and iron (Fe Kα), and raking light photographs obtained from reflectance transformation imaging (RTI). These images illustrate, from left to right, the evolution of the composition starting with a loose underdrawing executed with a lead-containing metal point (faint white lines in the lead maps), followed by incised lines setting the contours of figures in the support prior to the application of bole (red lines on the iron maps), and the final, elaborate decorative tooling after gilding (blue lines on the raking light images)."
     credit: 
     alt: ""
 
   - id: "1-8"
     label: "Fig. 8"
-    src: figures/trujillo-et-al/Fig-8-Trujillo_et_al.jpg
+    src: figures/trujillo-et-al/fig-8-trujillo_et_al.jpg
     caption: "Morgan *Love*, with a close-up of the Cupid figure where the losses in the paint layer reveal the paper support, the iron gall ink underdrawing, and the red bole applied up to and at times beyond the edges of the figure."
     credit: 
     alt: ""
 
   - id: "1-9"
     label: "Fig. 9"
-    src: figures/trujillo-et-al/Fig-9-Trujillo_et_al.jpg
+    src: figures/trujillo-et-al/fig-9-trujillo_et_al.jpg
     caption: "Comparison of the gold (Au Lα) and silver (Ag Lα) XRF elemental distribution maps of six corresponding trump and court cards from the Morgan (top two rows) and from Yale (bottom two rows). From left to right: *Empress*, *Love*, *Death*, *The Last Judgment/Judgement*, *Page of Cups*, and *King of Coins*."
     credit: 
     alt: ""
 
   - id: "1-10"
     label: "Fig. 10"
-    src: figures/trujillo-et-al/Fig-10-Trujillo_et_al.jpg
+    src: figures/trujillo-et-al/fig-10-trujillo_et_al.jpg
     caption: "Comparison of the gold leaf on the Yale *Male Page of Cups* with the *oro di metà* on the Morgan *Page of Cups*, showing for the latter a darker tone due to tarnishing of the silver over time."
     credit: 
     alt: ""
 
   - id: "1-11"
     label: "Fig. 11"
-    src: figures/trujillo-et-al/Fig-11-Trujillo_et_al.jpg
+    src: figures/trujillo-et-al/fig-11-trujillo_et_al.jpg
     caption: "Comparison of XRF elemental distribution maps for eight elements commonly encountered on pip cards of all three *tarocchi* decks. Top row: Brera *Ace of Coins*. Middle row: Carrara *Ace of Coins*. Bottom row: Yale *Ace of Coins*. The first two cards were imaged using the Bruker IRIS system, while maps for the Yale pip cards were obtained using a Bruker M6 scanning XRF unit."
     credit: 
     alt: ""
 
   - id: "1-12"
     label: "Fig. 12"
-    src: figures/trujillo-et-al/Fig-12-Trujillo_et_al.jpg
+    src: figures/trujillo-et-al/fig-12-trujillo_et_al.jpg
     caption: "Comparison of tooling and glazes on the three *tarocchi* decks in the study. Top row: Yale deck. Second row: Morgan deck. Third row: Carrara deck. Bottom row: Brera deck."
     credit: 
     alt: ""
 
   - id: "1-13"
     label: "Fig. 13"
-    src: figures/trujillo-et-al/Fig-13-Trujillo_et_al.jpg
+    src: figures/trujillo-et-al/fig-13-trujillo_et_al.jpg
     caption: "Classification maps of the painting materials used in two representative cards, as obtained from the analysis of RIS cubes. The maps show, with false colors, pigment distribution throughout the image scene recorded by the imaging system. Left: pigment classification map of the Morgan *King of Staves*, showing the distribution of materials such as, but not limited to, azurite (blue), red lake (maroon), lead tin yellow (yellow), smalt (light blue), vermilion (red), folium (purple), ochers, and copper-based greens. This data was collected using a VNIR (400-1000 nm) sCMOS hyperspectral camera at the Met. Right: pigment classification map of the Carrara *Three of Staves*, which also contains azurite (blue), red lake (maroon), and vermilion (red), but additionally features multiple green tones, along with an organic yellow (light yellow) that forms the inner border. This data was collected using a Bruker IRIS hyperspectral system, whose range goes up to 2500 nm, providing access to key vibrational features that include pigment, binding media, and substrate features."
     credit: 
     alt: ""
 
   - id: "2-1"
     label: "Fig. 1"
-    src: figures/Brunskog/Fig-1-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-1-brunskog_miyakoshi.jpg
     caption: "Two trays. Urushi on a wooden base, each: 4.5 x 18.5 x 24.5 cm, pre-1776. Museum of Ethnography, (top) 1874-01-0001 (Riksmuseum inv. No. R.M. 1) and (bottom) 1874-01-0002 (Riksmuseum inv. No. R.M. 2), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
     credit: 
     alt: "Two rectangular, low, open trays with scalloped cutouts on the long sides, one decorated on the exterior sides with bamboo grass, the other with lilies in a waterscape. The insides have sprinkled gold flakes so called (nashiji) resembling pear-skin. The trays are fitted with feet and stackable on each other."
 
   - id: "2-2"
     label: "Fig. 2"
-    src: figures/Brunskog/Fig-2-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-2-brunskog_miyakoshi.jpg
     caption: " Incense box, kobako. Urushi on a wooden base, gilded metal, 10.9 x 11.9 x 14 cm, 1700-1776. Museum of Ethnography inv. No. 1874-01-0003 (Riksmuseum inv. No. R.M. 3), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
     credit: 
     alt: "Square box with deeply overlapping lid with beveled edges. Inside fitted with a set of six nested, lidded containers. Outside makie decorations depicting kiri-mon leaves and flowers of Paulownia imperisalis on a pear-skin (nashiji) ground. Circular ornaments with the crest of Mikadon on two sides, to hold the now missing cord."
 
   - id: "2-3"
     label: "Fig. 3"
-    src: figures/Brunskog/Fig-3-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-3-brunskog_miyakoshi.jpg
     caption: "Head rest. Urushi on a wooden base, 7 x 9.4 x 13.5 cm, c. 1760. Museum of Ethnography inv. No.  1874-01-0004 (Riksmuseum inv. No. R.M. 4). https://www.etnografiskamuseet.se/en/, image source: Carlotta."
     credit: 
     alt: "Rectangular, hollow, wood base coated with black urushi and decorated on all sides in gold hira-makie depicting scattered iris, carnation, and herbs. The sample position for analyses is marked with a yellow triangle."
 
   - id: "2-4"
     label: "Fig. 4"
-    src: figures/Brunskog/Fig-4-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-4-brunskog_miyakoshi.jpg
     caption: " Incense container, kogo. Urushi on wood, 3 x 7.5 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0005 (Riksmuseum inv. No. R.M. 5a), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
     credit: 
     alt: "Cylindrical etui with lid, decorated with gold, silver, and red togidashi on a black ground. Outside decoration on the lid depicting a woman playing shamisen and inside a chrysanthemum. The sides with leaves and floral design."
 
   - id: "2-5"
     label: "Fig. 5"
-    src: figures/Brunskog/Fig-5-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-5-brunskog_miyakoshi.jpg
     caption: "Drug container, inro. Urushi probably on a wooden base, 5 x 9 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0006 (Riksmuseum inv. No. R.M. 5b), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
     credit: 
     alt: "Five-tiered and lidded drug container with a densely scattered pear-skin (nashiji) ground inside and gold and silver kirikane and taka-makie on a thin pear-skin ground on the outside depicting plum foliage."
 
   - id: "2-6"
     label: "Fig. 6"
-    src: figures/Brunskog/Fig-6-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-6-brunskog_miyakoshi.jpg
     caption: "Container. Transparent urushi on wood, 2.1 x 4.2 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0007 (Riksmuseum inv. No. R.M. 6). https://www.etnografiskamuseet.se/en/, image source: Carlotta."
     credit: 
     alt: "Cylindrical etui with lid turned from a single piece of wood, cut as hikimono yokobiki, i.e. with the grain parallel to the bottom and cover. Five concentric grooves on the top circumference the cover."
 
   - id: "2-7"
     label: "Fig. 7"
-    src: figures/Brunskog/Fig-7-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-7-brunskog_miyakoshi.jpg
     caption: "Tobacco jar. Urushi on a wooden base, metal, 7 x 8.5 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0008 (Riksmuseum inv. No. R.M. 7). https://www.etnografiskamuseet.se/en/, image source: Carlotta."
     credit: 
     alt: "Cylindrical, lidded, black-coated jar with a fillet-shaped rim, on the outside decorated in gold hira-makie depicting pines. Lined inside with metal."
 
   - id: "2-8"
     label: "Fig. 8"
-    src: figures/Brunskog/Fig-8-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-8-brunskog_miyakoshi.jpg
     caption: "Box, ori. Transparent urushi on wood, partly red-coated with urushi, c. 6 x 12 x 24 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0013. https://www.etnografiskamuseet.se/en/, image source: Carlotta."
     credit: 
     alt: "Rectangular box with deeply overlapping lid. The lid has scalloped cutouts on the long sides and is partly red-coated (bengara) with urushi."
 
   - id: "2-9"
     label: "Fig. 9"
-    src: figures/Brunskog/Fig-9-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-9-brunskog_miyakoshi.jpg
     caption: "Barber plate with tasseled cord. Urushi on a wooden base, silk, 5.7 x 24.2 cm, pre-1776. Museum of Ethnography inv No. 1874-01-0014 (Riksmuseum inv. No. R.M. 13a), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
     credit: 
     alt: "Shallow, round shaving basin with a semicircular cutout on its rim and a plaited cord with tassel on the opposite side. Decorated with gold hira-makie on red (bengara) ground depicting a flying phoenix and maple foliage. The sample position for analyses is marked with a yellow triangle."
 
   - id: "2-10"
     label: "Fig. 10"
-    src: figures/Brunskog/Fig-10-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-10-brunskog_miyakoshi.jpg
     caption: "Barber plate with tasseled cord. Urushi on a wooden base, silk, 6 x 26 cm, pre-1776. Museum of Ethnography inv No. 1874-01-0015 (Riksmuseum inv. No. R.M. 13b), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
     credit: 
     alt: "Shallow round shaving basin with a semicircular cutout on its rim and a plaited cord with tassel on the opposite side. Decorated with gold hira-makie on red (bengara) ground depicting autumn plant foliage."
 
   - id: "2-11"
     label: "Fig. 11"
-    src: figures/Brunskog/Fig-11-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-11-brunskog_miyakoshi.jpg
     caption: "Tobacco pipe, kiseru, with sleeve and tobacco pouch. Transparent red urushi on bamboo, metal, textile, silk, 0.5 x 28.5 cm, pre-1776. Museum of Ethnography inv. Nos. 1874-01-0052 and 1874-01-0023 (Riksmuseum inv. Nos. R.M. 43 and R.M. 19), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
     credit: 
     alt: "Long smoking pipe of red-coated bamboo with metal fittings in both ends."
 
   - id: "2-12"
     label: "Fig. 12"
-    src: figures/Brunskog/Fig-12-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-12-brunskog_miyakoshi.jpg
     caption: "Case and barber knife. Wiped urushi on wood, steel, 2.8 x 4.5 x 24 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0024 (Riksmuseum inv. No. R.M. 20), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
     credit: 
     alt: "Foldable case for two barber knives, made of an unidentified wood species and possibly wiped with urushi."
 
   - id: "2-13"
     label: "Fig. 13"
-    src: figures/Brunskog/Fig-13-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-13-brunskog_miyakoshi.jpg
     caption: "Brush, hake. Wood, hair. Unidentified wood species, probably human (female) hair, 2 x 15.5 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0025 (Riksmuseum inv. No. R.M. 22), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
     alt: "Flat brush cut at an angle at the hair, for application of urushi."
 
   - id: "2-14"
     label: "Fig. 14"
-    src: figures/Brunskog/Fig-14-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-14-brunskog_miyakoshi.jpg
     caption: "Awl, kiri. Urushi on a wooden base, ivory, steel, 14 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0027 (Riksmuseum inv. No 23), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
     credit: 
     alt: "Piercing tool of steel with handle and cap of urushi-coated wood with makie decorations and ivory trimmings."
 
   - id: "2-15"
     label: "Fig. 15"
-    src: figures/Brunskog/Fig-15-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-15-brunskog_miyakoshi.jpg
     caption: " Two balances in their cases. Transparent urushi on wood, and bamboo, bone, metal, silk, 6 x 28.5 cm (top) and 2.6 x 6 x 31.5 cm (below), pre-1776. Museum of Ethnography inv. No. 1874-01-0037 (Riksmuseum inv. No. R.M. 31) (top) and Museum of Ethnography inv. No. 1874-01-0101 (Riksmuseum inv. No. 107) (bottom), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
     credit: 
     alt: "Violin-shaped cases of transparently urushi-coated wood and bamboo for steelyard balances made of yellow metal plates, bone scales, metal sliding counterweights, and silk yarn and suspension strings."
 
   - id: "2-16"
     label: "Fig. 16"
-    src: figures/Brunskog/Fig-16-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-16-brunskog_miyakoshi.jpg
     caption: "Candle, warusoku. Wax, Japan wax, 2 x 15 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0048 (Riksmuseum inv. No. R.M. 39), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
     credit: 
     alt: "Traditional candle probably made from nuts of the wax tree (haze)."
 
   - id: "2-17"
     label: "Fig. 17"
-    src: figures/Brunskog/Fig-17-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-17-brunskog_miyakoshi.jpg
     caption: "A set of miniatures. Partly wiped, transparent, and opaque urushi on wood, 0.2 – 1.2 cm, pre-1776. Museum of Ethnography inv. No 1874-01-0067 (Riksmuseum inv. No R.M. 54), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
     credit: 
     alt: "Ten turned miniatures including: a cockware or sake pot? (kama? yu-oke?) 1 x 1 cm, a foot, stove, or burner 0.8 x 1.2 cm, two (sake? rice?) cups (sakazuki?) 0.3 x 0.7 cm and 0.4 x 0.7 cm, the latter with a red line around its body. Six, lidded, spherical containers-within-containers with fillet-shaped rims, in descending size 10-2 mm in diameter. The utensils might also be recognized as a toilet-set (watashikane-bako), for blackening of teeth including a kettle to heat the stain."
 
   - id: "2-18"
     label: "Fig. 18"
-    src: figures/Brunskog/Fig-18-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-18-brunskog_miyakoshi.jpg
     caption: "Casket, ke hako? Black and red urushi on a wooden base, gilded metal, 17.3 x 23 x 36 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0085 (Riksmuseum inv. No. R.M. 67), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
     credit: 
     alt: "Small chest for food, clothes, papers, or stationary. Details of the back (top right) and lid (bottom right). On exterior sides, black urushi with gold hira-makie on red (bengara) ground depicting pavilions, pine trees, and bamboo in a rocky landscape whereas the interior is monochrome in red urushi. The lid is convexly and concavely fillet-shaped along top edges decorated with paulownia foliage. The box has convex fillet at the corners. Hinges, keyhole fitting, and two handles of metal. The sample position for analyses is marked with a yellow triangle."
 
   - id: "2-19"
     label: "Fig. 19"
-    src: figures/Brunskog/Fig-19-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-19-brunskog_miyakoshi.jpg
     caption: "A pair of saucers. Urushi on a wooden base, each: 2.5 x 18 cm, pre-1776. Museum of Ethnography inv. No. 1874-01-0086A-B (Riksmuseum inv. No. R.M. 86), https://www.etnografiskamuseet.se/en/, image source: Carlotta."
     credit: 
     alt: "Round and shallow vessels for eating or drinking, decorated with floral design in gold togidashi makie. The sample position for analyses is marked with a yellow triangle and red arrow."
 
   - id: "2-20"
     label: "Fig. 20"
-    src: figures/Brunskog/Fig-20-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-20-brunskog_miyakoshi.jpg
     caption: "A pair of cases. Red and green urushi on a wooden base, each: c. 7 x 19 x c. 34.5 cm, pre-1776.    Museum of Ethnography inv. No. 1874-01-0099 (Riksmuseum inv. No. R.M. 99A) (top) and Museum of Ethnography inv. No. 1874-01-0100 (Riksmuseum inv. No. R.M. 89B) (bottom),  https://www.etnografiskamuseet.se/en/, image source: Carlotta."
     credit: 
     alt: " Flat, lidded, rectangular cases, outside monochrome red urushi with gold makie depicting a mirrored motif with flowers in a vase and a coal burner framed with gold and silver lines. One case also with Japanese kanji scripts, the other with a flying bird. Inside stamped on the monochrome green urushi surface."
 
   - id: "2-22"
     label: "Fig. 22"
-    src: figures/Brunskog/Fig-21-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-21-brunskog_miyakoshi.jpg
     caption: "Plates 1 and 12 in **Nihon sankai meibutsu zue** (1754), vol. 3, depict an urushi workshop (left) and sap harvest (right). 16 x 22.5 cm. Uppsala University Library, https://www.alvin- portal.org, alvin-record: 91821."
     credit: 
     alt: "Japanese book with woodcut prints illustrating crafts and manufacture along with captions describing essential characteristics."
 
   - id: "2-21"
     label: "Fig. 21"
-    src: figures/Brunskog/Fig-22-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-22-brunskog_miyakoshi.jpg
     caption: "Postage stamp: polychrome steel engraving on paper. Svenolov Ehrén, designer; Czeslaw Slania, engraver, 1973. Postmuseum, https://digitaltmuseum.se/021026478706/frimarke."
     credit: 
     alt: "Carl Peter Thunberg's portrait is depicted in the foreground with peonies and a Japanese setting."
 
   - id: "2-23"
     label: "Fig. 23"
-    src: figures/Brunskog/Fig-23-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-23-brunskog_miyakoshi.jpg
     caption: "City map. Woodcut print on paper, 66 x 90 cm, Edo period c. 1772─ c. 1776. Uppsala University Library, https://www.alvin-portal.org, alvin-record: 91727."
     credit: 
     alt: "A Japanese map of Nagasaki city where north is to the right and the fan-shaped island Deshima (Dejima) in the middle. In the harbor, four large vessels from left to right, a Dutch, Chinese, Dutch, and Scandinavian ship. Thunberg’s notes in red pencil, similar to the notes in his Japanese books."
 
   - id: "2-24"
     label: "Fig. 24"
-    src: figures/Brunskog/Fig-24-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-24-brunskog_miyakoshi.jpg
     caption: " Map. Copper engraving, print on paper, polychrome, coloured by hand, 49 x 56.7 cm, c. 1720─1730. https://inter-antiquariaat.nl."
     credit: 
     alt: "Map of Japan (cropped) based on Engelbert Kaemphe's sketches, showing the shogunal road Tōkaidō, between Kyoto and Tokyo, one of the five main feudal roads Japan, map, Red dot = start and endpoint for Thunberg´s journey; blue dot = start and endpoint for the sea crossing; yellow dot = places noted in Resa."
 
   - id: "2-25"
     label: "Fig. 25"
-    src: figures/Brunskog/Fig-25-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-25-brunskog_miyakoshi.jpg
     caption: "Painting by Kawahara Keiga  川原慶賀 (1786─1860?) , polychrome watercolour on paper, late Edo-period 1823─1829. en.wikipedia.org, accessed January 29, 2022."
     credit: 
     alt: " Image depicting three men, two women, and a child (Philipp von Siebold with his Japanese lover Kusumoto Otaki 楠本滝 and baby-daughter Kusumoto Ine, together with Dutch personnel and Japanese woman) standing on a roof in Dejima, looking south to the Bay of Nagasaki, watching rowing boats and observing with a telescope an incoming towed Dutch sailing ship. The mountains of south-west Kyūshū at the horizon. "
 
   - id: "2-26"
     label: "Fig. 26"
-    src: figures/Brunskog/Fig-26-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-26-brunskog_miyakoshi.jpg
     caption: "Keisuke Ito's translation of **Flora iaponica**, woodcut print on paper, page 35, 18 x 26 cm, 1829. Uppsala University Library, https://www.alvin-portal.org, alvin-record: 153420."
     credit: 
     alt: "Japanese book with woodcut prints illustrating crafts and manufacture along with captions describing essential characteristics. The third and forth entries from the left list the two lacquer trees Rhus vernix and R. succedaneum, with the kanji script for urushi marked with red circles."
 
   - id: "2-27"
     label: "Fig. 27"
-    src: figures/Brunskog/Fig-27-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-27-brunskog_miyakoshi.jpg
     caption: "Specimens of **Rhus succedanea** L. (left) and **Rhus vernix** L. (right). Herbarium, Uppsala (UPS), catalogued UPS-THUNB nos. 7372 and 7384. Museum of Evolution. Image source: UPS catalogue."
     credit: 
     alt: "Two pressed lacquer tree twigs with leaves, flowers, and nuts, attached to paper with handwritten notes."
 
   - id: "2-28"
     label: "Fig. 28"
-    src: figures/Brunskog/Fig-28-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-28-brunskog_miyakoshi.jpg
     caption: "Sample 4 from the headrest (Fig 3) (top) captured under the microscope: surface (left) and underside (right). The cross-section (bottom) is captured in different light conditions: visible reflected and transmitted (left) and polarised reflected and transmitted (right). The identified coating layers are marked a–d from the surface and downwards. A black triangle marks the coating surface."
     credit: 
     alt: ""
 
   - id: "2-29"
     label: "Fig. 29"
-    src: figures/Brunskog/Fig-29-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-29-brunskog_miyakoshi.jpg
     caption: "Sample 14 from the barber plate (Fig. 9) captured under the microscope: surface (left) and underside (right). Bottom: The cross-section is captured in different light conditions: visible reflected and transmitted (left), and polarised reflected and transmitted (right). The identified coating layers are marked a–b from the surface and downwards."
     credit: 
     alt: ""
 
   - id: "2-30"
     label: "Fig. 30"
-    src: figures/Brunskog/Fig-30-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-30-brunskog_miyakoshi.jpg
     caption: "Top: Sample 85 from the casket (Fig. 18) captured under the microscope: surface (left) and underside (right). Bottom: The cross-section is captured in visible reflected and transmitted (left), and polarised reflected and transmitted (right). The identified coating layers are marked a–c from the surface and downwards. A black triangle marks the coating surface."
     credit: 
     alt: ""
 
   - id: "2-31"
     label: "Fig. 31"
-    src: figures/Brunskog/Fig-31-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-31-brunskog_miyakoshi.jpg
     caption: "Top: Sample 86B from the saucer (Fig. 19) was captured under the microscope: surface (left) and underside (right). Bottom: The cross-section is captured in visible reflected and transmitted (left) and polarised reflected and transmitted (right). The identified coating layers are marked a–d from the surface and downwards. A black triangle marks the coating surface."
     credit: 
     alt: ""
 
   - id: "2-32"
     label: "Fig. 32"
-    src: figures/Brunskog/Fig-32-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-32-brunskog_miyakoshi.jpg
     caption: "EIC at m/z 202 data of sample 14 in which fluoranthene was detected."
     credit: 
     alt: ""
 
   - id: "2-33"
     label: "Fig. 33"
-    src: figures/Brunskog/Fig-33-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-33-brunskog_miyakoshi.jpg
     caption: "EIC at m/z 108 data of sample 14. The simultaneous high peaks C7 and C15 are characteristic pyrolysates of urushiol. The triangle marks the position of other peaks associated with the pyrolysates of sap from **Toxicodendron vernicifluum**."
     credit: 
     alt: ""
 
   - id: "2-34"
     label: "Fig. 34"
-    src: figures/Brunskog/Fig-34-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-34-brunskog_miyakoshi.jpg
     caption: "EIC at m/z 60 data of sample 86B in which palmitic and stearic acids were detected."
     alt: 
 
   - id: "2-35"
     label: "Fig. 35"
-    src: figures/Brunskog/Fig-35-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-35-brunskog_miyakoshi.jpg
     caption: "XRF data of sample 85 in which iron (Fe) and zinc (Zn) were detected."
     credit: 
     alt: ""
 
   - id: "2-36"
     label: "Fig. 36"
-    src: figures/Brunskog/Fig-36-Brunskog_Miyakoshi.jpg
+    src: figures/Brunskog/fig-36-brunskog_miyakoshi.jpg
     caption: "Detail of the barber plate (Fig. 9) showing a red-tinged ground under the black finish in the same area that was subjected to sampling. (a) and (b) refer to the layers marked in Fig. 29."
     alt: 
 
   - id: "2-37"
     label: "Table 1"
-    src: figures/Brunskog/Table_1.jpg
+    src: figures/Brunskog/table_1.jpg
     caption: "The list of artefacts, natural specimens, and documents in the Thunberg legacy with an anticipated relevance for the Japanese urushi craft, including data excerpted from catalogues and inventories. Legend: * artefact subjected to scientific analysis. Owner acronyms: MEv Museum of Evolution; UUBA Uppsala University Library *ALVIN* portal; EM Museum of Ethnography."
     alt: "table, list of artefacts, natural specimens, documents, categories, excerpted catalogue data."
 
   - id: "2-38"
     label: "Table 2"
-    src: figures/Brunskog/Table_2.jpg
+    src: figures/Brunskog/table_2.jpg
     caption: "Included artefacts in the scientific examination, sample location and type(s) of analysis. Legend: DP digital photography; OE ocular examination; OM optical microscopy; Py-GC-MS pyrolyse gas chromatography-mass spectroscopy; XRF X-ray fluorescence."
     alt: "table, list of artefacts, scientific, analyses, sample, location."
 
   - id: "2-39"
     label: "Table 3"
-    src: figures/Brunskog/Table_3.jpg
+    src: figures/Brunskog/table_3.jpg
     caption: "The interpretation of the coating structure based on the detected substances and observation of sections."
     alt: "table, interpretation, detected, substances, coating, structure, cross section"
 
@@ -378,7 +378,7 @@ figure_list:
 
   - id: "3-3.2"
     label: "Fig. 3B"
-    src: figures/jasperse/fig-3.2-jasperse_et_al.jpg
+    src: figures/jasperse/fig-3-2-jasperse_et_al.jpg
     caption: "Reverse."
     alt: "Reverse of the wax seal of King Henry III of England showing the king depicted as a royal warrior, riding his warhorse and brandishing his sword in one hand while holding a heraldic shield of the three leopards of England in the other."
 
@@ -390,43 +390,43 @@ figure_list:
 
   - id: "3-4.2"
     label: "Fig. 4B"
-    src: figures/jasperse/fig-4.2-jasperse_et_al.jpg
+    src: figures/jasperse/fig-4-2-jasperse_et_al.jpg
     caption: "Back."
     alt: "Back of the red-pinkish silk seal bag where tears and losses are visible in the white weft."
 
   - id: "3-4.3"
     label: "Fig. 4C"
-    src: figures/jasperse/fig-4.3-jasperse_et_al.jpg
+    src: figures/jasperse/fig-4-3-jasperse_et_al.jpg
     caption: "Microphotograph of the area of damage and loss of the white weft on the back."
     alt: "Microscopy detail of the back of the red-pinkish silk seal bag showing the damage and loss of the white weft at higher magnification."
 
   - id: "3-4.4"
     label: "Fig. 4D"
-    src: figures/jasperse/fig-4.4-jasperse_et_al.jpg
+    src: figures/jasperse/fig-4-4-jasperse_et_al.jpg
     caption: "Detail of staining in the lining."
     alt: "Partly opened seal wrapping revealing the damaged wax seal and staining on the inside of the lining."
 
   - id: "3-4.5"
     label: "Fig. 4E"
-    src: figures/jasperse/fig-4.5-jasperse_et_al.jpg
+    src: figures/jasperse/fig-4-5-jasperse_et_al.jpg
     caption: "Microphotograph of the red band and the green plait, showing silver leaf loss."
     alt: "Microscopy detail showing the red-pinkish fabric’s selvedges, composed of three linen cords in plain weave or tabby."
 
   - id: "3-4.6"
     label: "Fig. 4F"
-    src: figures/jasperse/fig-4.6-jasperse_et_al.jpg
+    src: figures/jasperse/fig-4-6-jasperse_et_al.jpg
     caption: "Remnants of gilding."
     alt: "Microscopy detail of the green and silver plait, with much of the silver lost or tarnished (now grey), but also showing some traces of gilding."
 
   - id: "3-4.7"
     label: "Fig. 4G"
-    src: figures/jasperse/fig-4.7-jasperse_et_al.jpg
+    src: figures/jasperse/fig-4-7-jasperse_et_al.jpg
     caption: "Detail of the red band framing the bag on the outside."
     alt: "Red tablet woven band connecting the outer and inner layer of the seal bag. Its colour matches the red silk."
 
   - id: "3-4.8"
     label: "Fig. 4H"
-    src: figures/jasperse/fig-4.8-jasperse_et_al.jpg
+    src: figures/jasperse/fig-4-8-jasperse_et_al.jpg
     caption: "Inside, showing the difference in colour due to fading."
     alt: "4H Inside of the red-pinkish seal wrapper where the colours red and green are more intense and less faded."
 
@@ -444,13 +444,13 @@ figure_list:
 
   - id: "3-6.2"
     label: "Fig. 6B"
-    src: figures/jasperse/fig-6.2-jasperse_et_al.jpg
+    src: figures/jasperse/fig-6-2-jasperse_et_al.jpg
     caption: "Microphotograph of the plain lining."
     alt: "Microscopy detail of the lining of the seal bag made of plain linen tabby."
 
   - id: "3-6.3"
     label: "Fig. 6C"
-    src: figures/jasperse/fig-6.3-jasperse_et_al.jpg
+    src: figures/jasperse/fig-6-3-jasperse_et_al.jpg
     caption: "Microphotograph of the yellow padding. Lewisham charter, The National Archives, Kew, E 42/524."
     alt: "Microscopy detail of the yellow felt padding, showing the hair fibres of the material."
 
@@ -462,13 +462,13 @@ figure_list:
 
   - id: "3-7.2"
     label: "Fig. 7"
-    src: figures/jasperse/fig-7.2-jasperse_et_al.jpg
+    src: figures/jasperse/fig-7-2-jasperse_et_al.jpg
     caption: "Back."
     alt: "Back of the Holy Trinity pouch made of a multicoloured striped silk cloth of Arista."
 
   - id: "3-7.3"
     label: "Fig. 7"
-    src: figures/jasperse/fig-7.3-jasperse_et_al.jpg
+    src: figures/jasperse/fig-7-3-jasperse_et_al.jpg
     caption: "Detail of the herringbone weave of the cloth of arista (the image has been rotated to show the direction of warp and weft)."
     alt: "Front of the Holy Trinity pouch rotated showing the weft of the fabric creating horizontal, parallel bands with a herringbone patterned weave (cloth of Arista)."
 
@@ -480,19 +480,19 @@ figure_list:
 
   - id: "3-8.2"
     label: "Fig. 8B"
-    src: figures/jasperse/fig-8.2-jasperse_et_al.jpg
+    src: figures/jasperse/fig-8-2-jasperse_et_al.jpg
     caption: "Untidy stitching."
     alt: "Close-up detail of the inside of the bag where an undyed thread was sewn straight across the fabric."
 
   - id: "3-8.3"
     label: "Fig. 8C"
-    src: figures/jasperse/fig-8.3-jasperse_et_al.jpg
+    src: figures/jasperse/fig-8-3-jasperse_et_al.jpg
     caption: "Untidy stitching."
     alt: "Close-up detail of a band with orange lozenge medallions on a dark blue background, showing an undyed thread sewn across the fabric."
 
   - id: "3-8.4"
     label: "Fig. 8D"
-    src: figures/jasperse/fig-8.4-jasperse_et_al.jpg
+    src: figures/jasperse/fig-8-4-jasperse_et_al.jpg
     caption: "Damaged area showing remnants of a coating inside the cloth of arista."
     alt: "Close-up detail showing the thin and fragile fabric of the seal bag, with the remains of a semi-transparent yellow coating that had been applied to support the cloth."
 
@@ -504,7 +504,7 @@ figure_list:
 
   - id: "3-9.2"
     label: "Fig. 9E"
-    src: figures/jasperse/fig-9.2-jasperse_et_al.jpg
+    src: figures/jasperse/fig-9-2-jasperse_et_al.jpg
     caption: "(E) Fibre optics reflectance spectroscopy (FORS) spectra showing the absorption band of indigotin in the green thread (660 nm)."
     alt: "Graph showing Reflectance (0-1) in the y axis and wavelength (350-2500 nm) in the x axis, with 7 line-plots showing the reflectance spectra of different coloured areas in the Lewisham seal bag."
 
@@ -516,25 +516,25 @@ figure_list:
 
   - id: "3-10.2"
     label: "Fig. 10B"
-    src: figures/jasperse/fig-10.2-jasperse_et_al.jpg
+    src: figures/jasperse/fig-10-2-jasperse_et_al.jpg
     caption: "UVL image showing strong yellow fluorescence of the yellow stripes, slight yellow fluorescence in the green stripes and bluish fluorescence in the white stripes."
     alt: "Close-up detail of the textile seal bag of the Holy Trinity charter showing fluorescence of the lighter stripes under UV."
 
   - id: "3-10.3"
     label: "Fig. 10C"
-    src: figures/jasperse/fig-10.3-jasperse_et_al.jpg
+    src: figures/jasperse/fig-10-3-jasperse_et_al.jpg
     caption: "UV microphotograph showing a detail of the bluish fluorescence of the white silk."
     alt: "Microscopy detail of the textile seal bag of the Holy Trinity charter showing fluorescence in the white silk under UV."
 
   - id: "3-10.4"
     label: "Fig. 10D"
-    src: figures/jasperse/fig-10.4-jasperse_et_al.jpg
+    src: figures/jasperse/fig-10-4-jasperse_et_al.jpg
     caption: "Microphotograph showing the silver thread combined with the yellow weft."
     alt: "Microscopy detail of the textile seal bag of the Holy Trinity charter showing a weft of silver threads and yellow silk and a beige warp."
 
   - id: "3-10.5"
     label: "Fig. 10E"
-    src: figures/jasperse/fig-10.5-jasperse_et_al.jpg
+    src: figures/jasperse/fig-10-5-jasperse_et_al.jpg
     caption: "Microphotograph of the beige warp."
     alt: "Microscopy detail of the textile seal bag of the Holy Trinity charter showing a weft of green and white silk and a beige warp."
 
@@ -564,85 +564,85 @@ figure_list:
 
   - id: "4-2"
     label: "Fig. 2"
-    src: figures/Meredith/fig-2-Meredith_et_al.jpg
+    src: figures/Meredith/fig-2-meredith_et_al.jpg
     caption: "Yale Center for British Art (YCBA) Conservator Jessica David presenting in the YCBA Conservation Studio and pointing to a highly magnified cross-section of layers of oil paint. Andrew Hershberger, in the gray mask, is seated to the right. Photo: Jessica Smolinski."
     alt: "YCBA office interior showing seated participants listening to a STITAH leader pointing to a close-up photograph on a flat screen TV."
 
   - id: "4-3"
     label: "Fig. 3"
-    src: figures/Meredith/fig-3-Meredith_et_al.jpg
+    src: figures/Meredith/fig-3-meredith_et_al.jpg
     caption: "YUAG Conservator Irma Passeri (right) explaining different gold gilding techniques used in paintings in the YUAG collection. Robert Hamilton is at center. Photo: Andrew Hershberger."
     alt: "Group of STITAH participants and leaders looking down at a Medieval painting enclosed inside a golden Gothic-arched frame in YUAG."
 
   - id: "4-4"
     label: "Fig. 4"
-    src: figures/Meredith/fig-4-Meredith_et_al.jpg
+    src: figures/Meredith/fig-4-meredith_et_al.jpg
     caption: "(Left to right) Jennifer Cadero-Gillette, Janet Schrenk, and Hallie G. Meredith at Yale’s Institute for the Preservation of Cultural Heritage (IPCH) Photo: Jessica Smolinski."
     alt: "Interior view of Yale’s IPCH with three STITAH participants examining a standing carved wood African figural sculpture on a table."
 
   - id: "4-5"
     label: "Fig. 5"
-    src: figures/Meredith/fig-5-Meredith_et_al.jpg
+    src: figures/Meredith/fig-5-meredith_et_al.jpg
     caption: "(Left to right) Michael Yonan, Robert Hamilton, and Hallie G. Meredith at YUAG. Photo: Jessica Smolinski."
     alt: " Interior of YUAG study room showing many standing STITAH participants including one examining two transparent images."
 
   - id: "4-6"
     label: "Fig. 6"
-    src: figures/Meredith/fig-6-Meredith_et_al.jpg
+    src: figures/Meredith/fig-6-meredith_et_al.jpg
     caption: "Sir Joshua Reynolds (English, 1723-1792), *Mrs. Robinson*, ca. 1784. Oil on canvas, unframed: 36 7/8 × 28 1/4 inches (93.7 × 71.8 cm). [Yale Center for British Art, Paul Mellon Collection, B1981.25.520](https://collections.britishart.yale.edu/catalog/tms:1004)."
     alt: "Oil painted half-length profile portrait of woman with long gray curly hair and a gray-green dress before a loosely sketched background."
 
   - id: "4-7"
     label: "Fig. 7"
-    src: figures/Meredith/fig-7-Meredith_et_al.jpg
+    src: figures/Meredith/fig-7-meredith_et_al.jpg
     caption: "Irma Passeri (standing) assisting all STITAH participants, including Andrew Hershberger (left), inside the YUAG. Photo: Jessica Smolinski."
     alt: "YUAG classroom view of one standing STITAH leader assisting seated participants at tables with techniques such as cartoon drawing transfers."
 
   - id: "4-8"
     label: "Fig. 8"
-    src: figures/Meredith/fig-8-Meredith_et_al.jpg
+    src: figures/Meredith/fig-8-meredith_et_al.jpg
     caption: "Andrew Hershberger presenting in the YCBA galleries on Sir Joshua Reynolds’s *Mrs. Robinson*, ca. 1784 (center). At right are some members of the Reynolds group including Robert Hamilton (closest to camera). Photo: Jessica Smolinski."
     alt: "One STITAH participant standing and presenting inside the YCBA next to the original painting in Fig. 6 with other participants listening."
 
   - id: "4-9"
     label: "Fig. 9"
-    src: figures/Meredith/fig-9-Meredith_et_al.jpg
+    src: figures/Meredith/fig-9-meredith_et_al.jpg
     caption: "X-radiograph of *Mrs. Robinson* (Fig. 6). X-radiograph made by the YCBA 20 May 2011. Note the upside-down face at the bottom."
     alt: "Black and white x-radiograph of the painting in Fig. 6 showing the earlier and now upside-down portrait in the composition's lower third."
 
   - id: "4-10"
     label: "Fig. 10"
-    src: figures/Meredith/fig-10-Meredith_et_al.jpg
+    src: figures/Meredith/fig-10-meredith_et_al.jpg
     caption: "Infrared reflectogram of *Mrs. Robinson* (Fig. 6) made by the YCBA in 2014. Note that the upside-down head now has no identifiable facial features, and the entire canvas seems not to show any underdrawing."
     alt: 
 
   - id: "4-11"
     label: "Fig. 11"
-    src: figures/Meredith/fig-11-Meredith_et_al.jpg
+    src: figures/Meredith/fig-11-meredith_et_al.jpg
     caption: "Demonstration of pigment grinding with walnut oil, a historical method of making paint. (Fig. 11) Photo: Andrew Hershberger."
     alt: 
 
   - id: "4-12"
     label: "Fig. 12"
-    src: figures/Meredith/fig-12-Meredith_et_al.jpg
+    src: figures/Meredith/fig-12-meredith_et_al.jpg
     caption: "Demonstration of pigment grinding with walnut oil, a historical method of making paint. (Fig. 12) Photo: Robert Hamilton."
     alt: 
 
   - id: "4-13"
     label: "Fig. 13"
-    src: figures/Meredith/fig-13-Meredith_et_al.jpg
+    src: figures/Meredith/fig-13-meredith_et_al.jpg
     caption: 
     alt: 
 
   - id: "4-14"
     label: "Fig. 14"
-    src: figures/Meredith/fig-14-Meredith_et_al.jpg
+    src: figures/Meredith/fig-14-meredith_et_al.jpg
     caption: 
     alt: 
 
   - id: "4-15"
     label: "Fig. 15"
-    src: figures/Meredith/fig-15-Meredith_et_al.jpg
+    src: figures/Meredith/fig-15-meredith_et_al.jpg
     caption: 
     alt: 
 
@@ -660,7 +660,7 @@ figure_list:
 
   - id: "5-2b"
     label: "Fig. 2B"
-    src: figures/Grison/fig-2.2-grison_et_al.jpg
+    src: figures/Grison/fig-2-2-grison_et_al.jpg
     caption: "Verso."
     alt: "An artwork in pastel, watercolour and gouache, with a monk in profile holding a white lily, a golden halo around his head"
 
@@ -690,7 +690,7 @@ figure_list:
   
   - id: "5-6b"
     label: "Fig. 6b"
-    src: figures/Grison/fig-6.2-grison_et_al.jpg
+    src: figures/Grison/fig-6-2-grison_et_al.jpg
     caption: "Detail of the sleeve with flowing lines carved into wet paint. Both photographed in raking light from a 270॰ angle."
     alt: "Two photographs of details of the artwork taken in raking light, showing of relief and texture in the paint"
 
@@ -708,7 +708,7 @@ figure_list:
 
   - id: "5-8b"
     label: "Fig. 8B"
-    src: figures/Grison/fig-8.2-grison_et_al.jpg
+    src: figures/Grison/fig-8-2-grison_et_al.jpg
     caption: "Microphotographs (Hirox, with the x100 objective) of two lacunas situated in the central lily."
     alt: "Two photographs taken with a microscope showing traces of pigments visible in areas where the paint has flaked off"
 
@@ -726,7 +726,7 @@ figure_list:
 
   - id: "5-10b"
     label: "Fig. 10B"
-    src: figures/Grison/fig-10.2-grison_et_al.jpg
+    src: figures/Grison/fig-10-2-grison_et_al.jpg
     caption: "White-light Microdome captures revealing the incised lines; left, with colour information retained; right, normal map (i.e., topography) of the surface of the same area."
     alt: "A computed image taken with a photometric stereo imaging device showing faint details of the work's relief, such as incisions."
 
@@ -750,13 +750,13 @@ figure_list:
 
   - id: "5-13b"
     label: "Fig. 13B"
-    src: figures/Grison/fig-13.2-grison_et_al.jpg
+    src: figures/Grison/fig-13-2-grison_et_al.jpg
     caption: "Three details of the head and hand showing scratched-out lines in *Vision de Moine*."
     alt: "Three details of the monk's head and hand showing lines the artist scratched out in the pastel layer to create contrasts and relief"
 
   - id: "5-13c"
     label: "Fig. 13"
-    src: figures/Grison/fig-13.3-grison_et_al.jpg
+    src: figures/Grison/fig-13-3-grison_et_al.jpg
     caption: "Three details of the head and hand showing scratched-out lines in *Vision de Moine*."
     alt: "Three details of the monk's head and hand showing lines the artist scratched out in the pastel layer to create contrasts and relief"
 
@@ -786,397 +786,421 @@ figure_list:
 
   - id: "5-18"
     label: "Interactive figure I"
-    src: figures/Grison/Interactive_viewer_I.png
+    src: figures/Grison/interactive_viewer_1.png
     caption: "[Curtain viewer of the Pb-L map and a raking-light image from a 0॰ angle.](https://images.erdmann.io/viewer.html?mode=curtain&prefix=M-Museum-Leuven/G-968-D/&pointer=0.362,0.385&r=0.3835,0.3272,0.6350,0.2985&i=G-968-D_VIS-RAK-000_1200-dpi%5Bl=RAK-000%5D,G-968-D_MAXRF_Pb_L_100-um%5Bl=Pb_L%5D)" 
     alt: "A dynamic visualisation overlaying the distribution map of the lead element and a raking light image of the artwork."
 
   - id: "5-19"
     label: "Interactive figure II"
-    src: figures/Grison/Interactive_viewer_II.png
+    src: figures/Grison/interactive_viewer_2.png
     caption: "[Curtain Viewer of the Hg-L and Pb-L maps.](https://images.erdmann.io/viewer.html?mode=curtain&prefix=M-Museum-Leuven/G-968-D/&pointer=0.536,0.573&r=0.1651,0.2089,0.9297,0.4370&i=G-968-D_MAXRF_Pb_L_100-um%5Bl=Pb_L%5D,G-968-D_MAXRF_Hg_L_100-um%5Bl=Hg_L%5D)" 
     alt: "A dynamic visualisation overlaying the distribution maps of the mercury and lead elements in the halo, showing underdrawing"
 
   - id: "5-20"
     label: "Interactive figure III"
-    src: figures/Grison/Interactive_viewer_III.png
+    src: figures/Grison/interactive_viewer_3.png
     caption: "[Visible-light image and Pb-L map viewed in Fading Mode.](https://images.erdmann.io/viewer.html?mode=fade&prefix=M-Museum-Leuven/G-968-D/&pointer=0.462,0.512&r=0.4386,0.7617,0.5165,0.2428&i=G-968-D_MAXRF_Pb_L_100-um%5Bo=0.6983;l=Pb_L%5D,G-968-D_VIS_1200-dpi%5Bo=0.3017;l=VIS%5D)" 
     alt: "A dynamic visualisation overlaying the distribution map of the lead element and a visible light image of the chin area"
 
   - id: "5-21"
     label: "Interactive figure IV"
-    src: figures/Grison/Interactive_viewer_IV.png
+    src: figures/Grison/interactive_viewer_4.png
     caption: "[Sync View of the Zn-K and Ca-K maps.](https://images.erdmann.io/viewer.html?mode=sync&prefix=M-Museum-Leuven/G-968-D/&pointer=0.434,0.623&r=0.4596,0.2994,0.3842,0.3612&i=G-968-D_MAXRF_Zn_K_100-um%5Bl=Zn_K%5D,G-968-D_MAXRF_Ca_K_100-um%5Bl=Ca_K%5D)"
     alt: "A dynamic visualisation overlaying the distribution maps of the zinc and calcium elements in the halo, showing an underlayer"
 
   - id: "5-22"
     label: "Interactive figure V"
-    src: figures/Grison/Interactive_viewer_V.png
+    src: figures/Grison/interactive_viewer_5.png
     caption: "[Curtain Viewer of the visible-light image and Zn-K map.](https://images.erdmann.io/viewer.html?mode=curtain&prefix=M-Museum-Leuven/G-968-D/&pointer=0.552,0.323&i=G-968-D_MAXRF_Zn_K_100-um%5Br=0.3723,0.3822,0.5764,0.2709;l=Zn_K%5D,G-968-D_VIS_1200-dpi%5Br=0.3724,0.3822,0.5764,0.2709;l=VIS%5D)" 
     alt: "A dynamic visualisation overlaying the distribution map of the zinc element and a visible light image of the eye area"
 
   - id: "5-23"
     label: "Interactive figure VI"
-    src: figures/Grison/Interactive_viewer_VI.png
+    src: figures/Grison/interactive_viewer_6.png
     caption: "[Curtain Viewer of the visible-light image and Cu-K map.](https://images.erdmann.io/viewer.html?mode=curtain&prefix=M-Museum-Leuven/G-968-D/&pointer=0.549,0.787&r=0.2456,0.4540,0.7684,0.3612&i=G-968-D_VIS_1200-dpi%5Bl=VIS%5D,G-968-D_MAXRF_Cu_K_100-um%5Bl=Cu_K%5D)" 
     alt: "A dynamic visualisation overlaying the distribution map of the copper element and a visible light image of the eye area"
 
   - id: "6-1a"
     label: "Fig. 1A"
-    src: figures/salinas-et-al/Fig-1.1-Rodriquez-Salinas_et_al.JPG
+    src: figures/salinas-et-al/fig-1-1-rodriquez-salinas_et_al.JPG
     caption: "Front view of dress K-98-3000."
     alt: ""
 
   - id: "6-1b"
     label: "Fig. 1B"
-    src: figures/salinas-et-al/Fig-1.2-Rodriquez-Salinas_et_al.JPG
+    src: figures/salinas-et-al/fig-1-2-rodriquez-salinas_et_al.JPG
     caption: "Detail view of dress K-98-3000."
     alt: ""
 
   - id: "6-1c"
     label: "Fig. 1C"
-    src: figures/salinas-et-al/Fig-1.3-Rodriquez-Salinas_et_al.jpg
+    src: figures/salinas-et-al/fig-1-3-rodriquez-salinas_et_al.jpg
     caption: "Detail view of dress K-98-3000, showing missing smock."
     alt: ""
 
   - id: "6-1d"
     label: "Fig. 1D"
-    src: figures/salinas-et-al/Fig-1.4-Rodriquez-Salinas_et_al.jpg
+    src: figures/salinas-et-al/fig-1-4-rodriquez-salinas_et_al.jpg
     caption: "Detail view of dress K-98-3000, showing characteristic interior brown stains associated with breastfeeding."
     alt: ""
 
   - id: "6-2a"
     label: "Fig. 2A"
-    src: figures/salinas-et-al/Fig-2.1-Rodriquez-Salinas_et_al.jpg
+    src: figures/salinas-et-al/fig-2-1-rodriquez-salinas_et_al.jpg
     caption: "Sample taken from the archives of Liberty Fabrics catalogues of Chefoo and Odori silks in characteristic pink-mauve colours similar to the one seen in the KMDH dress. Photo (c) Liberty Retail, 2023."
     alt: ""
 
   - id: "6-2b"
     label: "Fig. 2B"
-    src: figures/salinas-et-al/Fig-2.2-Rodriquez-Salinas_et_al.jpg
+    src: figures/salinas-et-al/fig-2-2-rodriquez-salinas_et_al.jpg
     caption: 
     alt: ""
 
   - id: "6-2c"
     label: "Fig. 2C"
-    src: figures/salinas-et-al/Fig-2.3-Rodriquez-Salinas_et_al.jpg
+    src: figures/salinas-et-al/fig-2-3-rodriquez-salinas_et_al.jpg
     caption: ""
     alt: ""
 
   - id: "6-2d"
     label: "Fig. 2D"
-    src: figures/salinas-et-al/Fig-2.4-Rodriquez-Salinas_et_al.jpg
+    src: figures/salinas-et-al/fig-2-4-rodriquez-salinas_et_al.jpg
     caption: 
     alt: ""
 
   - id: "6-3"
     label: "Fig. 3"
-    src: figures/salinas-et-al/Fig-3-Rodriquez-Salinas_et_al.jpg
+    src: figures/salinas-et-al/fig-3-rodriquez-salinas_et_al.jpg
     caption: "Four Liberty dresses and two reform dresses, highlighting the different typologies used for the house and the inspiration taken by the reform activists. Photo taken in 2011 during the exhibition *Fashion & Art* at KMDH. Left to right: Liberty (ca. 1908); Liberty (1911; collection of Centraal Museum Utrecht), Liberty (ca. 1910), Margaine-Lacroix (ca. 1900--1910); Leo Simonis, Arts & Modes (ca. 1910--15); Liberty & Co.? (ca. 1912). Photo: Alice de Groot."
     alt: ""
 
   - id: "6-4a"
     label: "Fig. 4A"
-    src: figures/salinas-et-al/Fig-4.1-Rodriquez-Salinas_et_al.jpg
+    src: figures/salinas-et-al/fig-4-1-rodriquez-salinas_et_al.jpg
     caption: "Rational dress, Palazzo Morando (SN 42, ca. 1908--9). © Comune di Milano. All rights reserved. Palazzo Morando/Costume Moda Immagine, Milan. Photo: Giulia Bellezza."
     alt: ""
 
   - id: "6-4b"
     label: "Fig. 4B"
-    src: figures/salinas-et-al/Fig-4.2-Rodriquez-Salinas_et_al.jpg
+    src: figures/salinas-et-al/fig-4-2-rodriquez-salinas_et_al.jpg
     caption: "KMDH dress K-32-1973 (ca. 1905--10). The two dresses not only share a similar design but also similar materials and trimmings. © Comune di Milano. All rights reserved. Palazzo Morando/Costume Moda Immagine, Milan. Photo: Giulia Bellezza."
     alt: ""
 
   - id: "6-5a"
     label: "Fig. 5A"
-    src: figures/salinas-et-al/Fig-5.1-Rodriquez-Salinas_et_al.jpg
+    src: figures/salinas-et-al/fig-5-1-rodriquez-salinas_et_al.jpg
     caption: "Liberty fashion illustration (KDMH, PRK-1000-1033) showing close similarities with the dress from this research, such as the sleeves, the smock work, and the neck. The pink dress was called \"Dorothy,\" an eighteenth-century-style house robe of Tyrian silk with smocking at the neck, waist, and sleeves. Both are From a Liberty catalogue first published in London in 1905."
     alt: ""
 
   - id: "6-5b"
     label: "Fig. 5B"
-    src: figures/salinas-et-al/Fig-5.2-Rodriquez-Salinas_et_al.jpg
+    src: figures/salinas-et-al/fig-5-2-rodriquez-salinas_et_al.jpg
     caption: "The light yellow dress was called \"Cecilia.\" Both are from a Liberty catalogue first published in London in 1905."
     alt: ""
 
   - id: "6-6a"
     label: "Fig. 6A"
-    src: figures/salinas-et-al/Fig-6.1-Rodriquez-Salinas_et_al.jpg
+    src: figures/salinas-et-al/fig-6-1-rodriquez-salinas_et_al.jpg
     caption: "Girl's dress (ca. 1897; KMDH, K 348-1981) worn by Henriette Kitty Wertheim (1892--1966), made with Liberty's velvet following the characteristic designs of Kate Greenaway."
     alt: ""
 
   - id: "6-6b"
     label: "Fig. 6B"
-    src: figures/salinas-et-al/Fig-6.2-Rodriquez-Salinas_et_al.jpg
+    src: figures/salinas-et-al/fig-6-2-rodriquez-salinas_et_al.jpg
     caption: "Detail of girl's dress (ca. 1897; KMDH, K 348-1981)."
     alt: ""
 
   - id: "6-6c"
     label: "Fig. 6C"
-    src: figures/salinas-et-al/Fig-6.3-Rodriquez-Salinas_et_al.jpg
+    src: figures/salinas-et-al/fig-6-3-rodriquez-salinas_et_al.jpg
     caption: "In this archival photograph, Henriette's sister (at the far right) wears a dress of the same style (unfortunately not preserved)."
     alt: ""
 
   - id: "6-7a"
     label: "Fig. 7A"
-    src: figures/salinas-et-al/Fig-7.1-Rodriquez-Salinas_et_al.jpg
+    src: figures/salinas-et-al/fig-7-1-rodriquez-salinas_et_al.jpg
     caption: "Detail of Liberty walking suit (blouse, skirt, jacket, and mittens; KMDH, K-161-1969)."
     alt: ""
 
   - id: "6-7b"
     label: "Fig. 7B"
-    src: figures/salinas-et-al/Fig-7.2-Rodriquez-Salinas_et_al.jpg
+    src: figures/salinas-et-al/fig-7-2-rodriquez-salinas_et_al.jpg
     caption: "Detail of Liberty walking suit (blouse, skirt, jacket, and mittens; KMDH, K-161-1969)."
     alt: ""
 
   - id: "6-7c"
     label: "Fig. 7C"
-    src: figures/salinas-et-al/Fig-7.3-Rodriquez-Salinas_et_al.JPG
+    src: figures/salinas-et-al/fig-7-3-rodriquez-salinas_et_al.JPG
     caption: "Dress K-98-3000 [Fig. 1]). Note the simplicity of the smock work compared to K-161-1969, as well as the absence of embroidered flower motifs and buttons."
     alt: ""
 
   - id: "6-7d"
     label: "Fig. 7D"
-    src: figures/salinas-et-al/Fig-7.4-Rodriquez-Salinas_et_al.JPG
+    src: figures/salinas-et-al/fig-7-4-rodriquez-salinas_et_al.JPG
     caption: "Dress K-98-3000 [Fig. 1]). Note the simplicity of the smock work compared to K-161-1969,  as well as the absence of embroidered flower motifs and buttons."
     alt: ""
 
   - id: "6-8a"
     label: "Fig. 8A"
-    src: figures/salinas-et-al/Fig-8.1-Rodriquez-Salinas_et_al.jpeg
+    src: figures/salinas-et-al/fig-8-1-rodriquez-salinas_et_al.jpeg
     caption: "Example of the use of Indonesian informal house garments. *Slaapbroek* and *baadje* worn by men; *kebaja* and *sarong* worn by women."
     alt: ""
 
   - id: "6-8b"
     label: "Fig. 8B"
-    src: figures/salinas-et-al/Fig-8.2-Rodriquez-Salinas_et_al.jpg
+    src: figures/salinas-et-al/fig-8-2-rodriquez-salinas_et_al.jpg
     caption: "Example of the use of Indonesian informal house garments. A Dutch woman in Batavia-Indonesia, dressed in *sarong* and *kebaja*. Photo by Hermann & Co., Kunstmuseum Collection."
     alt: ""
 
   - id: "6-8c"
     label: "Fig. 8C"
-    src: figures/salinas-et-al/Fig-8.3-Rodriquez-Salinas_et_al.jpg
+    src: figures/salinas-et-al/fig-8-3-rodriquez-salinas_et_al.jpg
     caption: "Self-portrait of the Dutch-Indonesian painter Jan Toorop wearing *slaapbroek* and *baadje*, seated among batiks and other fabrics in his atelier. Oil on canvas, 45 x 32.5 cm, Kunstmuseum Den Haag, SCH 1932-0026 (1880)."
     alt: ""
 
-  - id: "6-9"
-    label: "Fig. 9"
-    src: figures/salinas-et-al/Fig-9-Rodriquez-Salinas_et_al.JPG
-    caption: "Detail of the mechanical tulle application covering the original smock work on dress K-98-3000."
+  - id: "6-9a"
+    label: "Fig. 9A"
+    src: figures/salinas-et-al/fig-9-1-rodriquez-salinas_et_al.jpg
+    caption: "Photo of Anne Beatrix Darlang Hoogesteger together with Frederik Filip Franciscus Darlang during their engagement in 1902."
+    alt: ""
+
+  - id: "6-9b"
+    label: "Fig. 9B"
+    src: figures/salinas-et-al/fig-9-2-rodriquez-salinas_et_al.jpg
+    caption: "Photo of Anne Beatrix Darlang Hoogesteger together with Frederik Filip Franciscus Darlang at their wedding ceremony (1903)."
+    alt: ""
+
+  - id: "6-9c"
+    label: "Fig. 9C"
+    src: figures/salinas-et-al/fig-9-3-rodriquez-salinas_et_al.jpg
+    caption: "Exterior of house where they both lived during their time in Indonesia."
+    alt: ""
+
+  - id: "6-9d"
+    label: "Fig. 9D"
+    src: figures/salinas-et-al/fig-9-4-rodriquez-salinas_et_al.jpg
+    caption: "Interior house where they both lived during their time in Indonesia."
     alt: ""
 
   - id: "6-10"
-    label: "Fig. 10"
-    src: figures/salinas-et-al/Fig-10-Rodriquez-Salinas_et_al.jpg
+    label: "Fig. 9"
+    src: figures/salinas-et-al/fig-10-rodriquez-salinas_et_al.JPG
+    caption: "Detail of the mechanical tulle application covering the original smock work on dress K-98-3000."
+    alt: ""
+
+  - id: "6-11"
+    label: "Fig. 11"
+    src: figures/salinas-et-al/fig-11-rodriquez-salinas_et_al.jpg
     caption: "(left) Detail of the smock work from dress K-98-3000. (right) A diagram showing the way the smock work was carried out. Note that the numbers show the position of the thread and the dots indicate the position of the pleats taken by the needle."
-    alt: ""
-
-  - id: "6-11a"
-    label: "Fig. 11A"
-    src: figures/salinas-et-al/Fig-11.1-Rodriquez-Salinas_et_al.jpg
-    caption: "SEM-EDX of the elements identified as the warp from dress K-98-3000, showing the lack of metal components associated with the weighted silks. Analyses by Livio Ferrazza."
-    alt: ""
-
-  - id: "6-11b"
-    label: "Fig. 11B"
-    src: figures/salinas-et-al/Fig-11.2-Rodriquez-Salinas_et_al.jpg
-    caption: "SEM-EDX of the elements identified as the weft from dress K-98-3000, showing the lack of metal components associated with the weighted silks. Analyses by Livio Ferrazza."
     alt: ""
 
   - id: "6-12a"
     label: "Fig. 12A"
-    src: figures/salinas-et-al/Fig-12.1-Rodriquez-Salinas_et_al.JPG
-    caption: "Detail of the fragile silk seen on dress K-98-3000, with partly missing smock areas at the front as well as the wrists."
+    src: figures/salinas-et-al/fig-12-1-rodriquez-salinas_et_al.jpg
+    caption: "SEM-EDX of the elements identified as the warp from dress K-98-3000, showing the lack of metal components associated with the weighted silks. Analyses by Livio Ferrazza."
     alt: ""
 
   - id: "6-12b"
     label: "Fig. 12B"
-    src: figures/salinas-et-al/Fig-12.2-Rodriquez-Salinas_et_al.JPG
-    caption: "Detail of the fragile silk seen on dress K-98-3000, with partly missing smock areas at the front as well as the wrists."
-    alt: ""
-
-  - id: "6-12c"
-    label: "Fig. 12C"
-    src: figures/salinas-et-al/Fig-12.3-Rodriquez-Salinas_et_al.JPG
-    caption: "Detail of the fragile silk seen on dress K-98-3000, with partly missing smock areas at the front as well as the wrists."
-    alt: ""
-
-  - id: "6-12d"
-    label: "Fig. 12D"
-    src: figures/salinas-et-al/Fig-12.4-Rodriquez-Salinas_et_al.JPG
-    caption: "Detail of the fragile silk seen on dress K-98-3000, with partly missing smock areas at the front as well as the wrists."
+    src: figures/salinas-et-al/fig-12-2-rodriquez-salinas_et_al.jpg
+    caption: "SEM-EDX of the elements identified as the weft from dress K-98-3000, showing the lack of metal components associated with the weighted silks. Analyses by Livio Ferrazza."
     alt: ""
 
   - id: "6-13a"
     label: "Fig. 13A"
-    src: figures/salinas-et-al/Fig-13.1-Rodriquez-Salinas_et_al.jpeg
-    caption: "Reproduction of the smock work over the mock-up with the habutai silk made with the new brown thread."
+    src: figures/salinas-et-al/fig-13-1-rodriquez-salinas_et_al.JPG
+    caption: "Detail of the fragile silk seen on dress K-98-3000, with partly missing smock areas at the front as well as the wrists."
     alt: ""
 
   - id: "6-13b"
     label: "Fig. 13B"
-    src: figures/salinas-et-al/Fig-13.2-Rodriquez-Salinas_et_al.jpeg
-    caption: "Reproduction of the smock work over the mock-up with the habutai silk made with the new brown thread."
+    src: figures/salinas-et-al/fig-13-2-rodriquez-salinas_et_al.JPG
+    caption: "Detail of the fragile silk seen on dress K-98-3000, with partly missing smock areas at the front as well as the wrists."
     alt: ""
 
   - id: "6-13c"
     label: "Fig. 13C"
-    src: figures/salinas-et-al/Fig-13.3-Rodriquez-Salinas_et_al.jpeg
-    caption: "Reproduction of the smock work over the mock-up with the habutai silk made with the new brown thread."
+    src: figures/salinas-et-al/fig-13-3-rodriquez-salinas_et_al.JPG
+    caption: "Detail of the fragile silk seen on dress K-98-3000, with partly missing smock areas at the front as well as the wrists."
     alt: ""
 
   - id: "6-13d"
     label: "Fig. 13D"
-    src: figures/salinas-et-al/Fig-13.4-Rodriquez-Salinas_et_al.jpeg
-    caption: "Reproduction of the smock work over the mock-up with the habutai silk made with the new brown thread."
-    alt: ""
-
-  - id: "6-13e"
-    label: "Fig. 13E"
-    src: figures/salinas-et-al/Fig-13.5-Rodriquez-Salinas_et_al.jpeg
-    caption: "Reconstruction of the smock work over the original silk after the consolidation with the silk crepeline and habutai silk and the addition of the new brown thread."
-    alt: ""
-
-  - id: "6-13f"
-    label: "Fig. 13F"
-    src: figures/salinas-et-al/Fig-13.6-Rodriquez-Salinas_et_al.jpeg
-    caption: "Reconstruction of the smock work over the original silk after the consolidation with the silk crepeline and habutai silk and the addition of the new brown thread."
-    alt: ""
-
-  - id: "6-13g"
-    label: "Fig. 13G"
-    src: figures/salinas-et-al/Fig-13.7-Rodriquez-Salinas_et_al.jpeg
-    caption: "Reconstruction of the smock work over the original silk after the consolidation with the silk crepeline and habutai silk and the addition of the new brown thread."
-    alt: ""
-
-  - id: "6-13h"
-    label: "Fig. 13H"
-    src: figures/salinas-et-al/Fig-13.8-Rodriquez-Salinas_et_al.jpeg
-    caption: "Reconstruction of the smock work over the original silk after the consolidation with the silk crepeline and habutai silk and the addition of the new brown thread."
+    src: figures/salinas-et-al/fig-13-4-rodriquez-salinas_et_al.JPG
+    caption: "Detail of the fragile silk seen on dress K-98-3000, with partly missing smock areas at the front as well as the wrists."
     alt: ""
 
   - id: "6-14a"
     label: "Fig. 14A"
-    src: figures/salinas-et-al/Fig-14.1-Rodriquez-Salinas_et_al.jpeg
-    caption: "Before conservation treatment."
+    src: figures/salinas-et-al/fig-14-1-rodriquez-salinas_et_al.jpeg
+    caption: "Reproduction of the smock work over the mock-up with the habutai silk made with the new brown thread."
     alt: ""
 
   - id: "6-14b"
     label: "Fig. 14B"
-    src: figures/salinas-et-al/Fig-14.2-Rodriquez-Salinas_et_al.jpg
-    caption: "Following the reconstruction of the lining and the smock work. Note the two brown stains around the breast."
+    src: figures/salinas-et-al/fig-14-2-rodriquez-salinas_et_al.jpeg
+    caption: "Reproduction of the smock work over the mock-up with the habutai silk made with the new brown thread."
+    alt: ""
+
+  - id: "6-14c"
+    label: "Fig. 14C"
+    src: figures/salinas-et-al/fig-14-3-rodriquez-salinas_et_al.jpeg
+    caption: "Reproduction of the smock work over the mock-up with the habutai silk made with the new brown thread."
+    alt: ""
+
+  - id: "6-14d"
+    label: "Fig. 14D"
+    src: figures/salinas-et-al/fig-14-4-rodriquez-salinas_et_al.jpeg
+    caption: "Reproduction of the smock work over the mock-up with the habutai silk made with the new brown thread."
+    alt: ""
+
+  - id: "6-14e"
+    label: "Fig. 14E"
+    src: figures/salinas-et-al/fig-14-5-rodriquez-salinas_et_al.jpeg
+    caption: "Reconstruction of the smock work over the original silk after the consolidation with the silk crepeline and habutai silk and the addition of the new brown thread."
+    alt: ""
+
+  - id: "6-14f"
+    label: "Fig. 14F"
+    src: figures/salinas-et-al/fig-14-6-rodriquez-salinas_et_al.jpeg
+    caption: "Reconstruction of the smock work over the original silk after the consolidation with the silk crepeline and habutai silk and the addition of the new brown thread."
+    alt: ""
+
+  - id: "6-14g"
+    label: "Fig. 14G"
+    src: figures/salinas-et-al/fig-14-7-rodriquez-salinas_et_al.jpeg
+    caption: "Reconstruction of the smock work over the original silk after the consolidation with the silk crepeline and habutai silk and the addition of the new brown thread."
+    alt: ""
+
+  - id: "6-14h"
+    label: "Fig. 14H"
+    src: figures/salinas-et-al/fig-14-8-rodriquez-salinas_et_al.jpeg
+    caption: "Reconstruction of the smock work over the original silk after the consolidation with the silk crepeline and habutai silk and the addition of the new brown thread."
     alt: ""
 
   - id: "6-15a"
     label: "Fig. 15A"
-    src: figures/salinas-et-al/Fig-15.1-Rodriquez-Salinas_et_al.jpg
-    caption: "Dress K-98-3000 after conservation treatment, showing the original design of a reform dress from 1903 that is very similar to Liberty creations."
+    src: figures/salinas-et-al/fig-15-1-rodriquez-salinas_et_al.jpeg
+    caption: "Before conservation treatment."
     alt: ""
 
   - id: "6-15b"
     label: "Fig. 15B"
-    src: figures/salinas-et-al/Fig-15.2-Rodriquez-Salinas_et_al.jpg
+    src: figures/salinas-et-al/fig-15-2-rodriquez-salinas_et_al.jpg
+    caption: "Following the reconstruction of the lining and the smock work. Note the two brown stains around the breast."
+    alt: ""
+
+  - id: "6-16a"
+    label: "Fig. 16A"
+    src: figures/salinas-et-al/fig-16-1-rodriquez-salinas_et_al.jpg
     caption: "Dress K-98-3000 after conservation treatment, showing the original design of a reform dress from 1903 that is very similar to Liberty creations."
     alt: ""
 
-  - id: "6-15c"
-    label: "Fig. 15C"
-    src: figures/salinas-et-al/Fig-15.3-Rodriquez-Salinas_et_al.jpg
+  - id: "6-16b"
+    label: "Fig. 16B"
+    src: figures/salinas-et-al/fig-16-2-rodriquez-salinas_et_al.jpg
     caption: "Dress K-98-3000 after conservation treatment, showing the original design of a reform dress from 1903 that is very similar to Liberty creations."
     alt: ""
 
-  - id: "6-15d"
-    label: "Fig. 15D"
-    src: figures/salinas-et-al/Fig-15.4-Rodriquez-Salinas_et_al.jpg
+  - id: "6-16c"
+    label: "Fig. 16C"
+    src: figures/salinas-et-al/fig-16-3-rodriquez-salinas_et_al.jpg
+    caption: "Dress K-98-3000 after conservation treatment, showing the original design of a reform dress from 1903 that is very similar to Liberty creations."
+    alt: ""
+
+  - id: "6-16d"
+    label: "Fig. 16D"
+    src: figures/salinas-et-al/fig-16-4-rodriquez-salinas_et_al.jpg
     caption: "Detail of dress K-98-3000, showing that the new conservation thread is slightly lighter than the original thread."
     alt: ""
 
   - id: "7-1"
     label: "Fig. 1"
-    src: figures/johnson-et-al/Fig-1-Johnson_et_al.jpg
+    src: figures/johnson-et-al/fig-1-johnson_et_al.jpg
     caption: "A collection of orotones and silvertones from the University of Washington Libraries Special Collections. a) Asahel Curtis, Mt. Rainier and Mirror Lake, ca. 1910–1940, orotone photograph, 49.5 x 41.9 cm frame size, Dan Davis Mountain Photograph Collection, PH 1238.11, PNWCSC #O2. b) Norman Edson, South Side of Mt. Rainier, ca. 1911-1940, orotone photograph, 45.1 x 37.1 cm frame size, Dan Davis Mountain Photograph Collection, PH 1238.53, PNWCSC #O7. &#40;c) Arthur C. Pillsbury, Snow Arched Way, date unknown, silvertone photograph, 17.8 x 12.1 cm frame size, Dan Davis Mountain Photograph Collections, PH 1135, PNWCSC #O27."
     alt: "Two framed orotone photographs in art-nouveau style frames and one silvertone photograph in a plain wooden frame."
 
   - id: "7-2"
     label: "Fig. 2"
-    src: figures/johnson-et-al/Fig-2-Johnson_et_al.jpg
+    src: figures/johnson-et-al/fig-2-johnson_et_al.jpg
     caption: "Cross-section of the layer structure of an orotone or silvertone photograph. The black dots represent silver atom clusters that form the image. The metal flake can be present on top of the varnish as shown or mixed into the varnish."
     alt: "Diagram of the layer structure of an orotone and silvertone showing the glass support and backing comprised of the emulsion, varnish, and metal flake layers."
 
   - id: "7-3"
     label: "Fig. 3"
-    src: figures/johnson-et-al/Fig-3-Johnson_et_al.jpg
+    src: figures/johnson-et-al/fig-3-johnson_et_al.jpg
     caption: "a) the backing of PNWCSC #O16 with clear striations associated with a poured-on varnish with metal flake mixed in b) the backing of PNWCSC #O18 with a characteristically uneven density of gold tone typical of a dusted-on metal flake &#40;c) a microsample from PNWCSC #O2 with metal flake distributed through the entire varnish, indicating a mixed-in metal flake d) a microsample from PNWCSC #O18 indicates a dusted-on flake with its very shiny, friable surface."
     alt: "An array of four images showing a gold surface in the top two images and small gold samples under magnification in the lower two images."
 
   - id: "7-4"
     label: "Fig. 4"
-    src: figures/johnson-et-al/Fig-4-Johnson_et_al.jpg
+    src: figures/johnson-et-al/fig-4-johnson_et_al.jpg
     caption: "The backing of PNWCSC #O9 shows abrasions and loss of flake in the lower right corner, indicating the flake was dusted on. This is confirmed by a fragmented and friable microsample of the backing at 40x magnification."
     alt: "Gold-colored flakes with scale bar overlaid onto the scratched gold-colored back of an orotone."
 
   - id: "7-5"
     label: "Fig. 5"
-    src: figures/johnson-et-al/Fig-5-Johnson_et_al.jpg
+    src: figures/johnson-et-al/fig-5-johnson_et_al.jpg
     caption: "a) Oxygen, b) silicon, &#40;c) sodium, d) calcium, and e) aluminum SEM/EDS elemental maps collected from the PNWCSC #O27 microsample."
     alt: "Color-coded elemental maps of a small orotone sample showing the distribution of elements throughout."
 
   - id: "7-6"
     label: "Fig. 6"
-    src: figures/johnson-et-al/Fig-6-Johnson_et_al.jpg
+    src: figures/johnson-et-al/fig-6-johnson_et_al.jpg
     caption: "a) PNWCSC #O7 with all test areas labeled and b) the XRF spectra collected for some of those areas (40 kV, 7.60 μA, 60 sec acquisition time, and 0.001” Cu, 0.001” Ti, and 0.012” Al filter) with low-energy (top) and high-energy (bottom) insets. Elements with an asterisk (*) were present from the background or instrumental artifacts."
     alt: "Orotone in upper left next to XRF spectra showing the elements present in the pigments used to hand-color the image."
 
   - id: "7-7"
     label: "Fig. 7"
-    src: figures/johnson-et-al/Fig-7-Johnson_et_al.jpg
+    src: figures/johnson-et-al/fig-7-johnson_et_al.jpg
     caption: "a) FTIR spectrum of PNWCSC #O3 blue pigment sample with emulsion layer b) reference protein spectrum (IRUG entry number IPR00016), and &#40;c) reference Prussian blue spectrum (IRUG entry number IMP00077). Amide I and Amide II bands, from the gelatin protein, are visible at 1645cm and 1543 cm<sup>-1</sup>, respectively, while the nitrile peak, from Prussian blue, is visible at ~2085 cmμFTIR spectra of a) reference spectra for cellulose nitrate (from IRUG database, entry number ISR00065), poly-diallyl phthalate (IRUG entry number ISR00100), an ethyl/methyl methacrylate copolymer (IRUG entry number ISR00142) and isobutyl methacrylate (IRUG entry number ISR00057) b) spectra collected from the varnish layer of four orotones. The top two varnishes consist only of cellulose nitrate. The spectrum for PNWCSC #O2 contains cellulose nitrate as well as methacrylates and phthalates. PAM 2001.122 contains only peaks associated with phthalates and methacrylate polymers."
     alt: Three FTIR spectra stacked with peaks labelled with their position on the x-axis.
 
   - id: "7-8"
     label: "Fig. 8"
-    src: figures/johnson-et-al/Fig-8-Johnson_et_al.jpg
+    src: figures/johnson-et-al/fig-8-johnson_et_al.jpg
     caption: "Raman spectrum collected from PNWCSC #O3 blue pigment sample. The strong peak at 1330.4 cm<sup>-1</sup> is attributed to the diamond slide (Dychalska et al. 2015)."
     alt: A Raman spectrum with important peaks labeled with their position on the x-axis and bond vibrations.
 
   - id: "7-9"
     label: "Fig. 9"
-    src: figures/johnson-et-al/Fig-9-Johnson_et_al.jpg
+    src: figures/johnson-et-al/fig-9-johnson_et_al.jpg
     caption: " Left: Py/GC/MS chromatograms of samples from orotones PNWCSC #O16 and O20 as well as PAM 2001.122 with labeled peaks relating to pyrroles and pyrrole derivatives, indicating a gelatin emulsion layer. Right: µFTIR spectra of a) reference protein spectrum (of hide glue, a protein similar to gelatin), from the IRUG database, entry number IPR00019 b) PNWCSC #O2 &#40;c) PNWCSC #O16 d) PNWCSC #O20 e) PAM 2001.122. "
     alt: Three chromatograms stacked on the left and five FTIR spectra stacked on the right with labels indicating the x-axis position or associated molecule of each peak.
 
   - id: "7-10"
     label: "Fig. 10"
-    src: figures/johnson-et-al/Fig-10-Johnson_et_al.jpg
+    src: figures/johnson-et-al/fig-10-johnson_et_al.jpg
     caption: "µFTIR spectra of a) reference spectra for cellulose nitrate (from IRUG database, entry number ISR00065), poly-diallyl phthalate (IRUG entry number ISR00100), an ethyl/methyl methacrylate copolymer (IRUG entry number ISR00142) and isobutyl methacrylate (IRUG entry number ISR00057) b) spectra collected from the varnish layer of four orotones. The top two varnishes consist only of cellulose nitrate. The spectrum for PNWCSC #O2 contains cellulose nitrate as well as methacrylates and phthalates. PAM 2001.122 contains only peaks associated with phthalates and methacrylate polymers. Arrows indicate which references can be found in the sample spectra, with lines on the left indicating those references contained in the spectra indicated by arrows on the right."
     alt: FTIR reference spectra stacked on the left with arrows pointing to stacked spectra on the right from orotone samples. 
 
   - id: "7-11"
     label: "Table 1"
-    src: figures/johnson-et-al/Tab-1-Johnson_et_al.jpg
+    src: figures/johnson-et-al/tab-1-johnson_et_al.png
     caption: List of Orotones, Silvertones, and Hand-colored Orotones
     alt: 
 
   - id: "7-12"
     label: "Table 2"
-    src: figures/johnson-et-al/Tab-2-Johnson_et_al.jpg
+    src: figures/johnson-et-al/tab-2-johnson_et_al.png
     caption: XRF spectroscopy results for elements related to the metal flake, glass, and emulsion. All spectra acquired with red filter, at 40 kV μA, unless indicated otherwise.
     alt: 
 
   - id: "7-13"
     label: "Table 3"
-    src: figures/johnson-et-al/Tab-3-Johnson_et_al.jpg
+    src: figures/johnson-et-al/tab-3-johnson_et_al.png
     caption: XRF spectroscopy results for elements related to colorants in hand-colored orotones
     alt: 
 
   - id: "7-14"
     label: "Table 4"
-    src: figures/johnson-et-al/Tab-4-Johnson_et_al.jpg
+    src: figures/johnson-et-al/tab-4-johnson_et_al.png
     caption: Results of Py/GC/MS and μFTIR Analysis of Emulsion and Varnish layers
     alt: 
 
   - id: "7-15"
     label: "Table 5"
-    src: figures/johnson-et-al/Tab-5-Johnson_et_al.jpg
+    src: figures/johnson-et-al/tab-5-johnson_et_al.png
     caption: " Composition of Acrylic Varnish including Methacrylate and Plasticizer Components, Abundances calculated as follows: Total monomer peak area/peak area of interest, if result <5 = xxx, 5-15 = xx, 15-100 = x. "
     alt: 
 

@@ -35,6 +35,13 @@ module.exports = function(eleventyConfig) {
             ${siteTitle()}
           </h4>
         ${homePageLinkCloseTag}
+        <hr>
+        <ul>
+          <li><p><em>Essays marked with a microscope icon have been approved for publication by peer review.</em></p></li>
+        </ul>
+        <div class="quire-menu__header__contributors">
+          ${contributorElement}
+        </div>
       </header>
     `
   }
