@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'www.materiajournal.com'
-url: 'www.materiajournal.com'
+url: 'http://materiajournal.com'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -35,7 +35,7 @@ identifier:
 publisher:
   - name: Materia
     location: San Diego
-    url: https://https://materiajournal.com
+    url: www.materiajournal.com
     logo: materia-logo.jpg
 
 # ------------------------------------------------------------------------------
@@ -56,222 +56,14 @@ contributor:
     url:
     image:
 
-  - id: fpozzi
-    type: secondary
-    first_name: Federica
-    last_name: Pozzi
-    title: Director of Scientific Laboratories
-    affiliation: Centro per la Conservazione ed il Restauro dei Beni Culurali "La Venaria Reale"
-    bio: 
-    url:
-    image:
 
-  - id: mlemay
-    type: secondary
-    first_name: Marie-France
-    last_name: Lemay
-    title: Head of Paper and Photograph Conservation
-    affiliation: Yale University Library
-    bio: 
-    url:
-    image:
-
-  - id: rhark
-    type: secondary
-    first_name: Richard R.
-    last_name: Hark
-    title: Conservation Scientist
-    affiliation: Institute for the Preservation of Cultural Heritage
-    bio: 
-    url:
-    image:
-
-  - id: 
-    type: secondary
-    first_name: 
-    last_name: 
-    title: 
-    affiliation: 
-    bio: 
-    url:
-    image:
-
-  - id: vjohnson
-    type: secondary
-    first_name: Vanessa M.
-    last_name: Johnson
-    title: 
-    affiliation: 
-    bio: " Vanessa M. Johnson is a post-doctoral researcher in the Lasseter Clare Lab at Portland State University, part of the Pacific Northwest Conservation Science Consortium. Her research has involved analysis of organic paint binders and determination of photoactivity in zinc oxide pigments via visible fluorescence analysis. She received an MA in the Conservation of Fine Art with a specialization in paper conservation and a PhD in Conservation Science from Northumbria University, UK. "
-    url:
-    image:
-
-  - id: ijacome
-    type: secondary
-    first_name: Ivanny
-    last_name: Jácome-Valladares
-    title: Conservator
-    affiliation: 
-    bio: " Ivanny Jácome-Valladares received a BS in chemistry from Millersville University and an MS in chemistry from Portland State University. At Portland State University, her research focused on analytical chemistry and conservation science. She is interested in the application of analytical techniques for the conservation and preservation of cultural heritage. "
-    url:
-    image:
-
-  - id: ckenny
-    type: secondary
-    first_name: Claire
-    last_name: Kenny
-    title: Associate Conservator for Paper and Photographs
-    affiliation: University of Washington
-    bio: " Claire Kenny is the Associate Conservator for Paper and Photographs at the University of Washington, where she works to conserve collections at the UW Libraries, Henry Art Gallery, and Burke Museum of Natural History and Culture. She received an MA in the Conservation of Fine Art, with a specialization in paper conservation, from Northumbria University, UK. "
-    url:
-    image:
-
-  - id: tlasseterclare
-    type: secondary
-    first_name: Tami
-    last_name: Lasseter Clare
-    title: Professor of Chemistry
-    affiliation: Portland State University
-    bio: " Tami Lasseter Clare is Professor of Chemistry at Portland State University where she teaches a range of undergraduate and graduate courses and is the Director of the Pacific Northwest Conservation Science Consortium, in partnership with major museums in the region. With her undergraduate, graduate and postdoctoral trainees, her research efforts center on developing new materials and diagnostic tools to understand and prevent the degradation of material cultural heritage, such as artwork and ethnographic materials. "
-    url:
-    image:
-
-  - id: hmeredith
-    type: secondary
-    first_name: Hallie G.
-    last_name: Meredith
-    title: 
-    affiliation: 
-    bio: 
-    url:
-    image:
-
-  - id: rhamilton
-    type: secondary
-    first_name: Robert
-    last_name: Hamilton
-    title: 
-    affiliation: 
-    bio: 
-    url:
-    image:
-
-  - id: ahershberger
-    type: secondary
-    first_name: Andrew
-    last_name: Hershberger
-    title: 
-    affiliation: 
-    bio: 
-    url:
-    image:
-
-  - id: euffelman
-    type: secondary
-    first_name: Erich
-    last_name: Uffelman
-    title: Bentley Professor of Chemistry and Department Head of Chemistry and Biochemistry
-    affiliation: Washington and Lee University, Lexington City, Virginia
-    bio: 
-    url:
-    image:
-
-  - id: ehermans
-    type: secondary
-    first_name: Erma
-    last_name: Hermans
-    title: Director, Hamilton Kerr Insitute, University of Cambridge, and Deputy Director, Conservation and Science Division, Fitzwilliam Museum, Cambridge
-    affiliation: University of Cambridge
-    bio: 
-    url:
-    image:
-
-  - id: snorlandereliasson
-    type: secondary
-    first_name: Sabrina
-    last_name: Norlander Eliasson
-    title: Professor of Art History, Department of Culture and Aesthetics
-    affiliation: Stockholm University and the Swedish Insitute for Classical Studies in Rome
-    bio: 
-    url:
-    image:
-
-  - id: mgrison
-    type: secondary
-    first_name: Marie-Noëlle 
-    last_name: Grison
-    title: 
-    affiliation: 
-    bio: 
-    url:
-    image:
-
-  - id: rerdmann
-    type: secondary
-    first_name: Robert G. 
-    last_name: Erdmann
-    title: 
-    affiliation: 
-    bio: 
-    url:
-    image:
-
-  - id: hhameeuw
-    type: secondary
-    first_name: Hendrik
-    last_name: Hameeuw
-    title: 
-    affiliation: 
-    bio: 
-    url:
-    image:
-
-  - id: dlainé
-    type: secondary
-    first_name: David
-    last_name: Lainé
-    title: 
-    affiliation: 
-    bio: 
-    url:
-    image:
-
-  - id: lwatteeuw
-    type: secondary
-    first_name: Lieve
-    last_name: Watteeuw
-    title: 
-    affiliation: 
-    bio: 
-    url:
-    image:
-
-  - id: mbrunskog
-    type: secondary
-    first_name: Maria
-    last_name: Brunskog
-    title: 
-    affiliation: 
-    bio: 
-    url:
-    image:
-
-  - id: 
-    type: 
-    first_name: 
-    last_name: 
-    title: 
-    affiliation: 
-    bio: 
-    url:
-    image:
 
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2023 Materia 
+copyright: © 2022 Materia 
 
 license:
   name: Creative Commons Attribution 4.0 International License
