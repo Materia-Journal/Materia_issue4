@@ -171,7 +171,7 @@ Marie-Noëlle Grison holds a Master's degree in art history from the Sorbonne un
 
 Adriaens-Pannier, Anne, and Leila Jarbouai. *Léon Spilliaert (1881–1946): Lumière et solitude*. Paris: Éditions de la Réunion des musées nationaux–Grand Palais, 2020.
 
-———. *Léon Spilliaert: De oorsprong van het beeld*. Antwerp: Stichting De Reede, 2022.
+⸻. *Léon Spilliaert: De oorsprong van het beeld*. Antwerp: Stichting De Reede, 2022.
 
 Botwinick, Michael, Sarah Faunce, and Francine-Claire Legrand. *Belgian Art, 1880–1914*. Brooklyn: Brooklyn Museum of Art, 1980.
 
@@ -189,13 +189,13 @@ De Bendère, Robert. *Alfred-N. Delaunois*. Brussels: J. & A. Janssens, 1935.
 
 Delaunois, Alfred. *Fêtes du centenaire, 1830–1930*. Leuven: Akademie voor Schone Kunsten van Leuven, 1930.
 
-———. “Valeur Du Peintre.” In *Constantin Meunier*, 19–21. S.l., 1939.
+⸻. “Valeur Du Peintre.” In *Constantin Meunier*, 19–21. S.l., 1939.
 
 Dooley, Kathryn A., and Michelle Facini. “Revealing Degas’s Process and Material Choices in a Late Pastel on Tracing Paper with Visible-to-near-Infrared Reflectance Imaging Spectroscopy.” *Journal of the American Institute for Conservation*, no. 58 (2019): 108–21.
 
 Draguet, Michel. *Le Symbolisme en Belgique*. Antwerp: Fonds Mercator, 2004.
 
-———. *Fernand Khnopff*. Brussels: Fonds Mercator, 2018.
+⸻. *Fernand Khnopff*. Brussels: Fonds Mercator, 2018.
 
 *Exposition d’une partie de l’œuvre d’Alfred-N. Delaunois, du 21 Mars Au 2 Avril 1917, Galerie Georges Giroux, Bruxelles*. Brussels: Galerie Georges Giroux, 1917.
 
@@ -237,7 +237,7 @@ Stratis, Harriet K. Stratis. “A Technical Investigation of Odilon Redon’s Pa
 
 Timmermans, Felix. “Alfred Delaunois.” *Van Onzen Tijd*, no. 23 (1913–14): 357–63.
 
-———, and Henri Lavachery. *Graphische Werken van Alfred N*. Leuven: Akademie van Schone Kunsten, 1936.
+⸻, and Henri Lavachery. *Graphische Werken van Alfred N*. Leuven: Akademie van Schone Kunsten, 1936.
 
 Townsend, Joyce H. “Analysis of Pastel and Chalk Materials.” *Paper Conservator* 22, no. 1 (1 January 1998): 21–28.
 
@@ -249,7 +249,7 @@ Vaeyens, Christiane. “Le sac de Louvain (1914) in de grafiek van Alfred-Napol�
 
 Vanzype, Gustave. *Exposition d’une partie de l’oeuvre d’Alfred-N.*. Brussels: Galerie Georges Giroux, 1926.
 
-———. *Nos peintres*. 3 vols. Brussels: Paul Lacomblez, 1905.
+⸻. *Nos peintres*. 3 vols. Brussels: Paul Lacomblez, 1905.
 
 Watteeuw, Lieve, and Hendrik Hameeuw. “Art Technical Research on Manuscript Heritage with the White Light and Multispectral Portable Light Dome System (Multi Light Reflectance Imaging).” In *Immaginare la Commedia*, edited by C. Perna and G. Ferrante, 225–37. Rome: Salerno, 2022.
 

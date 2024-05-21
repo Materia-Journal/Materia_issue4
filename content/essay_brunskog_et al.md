@@ -106,7 +106,7 @@ Table 3 summarises the results of the microscopy of sections and chemical and ph
 
 {% figure '2-39' %}
 
-{% figuregroup '4', '2-28, 2-29, 2-30, 2-31, 2-32, 2-33, 2-34, 2-35, 2-36' %}
+{% figuregroup '4', '2-28, 2-29, 2-30, 2-31, 2-32, 2-33, 2-34, 2-35' %}
 
 ### The urushi artefacts compared with the information on urushi and related topics in Resa
 
@@ -202,7 +202,7 @@ Bornestaf, Ulrika. “Klenoder i det Kungl. Myntkabinettet: treasures in the Roy
 
 Brunskog, Maria and Tetsuo Miyakoshi. “A Colourful Past: A Re-Examination of a Swedish Rococo Set of Furniture with a Focus on the *Urushi* Components.” *Studies in Conservation* 66, no. 8 (2021): 477–501. https://doi.org/10.1080/00393630.2020.1846359.
 
-———, “A Significant Japanese Coffer: A Multi-Disciplinary Approach to Examining Late Sixteenth–Early Seventeenth-Century Export Urushi Ware.” *Studies in Conservation* 67, no. 1 (March 2021): 1–13. https://doi.org/10.1080/00393630.2021.1902142.
+⸻, “A Significant Japanese Coffer: A Multi-Disciplinary Approach to Examining Late Sixteenth–Early Seventeenth-Century Export Urushi Ware.” *Studies in Conservation* 67, no. 1 (March 2021): 1–13. https://doi.org/10.1080/00393630.2021.1902142.
 
 Carlotta. Accessed February 23, 2022. https://collections.smvk.se/carlotta-em/web.
 
@@ -270,17 +270,17 @@ Prendergast, Hew D. V., Helena Jaeschke, and Naomi Rumball. *A Lacquer Legacy at
 
 Rivers, Shayne. “Conservation of Japanese Lacquer in Western Collections: Conserving Meaning and Substance.” In *ICOM Committee for Conservation 14th Triennial Meeting, The Hague, 12–16 September 2005*, 2:1083–86. Published online by James & James/Earthscan, 2005.
 
-———, Carolyn McSharry, Rupert Faulkner, Milo S. P. Shaffer, and Tom Welton. “The Chemistry of East Asian Lacquer: A Review of the Scientific Literature.” *Reviews in Conservation* 8 (2007): 63.
+⸻, Carolyn McSharry, Rupert Faulkner, Milo S. P. Shaffer, and Tom Welton. “The Chemistry of East Asian Lacquer: A Review of the Scientific Literature.” *Reviews in Conservation* 8 (2007): 63.
 
 Schilling, Michael. “Characterizing Materials: Recent Advances in Characterizing Asian Lacquers.” Getty Conservation Institute, 2013. https://www.getty.edu/conservation/publications_resources/teaching/characterizing.html.
 
-———, Arlen Heginbotham, Henk van Keulen, and Mike Szelewski. “Beyond the Basics: A Systematic Approach for Comprehensive Analysis of Organic Materials in Asian Lacquers.” *Studies in Conservation* 61, sup. 3 (2016): 3–27. https://doi.org/10.1080/00393630.2016.1230978.
+⸻, Arlen Heginbotham, Henk van Keulen, and Mike Szelewski. “Beyond the Basics: A Systematic Approach for Comprehensive Analysis of Organic Materials in Asian Lacquers.” *Studies in Conservation* 61, sup. 3 (2016): 3–27. https://doi.org/10.1080/00393630.2016.1230978.
 
 Screech, Timon. *Japan Extolled and Decried: Carl Peter Thunberg and the Shogun’s Realm, 1775–1796*. London: Routledge, 2005.
 
 Skuncke, Marie-Christine. *Carl Peter Thunberg: Botanist and Physician; Career-Building across the Oceans in the Eighteenth Century*. Uppsala: Swedish Collegium for Advanced Study, 2014.
 
-———. “Suède, Europe, Japon: Le botaniste Carl Peter Thunberg sur le marché international.” *La Révolution française*, no. 13 (January 2018). https://doi.org/10.4000/lrf.1928.
+⸻. “Suède, Europe, Japon: Le botaniste Carl Peter Thunberg sur le marché international.” *La Révolution française*, no. 13 (January 2018). https://doi.org/10.4000/lrf.1928.
 
 Sung, Meesook, Jaekook Jung, Rong Lu, and Tetsuo Miyakoshi. “Study of Historical Chinese Lacquer Culture and Technology—Analysis of Chinese Qin-Han Dynasty Lacquerware.” *Journal of Cultural Heritage* 21 (September–October 2016): 889–93. https://doi.org/10.1016/J.CULHER.2016.05.004.
 
@@ -294,15 +294,15 @@ Tamaki ⼭⽥珠樹. *Tsunberugu Nihon Kikou* ツンベルグ ⽇本紀⾏. Toky
 
 Thunberg, Carl Peter. *Flora iaponica sistens plantas insvlarum iaponicarvm secvndvm systema sexvale emendatvm redactas ad XX classes, ordines, genera et species cvm sifferentiis specificis, synonymis pavcis, descriptionibvs concinnis et XXX IX iconibvs adiectis*. Lipsiae: I. G. Mulleriano, 1784.
 
-———. *Inträdes-tal, om de mynt-sorter, som i äldre och sednare tider blifvit slagne och varit gångbare uti kejsaredömet Japan; hållet för kongl. vetenskaps-academien, den 25 Aug., 1779*. Stockholm: Johan Georg Lange, 1779.
+⸻. *Inträdes-tal, om de mynt-sorter, som i äldre och sednare tider blifvit slagne och varit gångbare uti kejsaredömet Japan; hållet för kongl. vetenskaps-academien, den 25 Aug., 1779*. Stockholm: Johan Georg Lange, 1779.
 
-———. *Resa uti Europa, Africa, Asia, Förrättad åren 1770–1779*. Vol. 3. Uppsala, 1791.
+⸻. *Resa uti Europa, Africa, Asia, Förrättad åren 1770–1779*. Vol. 3. Uppsala, 1791.
 
-———. *Resa uti Europa, Africa, Asia, Förrättad åren 1770–1779*. Vol. 4. Uppsala, 1793.
+⸻. *Resa uti Europa, Africa, Asia, Förrättad åren 1770–1779*. Vol. 4. Uppsala, 1793.
 
-———. *Reise durch einen Theil von Europa, Afrika und Asien, hauptsächlich in Japan, in den Jahren 1770 bis 1779. Aus dem Schwedischen frey übersetzt von Christian Heinrich Groskurd, ... Erster und Zweyter Band.*, Berlin bey Haude und Spener., 1792 and 1794.
+⸻. *Reise durch einen Theil von Europa, Afrika und Asien, hauptsächlich in Japan, in den Jahren 1770 bis 1779. Aus dem Schwedischen frey übersetzt von Christian Heinrich Groskurd, ... Erster und Zweyter Band.*, Berlin bey Haude und Spener., 1792 and 1794.
 
-———. *Voyages De C. P. Thunberg, Au Japon, Par le Cap de Bonne-Espérance, Les îles de la Sonde, &c. Traduits, rédigés et augmentés de notes considérables sur la Religion, le Gouvernement, le Commerce, l'Industrie et les Langues de ces différentes contrées, particulièrement sur le Javan et le Malai; Par L. Langles ... ; Et revus, quant à la partie d'Histoire naturelle, par J. B. Lamarck ... Avec des Planches Tome troisième.*, A Paris, Chez Benoît Dandré, Garnery, Obré, I an IV, 1796.
+⸻. *Voyages De C. P. Thunberg, Au Japon, Par le Cap de Bonne-Espérance, Les îles de la Sonde, &c. Traduits, rédigés et augmentés de notes considérables sur la Religion, le Gouvernement, le Commerce, l'Industrie et les Langues de ces différentes contrées, particulièrement sur le Javan et le Malai; Par L. Langles ... ; Et revus, quant à la partie d'Histoire naturelle, par J. B. Lamarck ... Avec des Planches Tome troisième.*, A Paris, Chez Benoît Dandré, Garnery, Obré, I an IV, 1796.
 
 Tsuge, Shin, Hajime Ohtani, and Chuichi Watanabe. *Pyrolysis-GC/MS Data Book of Synthetic Polymers: Pyrograms, Thermograms and MS of Pyrolyzates.* Tokyo: Elsevier Science, 2011.
 

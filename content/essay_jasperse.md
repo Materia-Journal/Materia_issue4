@@ -253,7 +253,7 @@ Heslop, T. A. “English Seals in the Thirteenth and Fourteenth Centuries.” In
 
 Jasperse, Jitske. *Medieval Women, Material Culture, and Power: Matilda Plantagenet and Her Sisters*. Leeds: Arc Humanities Press, 2020.
 
-———, and Lucía Pereira Pardo. “Beautifully Wrapped in Silk: Medieval Seal Bags Unravelled.” *The National Archives Blog*, 22 December 2022. Accessed January 2, 2024. <https://blog.nationalarchives.gov.uk/medieval-seal-bags/>.
+⸻, and Lucía Pereira Pardo. “Beautifully Wrapped in Silk: Medieval Seal Bags Unravelled.” *The National Archives Blog*, 22 December 2022. Accessed January 2, 2024. <https://blog.nationalarchives.gov.uk/medieval-seal-bags/>.
 
 King, Donald. “Two Medieval Textile Terms: “draps d’Ache,” “draps de l’Arrest.”” *Soieries médiévales: Techniques et Culture* 34 (1999): 83–88. First published in *Bulletin du CIETA* 27 (1968).
 
@@ -261,7 +261,7 @@ Luyster, Amanda. “Reassembling Textile Networks: Treasuries and Re-collecting 
 
 Owen-Crocker, Gale R. “Seal Bags.” In *Encyclopedia of Medieval Dress and Textiles in the British Isles, c. 450–1450*, edited by Owen-Crocker, Elizabeth Coatsworth, and Maria Hayward, Leiden: Brill, 2012.
 
-———, María Barrígnon, Naḥum Ben-Yehuda, and Joana Sequeira. *Textiles of Medieval Iberia: Cloth and Clothing in a Multi-Cultural Context*. Woodbridge: Boydell, 2022.
+⸻, María Barrígnon, Naḥum Ben-Yehuda, and Joana Sequeira. *Textiles of Medieval Iberia: Cloth and Clothing in a Multi-Cultural Context*. Woodbridge: Boydell, 2022.
 
 Martiani-Reber, Marielle. *Musée Historique des Tissus: Soieries sassanides, coptes et byzantines, Vème‒XIème siècles*. Paris: Réunion des Musées Nationaux, 1986.
 
@@ -273,7 +273,7 @@ Mühlemann, Corinne. “Kostbar bekleider: Die Siegelhüllen eines Ablassbriefes
 
 Muthesius, Anna. “The Exotic Near-Eastern Silks at Canterbury Cathedral.” In *Studies in Byzantine, Islamic and Near Eastern Silk Weaving*, edited by Muthesius, 98–115. London: Pindar, 2008.
 
-———. *Studies in Silk in Byzantium*. London: Pindar, 2004.
+⸻. *Studies in Silk in Byzantium*. London: Pindar, 2004.
 
 New, Elizabeth A. *Seals and Sealing Practices*. Archives and the User 11. London: British Record Association, 2010.
 
@@ -303,7 +303,7 @@ Tudor-Craig, Pamela, and Lisa Monnas. “A Seal Bag of 1400 at Burghley House.�
 
 Vanden Berghe, I., M. Gleba, and U. Mannering. “Towards the Identification of Dyestuffs in Early Iron Age Scandinavian Peat Bog Textiles.” *Journal of Archaeological Science* 36 (2009): 1910–21.
 
-———, and M. Vandorpe. “KIK-IRPA Dye Analysis Report of Medieval Seal Bags from the Collection of the National Archives.” 2023. DI 2023.15086, 28.03.2023.
+⸻, and M. Vandorpe. “KIK-IRPA Dye Analysis Report of Medieval Seal Bags from the Collection of the National Archives.” 2023. DI 2023.15086, 28.03.2023.
 
 Wild, Benjamin. “The Empress’s New Clothes: A *Rotulus Pannorum* of Isabella, Sister of King Henry III, Bride of Emperor Frederick II.” *Medieval Clothing and Textiles* 7 (2011): 1–31.
 
