@@ -8,8 +8,8 @@
 # publication.
 
 # ------------------------------------------------------------------------------
-# The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://netlify.app'
+# The publication's base URL, i.e. 'www.materiajournal.com'
+url: 'www.materiajournal.com'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -25,7 +25,7 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2022-12-01 # YYYY-MM-DD
+pub_date: 2024-05-23 # YYYY-MM-DD
 language: en
 pub_type: journal-periodical # book | journal-periodical | other
 
