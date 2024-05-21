@@ -983,7 +983,7 @@ figure_list:
     alt: ""
 
   - id: "6-10"
-    label: "Fig. 9"
+    label: "Fig. 10"
     src: figures/salinas-et-al/fig-10-rodriquez-salinas_et_al.JPG
     caption: "Detail of the mechanical tulle application covering the original smock work on dress K-98-3000."
     alt: ""
@@ -1176,31 +1176,31 @@ figure_list:
 
   - id: "7-11"
     label: "Table 1"
-    src: figures/johnson-et-al/tab-1-johnson_et_al.png
+    src: figures/johnson-et-al/tab-1-johnson_et_al.jpg
     caption: List of Orotones, Silvertones, and Hand-colored Orotones
     alt: 
 
   - id: "7-12"
     label: "Table 2"
-    src: figures/johnson-et-al/tab-2-johnson_et_al.png
+    src: figures/johnson-et-al/tab-2-johnson_et_al.jpg
     caption: XRF spectroscopy results for elements related to the metal flake, glass, and emulsion. All spectra acquired with red filter, at 40 kV μA, unless indicated otherwise.
     alt: 
 
   - id: "7-13"
     label: "Table 3"
-    src: figures/johnson-et-al/tab-3-johnson_et_al.png
+    src: figures/johnson-et-al/tab-3-johnson_et_al.jpg
     caption: XRF spectroscopy results for elements related to colorants in hand-colored orotones
     alt: 
 
   - id: "7-14"
     label: "Table 4"
-    src: figures/johnson-et-al/tab-4-johnson_et_al.png
+    src: figures/johnson-et-al/tab-4-johnson_et_al.jpg
     caption: Results of Py/GC/MS and μFTIR Analysis of Emulsion and Varnish layers
     alt: 
 
   - id: "7-15"
     label: "Table 5"
-    src: figures/johnson-et-al/tab-5-johnson_et_al.png
+    src: figures/johnson-et-al/tab-5-johnson_et_al.jpg
     caption: " Composition of Acrylic Varnish including Methacrylate and Plasticizer Components, Abundances calculated as follows: Total monomer peak area/peak area of interest, if result <5 = xxx, 5-15 = xx, 15-100 = x. "
     alt: 
 
