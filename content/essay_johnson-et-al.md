@@ -33,7 +33,6 @@ abstract: |
 
  Analysis of orotones using pyrolysis/gas chromatography/mass spectrometry (Py/GC/MS) and µFTIR spectroscopy identified cellulose nitrate varnish layers. One orotone from the W Libraries had been treated with an ethyl methacrylate / methyl methacrylate copolymer, possibly Paraloid B72. Determining the degree of substitution of the nitrate groups suggested that this additional varnish layer accelerated the degradation of the original cellulose nitrate varnish by trapping acids and preventing migration of degradation products. One orotone from the PAM contained only a poly-butyl-methacrylate varnish and was found to be an enlargement of another photograph. That finding indicates it was likely produced after 1940, rather than on the assigned date of 1903. The differences in swelling due to fluctuating relative humidity likely accounts for the observed delamination of the backing from the glass around the edges of this orotone.
 
- *This article has been approved for publication by peer review. 
 ---
 
 
@@ -59,7 +58,7 @@ Orotones were created as works of art and were often sold in characteristic art-
 
 The characteristic layer structure of orotone and silvertone photographs consists of a glass image support, a light-sensitized emulsion layer, and a varnish layer with metal flake. (**Fig. 2**). The glass support on which the emulsion was applied was likely soda-lime silica glass, containing 65--75% silica, 10--20% alkali and the remainder lime.[^15] This was the most common and durable glass available in the early twentieth century. While the photographic development process used for creating orotones is not documented, it is likely to have been one of two methods of glass-plate photography contemporaneous with orotone production: the wet-plate collodion process, popular from 1851 to 1885,[^16] or the gelatin dry-plate process, popular from 1880 to 1925.[^17] Both utilized a well-established method of dispersing silver halides in the emulsion, exposing them to light, then developing and fixing the silver clusters to create the photographic image.
 
-{% figure '7-2' %}
+{% figure '7-2', 'is-pulled-left' %}
 
 The chemicals used in the photographic development process and their reaction byproducts often left residues in the emulsion. A description of the relevant chemicals in this development process can therefore inform the interpretation of compositional analysis. Briefly, the emulsion layer contained a silver halide dispersion[^18] containing either iodine, chlorine, or bromine.[^19] Exposure to light converted the silver ions within the silver halides to silver atoms which form silver atom clusters.[^20] A potassium nitrate by-product produced during light exposure was washed away with water. The final imaging medium consisted of these silver atom clusters, which were enlarged and consolidated using a developing agent. A potassium halide restrainer removed residual halide ions[^21] while a bath of sodium sulfite, acetic acid, and potassium aluminum sulfate (colloquially referred to as alum) hardened the emulsion layer at the end of the process.[^22]
 

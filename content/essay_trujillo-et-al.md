@@ -28,7 +28,6 @@ contributor:
 abstract: |
   This essay describes an ongoing collaboration between multiple colleagues in disparate institutions and offers the authors an opportunity to reflect on the successes and challenges of the cooperative project. In the spring of 2020, conservators, conservation scientists, and curators from the United States and Italy began a collaborative research project to compare the three earliest and most complete surviving decks of illuminated Italian *tarocchi* cards, known collectively as the Visconti-Sforza decks. These decks of handheld cards were created in the middle of the fifteenth century to play trick-taking or gambling games and are generally attributed to Bonifacio Bembo and his workshop. One deck is located at Yale University's Beinecke Rare Book and Manuscript Library, New Haven, CT; one is at the Pinacoteca di Brera, Milan, Italy; and one is divided between the Morgan Library & Museum, New York, the Accademia Carrara, Bergamo, Italy, and a private Italian collection. The rich color palette and intricately tooled gilded backgrounds of the cards have been the subject of endless fascination and numerous art historical studies, but until now they have not undergone in-depth technical analysis. A discussion between two colleagues about the materials used to create the cards grew into a multi-institutional endeavor fueled by a shared enthusiasm to fill the knowledge gap on the technical production of Italian *tarocchi* cards. The goals of the project are to identify and compare the composition of the decks, to emphasize their materiality in the art historical record, and to increase cooperation between professionals in the cultural heritage field. This essay explores the genesis and logistics of the project, the historical background of the decks, and the main findings on the cards' materials and techniques to date.
 
-  *This article has been approved for publication by peer review. 
 ---
 
 ## Introduction
@@ -215,6 +214,8 @@ Bandera Bistoletti, Sandrina. *Visconti Tarots of the Brera Gallery*. Milan: Mar
 
 ⸻, Tanzi Marco, and Pinacoteca di Brera. *Quelle carte de triumphi che se fanno a Cremona: I tarocchi dei Bembo: Dal cuore del Ducato di Milano alle corti della valle del Po*. Milan: Skira, 2013.
 
+Bonifacio Bembo, "Visconti-Sforza Tarot Cards", Milan, Italy, ca.1450-1480. Morgan Library & Museum, MS M.630.1-35. Purchased by J.Pierpont Morgan, 1911. 173 x 87 mm. Link to record:  [https://www.themorgan.org/collection/tarot-cards.](https://www.themorgan.org/collection/tarot-cards.)
+
 Briquet, Charles-Moïse. *Les filigranes: Dictionnaire historique des marques du papier dès leur apparition vers 1282 jusqu'en 1600 avec 39 figures dans le texte et 16,112 fac-similés de filigranes*. Leipzig: K.W. Hiersemann, 1907.
 
 Cennini, Cennino, and Lara Broecke. *Cennino Cennini's Il Libro Dell'arte: A New English Translation and Commentary with Italian Transcription*. London: Archetype, 2015.
@@ -277,8 +278,6 @@ Turner, Nancy K. "Surface Effect and Substance: Precious Metals in Illuminated M
 [^6]: Unlike the Morgan and Brera decks, which feature the traditional arrangement and number of court, trump, and pip cards, the Yale deck includes atypical female Knight and female Page cards for each suit, as well as three theological virtues, *Faith*, *Hope*, and *Charity*. These additional cards bring the hypothetical total number of cards for the Yale deck to eighty-nine.
 
 [^7]: Bembo, Bonifacio, \[Visconti di Modrone Tarocchi\], \[Italy\]: \[publisher not identified\], \[1445?\]. Yale University, Beinecke Rare Book & Manuscript Library, ITA109. 189 x 90 mm. Link to record: [https://hdl.handle.net/10079/bibid/15349690](https://hdl.handle.net/10079/bibid/15349690); link to images:  [https://collections.library.yale.edu/catalog/2002878](https://collections.library.yale.edu/catalog/2002878).
-
-Bonifacio Bembo, "Visconti-Sforza Tarot Cards", Milan, Italy, ca.1450-1480. Morgan Library & Museum, MS M.630.1-35. Purchased by J.Pierpont Morgan, 1911. 173 x 87 mm. Link to record:  [https://www.themorgan.org/collection/tarot-cards.](https://www.themorgan.org/collection/tarot-cards.)
 
 [^8]: Thierry Depaulis and Stuart R. Kaplan, *Cary-Yale Visconti Tarocchi Deck* (Stamford, CT: U.S. Games Systems, 1984), 16.
 

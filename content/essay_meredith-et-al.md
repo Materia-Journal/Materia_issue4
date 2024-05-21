@@ -36,7 +36,7 @@ A glassblower, a digital media artist, and a photo historian walked into Yale Un
 
 This discussion offers three perspectives on an intensive week-long introduction to technical art history (hereafter TAH) designed for faculty teaching art history, conservation science, or studio art at North American colleges and universities. Our intensive week-long collective introduction began in the summer of 2022 in New Haven, Connecticut.[^2] The 2022 program was titled “A Brush with the Artist” and focused on painted surfaces with material provided by Yale’s galleries and conservation studios. STITAH introduced contemporary methods in TAH through hands-on experimenting, close-looking, and discussion (Figs. 1–3). This three-part structure was fundamental to most of the activities. STITAH’s sessions encouraged opportunities to “practice techniques that have sustained and punctuated the history of painting \[as well as other media\], and to consider how practical experimentation, analytical exploration, and visual analysis can inform each other.”[^3]
 
-{% figuregroup '1', '4-1, 4-2, 4-3' %}
+{% figuregroup '2', '4-1, 4-2, 4-3' %}
 
 Our shared goal in reflecting on this collaborative model of instruction is to focus on the value of TAH in our own teaching. This model prompted two questions: What forms can TAH take, and how can it be integrated into the particular culture at an institution? The following engages with these and related questions, as the discussants reflected on their introduction and collaborative approach to TAH.
 
@@ -184,7 +184,7 @@ In addition, I believe that it is enlightening to see the photographs that do ex
 
 **Hallie**: Thank you for giving us this unique opportunity! I think I speak for all three of us when I say that we appreciate having had this forum to tell your readers about our STITAH stories, what brought us to the program, and how each of us are seeking to integrate TAH into our own teaching and research. We look forward to reading about more collaborative work involving TAH in future issues of *Materia*.
 
-### CODA
+## CODA
 
 Following the conclusion of this discussion, the participants learned that STITAH’s future at Yale is currently uncertain, highlighting the challenges of maintaining opportunities to learn and pursue interdisciplinary research in technical art history. As the discussion has demonstrated, their unique backgrounds, access to technical resources, art on their own campuses, and cross-disciplinary endeavors represent varied approaches to the integration of TAH in higher education—from an understanding of the late Roman world and glassblowing to photography, digital media, and beyond. The possibilities for incorporating TAH in undergraduate teaching are diverse and wide-ranging; however, learning opportunities require instructors to have proper training, tools, and materials to create situations for students to meaningfully engage with TAH.
 
