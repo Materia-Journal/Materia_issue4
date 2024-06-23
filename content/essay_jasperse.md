@@ -181,15 +181,6 @@ Ina Vanden Berghe, The Royal Institute for Cultural Heritage (KIK-IRPA), Brussel
 
 Research for this article was carried out by Jitske Jasperse, Instituto de Historia, CSIC  (RyC2021-033251-I) and Lucía Pereira-Pardo, Instituto de Ciencias del Patrimonio, CSIC (RYC2021-034643-I) within the Ramón y Cajal Program, funded by MCIN/AEI/10.13039/501100011033 and European Union NextGenerationEU/PRTR.
 
-Jitske Jasperse, Het vrouwelijk oog wil ook wat. Vrouwen als opdrachtgevers, verzamelaars en kunstenaars (Sterck & De Vreese, 2021), [https://www.bornmeer.nl/winkel/het-vrouwelijk-oog-wil-ook-wat/](https://www.bornmeer.nl/winkel/het-vrouwelijk-oog-wil-ook-wat/)
-
-Jitske Jasperse, “Of Seals and Siblings: Teresa/Matilda (d. 1218), Queen of Portugal and Countess of Flanders,” Journal of Medieval Iberian Studies 12.3 (2020), available in Open Access [https://doi.org/10.1080/17546559.2020.1805120](https://doi.org/10.1080/17546559.2020.1805120)
-
-Jitske Jasperse, Medieval Women, Material Culture, and Power: Matilda Plantagenet and her Sisters (Leeds: Arc Humanities Press, 2020). Also in Open Access, [https://library.oapen.org/handle/20.500.12657/37333](https://library.oapen.org/handle/20.500.12657/37333)
- 
-Series Editor of [CARMEN Visual and Material Cultures (Arc Humanities Press)](https://www.arc-humanities.org/)
-
-[Here](https://www.youtube.com/watch?v=nV_I96GE1sY) you find a short video about the series
 
 #### Bibliography
 
