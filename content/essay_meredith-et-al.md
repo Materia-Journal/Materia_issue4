@@ -200,9 +200,8 @@ Dr. Andrew E. Hershberger, Professor of Contemporary Art History at Bowling Gree
 
 #### Notes
 
-[^1]: The workshop was held July 10-15, 2022. Our 2021–22 cohort of thirteen participants was the first to be introduced to the program through a one-day virtual workshop conducted on September 18, 2021 before the residential program. The residential component was co-organized by the Yale Institute for the Preservation of Cultural Heritage (IPCH), Yale University Art Gallery (YUAG), and Yale Center for British Art (YCBA), and generously funded by the Kress Foundation.
 
-[^2]: The workshop was held July 10-15, 2022. Our 2021–22 cohort of thirteen participants was the first to be introduced to the program through a one-day virtual workshop conducted on September 18, 2021 before the residential program. The residential component was co-organized by the Yale Institute for the Preservation of Cultural Heritage (IPCH), Yale University Art Gallery (YUAG), and Yale Center for British Art (YCBA).
+[^2]: The workshop was held July 10-15, 2022. Our 2021–22 cohort of thirteen participants was the first to be introduced to the program through a one-day virtual workshop conducted on September 18, 2021 before the residential program. The residential component was co-organized by the Yale Institute for the Preservation of Cultural Heritage (IPCH), Yale University Art Gallery (YUAG), and Yale Center for British Art (YCBA). The workshop was held July 10-15, 2022. Our 2021–22 cohort of thirteen participants was the first to be introduced to the program through a one-day virtual workshop conducted on September 18, 2021 before the residential program. The residential component was co-organized by the Yale Institute for the Preservation of Cultural Heritage (IPCH), Yale University Art Gallery (YUAG), and Yale Center for British Art (YCBA), and generously funded by the Kress Foundation and generously funded by the Kress Foundation.
 
 [^3]: STITAH, Yale University, accessed October 3, 2023, [https://stitah.yale.edu/](https://stitah.yale.edu/).
 
